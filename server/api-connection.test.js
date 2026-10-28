@@ -103,6 +103,7 @@ test('key verification works in the Worker runtime and never follows redirects',
   const source = await readFile(new URL('./api-connection.js', import.meta.url), 'utf8');
   const worker = new Miniflare({
     modules: true,
+    modulesRules: [{type:'ESModule',include:['**/*.js']}],
     scriptPath: fileURLToPath(new URL('./api-connection.js', import.meta.url)),
     compatibilityDate: '2026-05-15',
     bindings: env,

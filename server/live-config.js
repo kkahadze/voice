@@ -1,3 +1,4 @@
+import {teachingPolicy,liveTurnPolicy} from './teaching-policy.js';
 import { russianVoicePrompt, russianVoiceId } from './russian-voice.js';
 // Russian-language teaching instructions, tailored to a B1 learner.
 export const liveConfig = {
@@ -42,7 +43,7 @@ VOICE DESCRIPTION: ${russianVoicePrompt}`,
 
 По умолчанию используй русский язык. Объясняй по-английски, когда ученик просит об этом, переходит на английский за помощью или явно нуждается в английском, чтобы понять. Сохраняй русские примеры в английских объяснениях и затем предлагай мягко вернуться к практике русского.
 
-Возвращай краткий учебный материал, который голосовой ассистент сможет передать ученику: ответ, при необходимости короткое объяснение и, по желанию, следующий вопрос. Избегай длинных лекций, таблиц и лишнего форматирования.
+Возвращай краткий учебный материал, который голосовой ассистент сможет передать ученику: ответ, при необходимости короткое объяснение и один целенаправленный следующий вопрос, если ученик не завершает разговор. Избегай длинных лекций, таблиц и лишнего форматирования.
 
 Не оценивай качество произношения только по текстовой расшифровке. Не выдумывай историю обучения и не утверждай, что прогресс, слова или расписание повторений сохранены, если подключённый инструмент не подтвердил это.`,
       reasoning: { effort: 'medium' },
@@ -74,7 +75,7 @@ Ayuda con ser y estar, tiempos de pasado, subjuntivo, condicional, pronombres, c
 
 Para practicar, crea una pregunta o ejercicio cada vez; ofrece una pista antes de revelar la respuesta. Ajusta las exigencias al perfil, sin inventar avances ni certificar un nivel. No evalúes la pronunciación o velocidad a partir de una transcripción. No afirmes que se guardaron cambios sin confirmación de la aplicación.`;
 export function liveConfigForLanguage(language='ru') {
- if(language==='ru')return liveConfig;
+ if(language==='ru')return {...liveConfig,instructions:liveConfig.instructions+teachingPolicy+liveTurnPolicy,delegation:{...liveConfig.delegation,responses:{...liveConfig.delegation.responses,instructions:liveConfig.delegation.responses.instructions+teachingPolicy}}};
  if(language!=='es')throw Error('Invalid language');
- return {...liveConfig,instructions:spanishInstructions,delegation:{...liveConfig.delegation,responses:{...liveConfig.delegation.responses,instructions:spanishDelegate}}};
+ return {...liveConfig,instructions:spanishInstructions+teachingPolicy+liveTurnPolicy,delegation:{...liveConfig.delegation,responses:{...liveConfig.delegation.responses,instructions:spanishDelegate+teachingPolicy}}};
 }

@@ -1,0 +1,6874 @@
+{
+  "title": "MILLION DOLLAR: BUSINESS",
+  "artist": "MORGENSHTERN",
+  "duration": 1697.297,
+  "songs": [
+    {
+      "id": "mdb-01",
+      "title": "OLALA",
+      "start": 0,
+      "end": 142,
+      "cardCount": 13
+    },
+    {
+      "id": "mdb-02",
+      "title": "ARISTOCRAT",
+      "start": 142,
+      "end": 268.666,
+      "cardCount": 50
+    },
+    {
+      "id": "mdb-03",
+      "title": "HUBLOT",
+      "start": 268.666,
+      "end": 390.342,
+      "cardCount": 37
+    },
+    {
+      "id": "mdb-04",
+      "title": "NOMINALO",
+      "start": 390.342,
+      "end": 520.995,
+      "cardCount": 47
+    },
+    {
+      "id": "mdb-05",
+      "title": "GTA",
+      "start": 520.995,
+      "end": 645.71,
+      "cardCount": 29
+    },
+    {
+      "id": "mdb-06",
+      "title": "СКИТ ОТ @VSBATTLEVIDEO",
+      "start": 645.71,
+      "end": 688.51,
+      "cardCount": 59
+    },
+    {
+      "id": "mdb-07",
+      "title": "ПАПИН ТАНК",
+      "start": 688.51,
+      "end": 813.795,
+      "cardCount": 8
+    },
+    {
+      "id": "mdb-08",
+      "title": "DINERO",
+      "start": 813.795,
+      "end": 972.731,
+      "cardCount": 18
+    },
+    {
+      "id": "mdb-09",
+      "title": "МАНИЯ",
+      "start": 972.731,
+      "end": 1091.746,
+      "cardCount": 37
+    },
+    {
+      "id": "mdb-10",
+      "title": "У МЕНЯ НЕ ВСТАЛ",
+      "start": 1091.746,
+      "end": 1235.833,
+      "cardCount": 28
+    },
+    {
+      "id": "mdb-11",
+      "title": "КОГДА НАС ОТПУСТИТ",
+      "start": 1235.833,
+      "end": 1404.826,
+      "cardCount": 9
+    },
+    {
+      "id": "mdb-12",
+      "title": "PULL UP",
+      "start": 1404.826,
+      "end": 1537.127,
+      "cardCount": 12
+    },
+    {
+      "id": "mdb-13",
+      "title": "Я КОГДА-НИБУДЬ УЙДУ",
+      "start": 1537.127,
+      "end": 1697.297,
+      "cardCount": 19
+    }
+  ],
+  "cards": [
+    {
+      "id": "music-1f6c771febfd",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "Я",
+      "en": "I",
+      "lemma": "я",
+      "type": "word",
+      "usage": "neutral",
+      "start": 59.7,
+      "end": 61.20000001192093,
+      "verification": "two-transcript agreement",
+      "rank": 1,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 59.7,
+          "end": 61.20000001192093
+        },
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 143.24000091552733,
+          "end": 144.05999984741212
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 300.39999998807906,
+          "end": 301.38000001907346
+        },
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 391.1800000190735,
+          "end": 392.03999998569486
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 539.7,
+          "end": 540.819999986887
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 645.71,
+          "end": 646.4200004577636
+        },
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 733.660000038147,
+          "end": 734.9
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1010.9800006866456,
+          "end": 1011.9599994659424
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1119.3999998092652,
+          "end": 1120.3399995803834
+        },
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1479.239999961853,
+          "end": 1480.2199996948243
+        },
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1562.9799999713898,
+          "end": 1564.8000000953675
+        }
+      ]
+    },
+    {
+      "id": "music-82845e33856c",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "богатый",
+      "en": "rich",
+      "lemma": "богатый",
+      "type": "word",
+      "usage": "neutral",
+      "start": 60.50000001192093,
+      "end": 62.26000001430511,
+      "verification": "two-transcript agreement",
+      "rank": 2,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 60.50000001192093,
+          "end": 62.26000001430511
+        }
+      ]
+    },
+    {
+      "id": "music-658dad71388e",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "дай",
+      "en": "give",
+      "lemma": "дать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 63.14000005722046,
+      "end": 65.82000007629395,
+      "verification": "two-transcript agreement",
+      "rank": 3,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 63.14000005722046,
+          "end": 65.82000007629395
+        }
+      ]
+    },
+    {
+      "id": "music-06b384befaba",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "мне",
+      "en": "to me",
+      "lemma": "я",
+      "type": "word",
+      "usage": "neutral",
+      "start": 65.12000007629395,
+      "end": 66.01999988555909,
+      "verification": "two-transcript agreement",
+      "rank": 4,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 65.12000007629395,
+          "end": 66.01999988555909
+        },
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 144.91999931335448,
+          "end": 145.94000091552735
+        },
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1619.7,
+          "end": 1620.7799999952317
+        }
+      ]
+    },
+    {
+      "id": "music-0d765a9eec92",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "домой",
+      "en": "home",
+      "lemma": "домой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 66.2,
+      "end": 68.20000019073487,
+      "verification": "two-transcript agreement",
+      "rank": 5,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 66.2,
+          "end": 68.20000019073487
+        }
+      ]
+    },
+    {
+      "id": "music-6621823bfad3",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "суку",
+      "en": "bitch",
+      "lemma": "сука",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 71.43999977111817,
+      "end": 72.4,
+      "verification": "two-transcript agreement",
+      "rank": 6,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 71.43999977111817,
+          "end": 72.4
+        }
+      ]
+    },
+    {
+      "id": "music-cb6dc4057d1c",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "как будто",
+      "en": "as if",
+      "lemma": "как будто",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 71.9799997329712,
+      "end": 73.00000038146973,
+      "verification": "two-transcript agreement",
+      "rank": 7,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 71.9799997329712,
+          "end": 73.00000038146973
+        }
+      ]
+    },
+    {
+      "id": "music-b6f5cb6dee90",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "гей",
+      "en": "gay man",
+      "lemma": "гей",
+      "type": "word",
+      "usage": "neutral",
+      "start": 72.59999961853028,
+      "end": 73.51999988555909,
+      "verification": "two-transcript agreement",
+      "rank": 8,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 72.59999961853028,
+          "end": 73.51999988555909
+        }
+      ]
+    },
+    {
+      "id": "music-a88351bfcea4",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "только",
+      "en": "only",
+      "lemma": "только",
+      "type": "word",
+      "usage": "neutral",
+      "start": 73.05999965667725,
+      "end": 74.09999980926514,
+      "verification": "two-transcript agreement",
+      "rank": 9,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 73.05999965667725,
+          "end": 74.09999980926514
+        },
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 183.2,
+          "end": 184.28000011444092
+        }
+      ]
+    },
+    {
+      "id": "music-f5c32b80084f",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "могу",
+      "en": "can",
+      "lemma": "мочь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 77.75999946594239,
+      "end": 78.69999923706055,
+      "verification": "two-transcript agreement",
+      "rank": 10,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 77.75999946594239,
+          "end": 78.69999923706055
+        }
+      ]
+    },
+    {
+      "id": "music-e8495c7ee07c",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "кончить",
+      "en": "come (reach orgasm)",
+      "lemma": "кончить",
+      "type": "word",
+      "usage": "informal",
+      "start": 77.99999923706055,
+      "end": 79.13999977111817,
+      "verification": "two-transcript agreement",
+      "rank": 11,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 77.99999923706055,
+          "end": 79.13999977111817
+        }
+      ]
+    },
+    {
+      "id": "music-a11749994f10",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "ты",
+      "en": "you",
+      "lemma": "ты",
+      "type": "word",
+      "usage": "neutral",
+      "start": 78.67999954223633,
+      "end": 79.53999938964844,
+      "verification": "two-transcript agreement",
+      "rank": 12,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 78.67999954223633,
+          "end": 79.53999938964844
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 313.5199996948242,
+          "end": 314.4
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 562.2400009155274,
+          "end": 563.1800006866455
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 671.6799995422364,
+          "end": 672.6799997329712
+        },
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 724.5200001716614,
+          "end": 725.8000000953674
+        },
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 888.4399997711182,
+          "end": 889.3599990844726
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1147.9200002670289,
+          "end": 1148.7599996566773
+        },
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1624.000000190735,
+          "end": 1624.9799999237061
+        }
+      ]
+    },
+    {
+      "id": "music-32d2348dfebf",
+      "songId": "mdb-01",
+      "song": "OLALA",
+      "ru": "помоги",
+      "en": "help",
+      "lemma": "помочь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 78.83999938964844,
+      "end": 80.19999923706055,
+      "verification": "two-transcript agreement",
+      "rank": 13,
+      "occurrences": [
+        {
+          "songId": "mdb-01",
+          "song": "OLALA",
+          "start": 78.83999938964844,
+          "end": 80.19999923706055
+        }
+      ]
+    },
+    {
+      "id": "music-15d1db51686f",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "прошу",
+      "en": "ask",
+      "lemma": "просить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 143.3599998474121,
+      "end": 144.34000053405762,
+      "verification": "two-transcript agreement",
+      "rank": 14,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 143.3599998474121,
+          "end": 144.34000053405762
+        },
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 391.3399999856949,
+          "end": 392.38000001907346
+        }
+      ]
+    },
+    {
+      "id": "music-ae3e9a7156d0",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "вас",
+      "en": "you (formal)",
+      "lemma": "вы",
+      "type": "word",
+      "usage": "neutral",
+      "start": 143.6400005340576,
+      "end": 144.69999923706055,
+      "verification": "two-transcript agreement",
+      "rank": 15,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 143.6400005340576,
+          "end": 144.69999923706055
+        }
+      ]
+    },
+    {
+      "id": "music-06262abbf2fe",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "коль",
+      "en": "if",
+      "lemma": "коль",
+      "type": "word",
+      "usage": "neutral",
+      "start": 144.3200008392334,
+      "end": 145.1199993133545,
+      "verification": "two-transcript agreement",
+      "rank": 16,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 144.3200008392334,
+          "end": 145.1199993133545
+        }
+      ]
+    },
+    {
+      "id": "music-2e2a7ac949ee",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "сосёте",
+      "en": "give a blowjob",
+      "lemma": "сосать",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 144.41999931335448,
+      "end": 145.6199993133545,
+      "verification": "two-transcript agreement",
+      "rank": 17,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 144.41999931335448,
+          "end": 145.6199993133545
+        }
+      ]
+    },
+    {
+      "id": "music-2278a6758deb",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "делайте",
+      "en": "do",
+      "lemma": "делать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 145.72000045776366,
+      "end": 146.44000091552735,
+      "verification": "two-transcript agreement",
+      "rank": 18,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 145.72000045776366,
+          "end": 146.44000091552735
+        }
+      ]
+    },
+    {
+      "id": "music-2e381a43f558",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "это",
+      "en": "this",
+      "lemma": "это",
+      "type": "word",
+      "usage": "neutral",
+      "start": 145.74000091552733,
+      "end": 146.92000045776368,
+      "verification": "two-transcript agreement",
+      "rank": 19,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 145.74000091552733,
+          "end": 146.92000045776368
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 323.9600002288818,
+          "end": 325.0599998474121
+        },
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 393.1000000953674,
+          "end": 393.97999992370603
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 540.9599999904633,
+          "end": 541.939999961853
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 653.7599994659424,
+          "end": 654.6800006866455
+        },
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1381.7999999046326,
+          "end": 1383.1999999523164
+        }
+      ]
+    },
+    {
+      "id": "music-b0142f941a58",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "культурно",
+      "en": "politely",
+      "lemma": "культурно",
+      "type": "word",
+      "usage": "neutral",
+      "start": 146.22000045776366,
+      "end": 147.87999954223633,
+      "verification": "two-transcript agreement",
+      "rank": 20,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 146.22000045776366,
+          "end": 147.87999954223633
+        }
+      ]
+    },
+    {
+      "id": "music-d09b63e5d9a6",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "Не",
+      "en": "not",
+      "lemma": "не",
+      "type": "word",
+      "usage": "neutral",
+      "start": 148.15999908447264,
+      "end": 148.9599994659424,
+      "verification": "two-transcript agreement",
+      "rank": 21,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 148.15999908447264,
+          "end": 148.9599994659424
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 301.44000000953673,
+          "end": 302.6000000476837
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 541.2399999618531,
+          "end": 542.2999999761581
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 670.2399999618531,
+          "end": 671.1200002670288
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1011.2599994659424,
+          "end": 1012.2400001525879
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1117.8400003433228,
+          "end": 1118.780000114441
+        },
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1382.4999999523163,
+          "end": 1383.5800000667573
+        },
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1476.000000190735,
+          "end": 1476.9399999618531
+        },
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1633.8999998092652,
+          "end": 1634.860000038147
+        }
+      ]
+    },
+    {
+      "id": "music-898f777aa92d",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "ночная бабочка",
+      "en": "sex worker",
+      "lemma": "ночная бабочка",
+      "type": "phrase",
+      "usage": "informal",
+      "start": 180.78000004291533,
+      "end": 182.86000003814698,
+      "verification": "two-transcript agreement",
+      "rank": 22,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 180.78000004291533,
+          "end": 182.86000003814698
+        }
+      ]
+    },
+    {
+      "id": "music-2402547c4c61",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "нужен",
+      "en": "needed",
+      "lemma": "нужный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 182.84000010490416,
+      "end": 183.9,
+      "verification": "two-transcript agreement",
+      "rank": 23,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 182.84000010490416,
+          "end": 183.9
+        }
+      ]
+    },
+    {
+      "id": "music-1b2301fc4c62",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "как",
+      "en": "like",
+      "lemma": "как",
+      "type": "word",
+      "usage": "neutral",
+      "start": 184.04000015258788,
+      "end": 184.82000007629395,
+      "verification": "two-transcript agreement",
+      "rank": 24,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 184.04000015258788,
+          "end": 184.82000007629395
+        },
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 452.5800001144409,
+          "end": 453.7199999332428
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 548.4799997329712,
+          "end": 549.4600004196167
+        }
+      ]
+    },
+    {
+      "id": "music-d2edc82cdf42",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "Она",
+      "en": "she",
+      "lemma": "она",
+      "type": "word",
+      "usage": "neutral",
+      "start": 185.29999990463256,
+      "end": 186.70000019073487,
+      "verification": "two-transcript agreement",
+      "rank": 25,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 185.29999990463256,
+          "end": 186.70000019073487
+        },
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 449.7,
+          "end": 451.4599999427795
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1156.9600002288819,
+          "end": 1158.0200008392335
+        }
+      ]
+    },
+    {
+      "id": "music-5767d370d75b",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "ищет",
+      "en": "looks for",
+      "lemma": "искать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 186.00000019073485,
+      "end": 186.99999990463257,
+      "verification": "two-transcript agreement",
+      "rank": 26,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 186.00000019073485,
+          "end": 186.99999990463257
+        }
+      ]
+    },
+    {
+      "id": "music-8151351dbf1d",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "клад",
+      "en": "treasure",
+      "lemma": "клад",
+      "type": "word",
+      "usage": "neutral",
+      "start": 186.29999990463256,
+      "end": 187.2600001335144,
+      "verification": "two-transcript agreement",
+      "rank": 27,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 186.29999990463256,
+          "end": 187.2600001335144
+        }
+      ]
+    },
+    {
+      "id": "music-6f23a171decc",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "на",
+      "en": "on",
+      "lemma": "на",
+      "type": "word",
+      "usage": "neutral",
+      "start": 186.5600001335144,
+      "end": 187.45999994277955,
+      "verification": "two-transcript agreement",
+      "rank": 28,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 186.5600001335144,
+          "end": 187.45999994277955
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 363.2,
+          "end": 364.2399999141693
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 543.7599999427796,
+          "end": 544.8200000762939
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 974.160000038147,
+          "end": 975.5000003814697
+        }
+      ]
+    },
+    {
+      "id": "music-598cabeab3b1",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "моей",
+      "en": "my",
+      "lemma": "мой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 186.75999994277953,
+      "end": 187.78000011444092,
+      "verification": "two-transcript agreement",
+      "rank": 29,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 186.75999994277953,
+          "end": 187.78000011444092
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 327.24000091552733,
+          "end": 328.4
+        }
+      ]
+    },
+    {
+      "id": "music-5c286358f90d",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "карточке",
+      "en": "bank card",
+      "lemma": "карточка",
+      "type": "word",
+      "usage": "neutral",
+      "start": 187.0800001144409,
+      "end": 188.54000034332276,
+      "verification": "two-transcript agreement",
+      "rank": 30,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 187.0800001144409,
+          "end": 188.54000034332276
+        }
+      ]
+    },
+    {
+      "id": "music-21468c68c15c",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "скачет",
+      "en": "bounces",
+      "lemma": "скакать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 188.80000038146972,
+      "end": 189.86000003814698,
+      "verification": "two-transcript agreement",
+      "rank": 31,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 188.80000038146972,
+          "end": 189.86000003814698
+        }
+      ]
+    },
+    {
+      "id": "music-d63a235ed2cc",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "скакалочке",
+      "en": "skipping rope",
+      "lemma": "скакалочка",
+      "type": "word",
+      "usage": "neutral",
+      "start": 189.7600004196167,
+      "end": 191.32000007629395,
+      "verification": "two-transcript agreement",
+      "rank": 32,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 189.7600004196167,
+          "end": 191.32000007629395
+        }
+      ]
+    },
+    {
+      "id": "music-b9b05eb16b94",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "ее",
+      "en": "her",
+      "lemma": "она",
+      "type": "word",
+      "usage": "neutral",
+      "start": 191.55999965667723,
+      "end": 192.55999984741212,
+      "verification": "two-transcript agreement",
+      "rank": 33,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 191.55999965667723,
+          "end": 192.55999984741212
+        },
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 455.3399998664856,
+          "end": 456.51999988555906
+        }
+      ]
+    },
+    {
+      "id": "music-037583ebb5ee",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "заляпал",
+      "en": "splattered all over",
+      "lemma": "заляпать",
+      "type": "word",
+      "usage": "informal",
+      "start": 191.8599998474121,
+      "end": 193.00000038146973,
+      "verification": "two-transcript agreement",
+      "rank": 34,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 191.8599998474121,
+          "end": 193.00000038146973
+        }
+      ]
+    },
+    {
+      "id": "music-c18ee82b96d5",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "в",
+      "en": "in",
+      "lemma": "в",
+      "type": "word",
+      "usage": "neutral",
+      "start": 192.6399995803833,
+      "end": 193.50000038146973,
+      "verification": "two-transcript agreement",
+      "rank": 35,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 192.6399995803833,
+          "end": 193.50000038146973
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 300.6800000190735,
+          "end": 301.439999961853
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 547.5000001907349,
+          "end": 548.6799997329712
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1045.5199996948243,
+          "end": 1046.3799995422364
+        },
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1383.8399998664856,
+          "end": 1384.740000152588
+        }
+      ]
+    },
+    {
+      "id": "music-f14ee1e3c95f",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "волшебной палочкой",
+      "en": "magic wand (penis euphemism)",
+      "lemma": "волшебная палочка",
+      "type": "phrase",
+      "usage": "informal",
+      "start": 195.00000019073485,
+      "end": 196.97999992370606,
+      "verification": "two-transcript agreement",
+      "rank": 36,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 195.00000019073485,
+          "end": 196.97999992370606
+        }
+      ]
+    },
+    {
+      "id": "music-aade0c6375a2",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "Твой",
+      "en": "your",
+      "lemma": "твой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 196.27999992370604,
+      "end": 197.6800006866455,
+      "verification": "two-transcript agreement",
+      "rank": 37,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 196.27999992370604,
+          "end": 197.6800006866455
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 646.1599990844727,
+          "end": 647.0800003051758
+        }
+      ]
+    },
+    {
+      "id": "music-f8ba84e445d0",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "парень",
+      "en": "boyfriend",
+      "lemma": "парень",
+      "type": "word",
+      "usage": "informal",
+      "start": 196.9800006866455,
+      "end": 198.0200008392334,
+      "verification": "two-transcript agreement",
+      "rank": 38,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 196.9800006866455,
+          "end": 198.0200008392334
+        }
+      ]
+    },
+    {
+      "id": "music-1d3256c1f1ce",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "вытрет",
+      "en": "will wipe off",
+      "lemma": "вытереть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 197.83999938964843,
+      "end": 198.66000022888184,
+      "verification": "two-transcript agreement",
+      "rank": 39,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 197.83999938964843,
+          "end": 198.66000022888184
+        }
+      ]
+    },
+    {
+      "id": "music-1d1aa9f8caef",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "он",
+      "en": "he",
+      "lemma": "он",
+      "type": "word",
+      "usage": "neutral",
+      "start": 197.9800006866455,
+      "end": 198.94000091552735,
+      "verification": "two-transcript agreement",
+      "rank": 40,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 197.9800006866455,
+          "end": 198.94000091552735
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1158.9199993133545,
+          "end": 1159.8599990844727
+        }
+      ]
+    },
+    {
+      "id": "music-04c5119f0aad",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "же",
+      "en": "after all",
+      "lemma": "же",
+      "type": "word",
+      "usage": "neutral",
+      "start": 198.24000091552733,
+      "end": 199.0800003051758,
+      "verification": "two-transcript agreement",
+      "rank": 41,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 198.24000091552733,
+          "end": 199.0800003051758
+        }
+      ]
+    },
+    {
+      "id": "music-3a2f9e943ca3",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "тряпочка",
+      "en": "spineless man",
+      "lemma": "тряпочка",
+      "type": "word",
+      "usage": "informal",
+      "start": 198.38000030517577,
+      "end": 199.82000007629395,
+      "verification": "two-transcript agreement",
+      "rank": 42,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 198.38000030517577,
+          "end": 199.82000007629395
+        }
+      ]
+    },
+    {
+      "id": "music-31a93bc30a6a",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "Через",
+      "en": "in (after a period)",
+      "lemma": "через",
+      "type": "word",
+      "usage": "neutral",
+      "start": 201.40000076293944,
+      "end": 202.63999977111817,
+      "verification": "two-transcript agreement",
+      "rank": 43,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 201.40000076293944,
+          "end": 202.63999977111817
+        }
+      ]
+    },
+    {
+      "id": "music-395e7bf2c490",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "год",
+      "en": "year",
+      "lemma": "год",
+      "type": "word",
+      "usage": "neutral",
+      "start": 201.93999977111815,
+      "end": 202.84000053405762,
+      "verification": "two-transcript agreement",
+      "rank": 44,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 201.93999977111815,
+          "end": 202.84000053405762
+        }
+      ]
+    },
+    {
+      "id": "music-68f71c544d37",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "третий",
+      "en": "third",
+      "lemma": "третий",
+      "type": "word",
+      "usage": "neutral",
+      "start": 202.8599998474121,
+      "end": 203.97999992370606,
+      "verification": "two-transcript agreement",
+      "rank": 45,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 202.8599998474121,
+          "end": 203.97999992370606
+        }
+      ]
+    },
+    {
+      "id": "music-5fc00b21c18e",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "анекдот",
+      "en": "joke",
+      "lemma": "анекдот",
+      "type": "word",
+      "usage": "neutral",
+      "start": 205.75999946594237,
+      "end": 207.05999984741212,
+      "verification": "two-transcript agreement",
+      "rank": 46,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 205.75999946594237,
+          "end": 207.05999984741212
+        }
+      ]
+    },
+    {
+      "id": "music-0522278b826f",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "изо",
+      "en": "out of",
+      "lemma": "из",
+      "type": "word",
+      "usage": "neutral",
+      "start": 206.3599998474121,
+      "end": 207.60000076293946,
+      "verification": "two-transcript agreement",
+      "rank": 47,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 206.3599998474121,
+          "end": 207.60000076293946
+        }
+      ]
+    },
+    {
+      "id": "music-643efe38e7d7",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "рта",
+      "en": "mouth",
+      "lemma": "рот",
+      "type": "word",
+      "usage": "neutral",
+      "start": 206.90000076293944,
+      "end": 207.69999923706055,
+      "verification": "two-transcript agreement",
+      "rank": 48,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 206.90000076293944,
+          "end": 207.69999923706055
+        }
+      ]
+    },
+    {
+      "id": "music-1a3a9403cc5b",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "В",
+      "en": "into",
+      "lemma": "в",
+      "type": "word",
+      "usage": "neutral",
+      "start": 206.99999923706054,
+      "end": 207.94000091552735,
+      "verification": "two-transcript agreement",
+      "rank": 49,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 206.99999923706054,
+          "end": 207.94000091552735
+        },
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 745.2,
+          "end": 746.2600006103515
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1013.0600006103516,
+          "end": 1013.9400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-8541977ffb5d",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "другой",
+      "en": "another",
+      "lemma": "другой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 207.24000091552733,
+      "end": 208.2400001525879,
+      "verification": "two-transcript agreement",
+      "rank": 50,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 207.24000091552733,
+          "end": 208.2400001525879
+        }
+      ]
+    },
+    {
+      "id": "music-7bd7c6c9b9ad",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "рот",
+      "en": "mouth",
+      "lemma": "рот",
+      "type": "word",
+      "usage": "neutral",
+      "start": 207.54000015258788,
+      "end": 208.5800003051758,
+      "verification": "two-transcript agreement",
+      "rank": 51,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 207.54000015258788,
+          "end": 208.5800003051758
+        }
+      ]
+    },
+    {
+      "id": "music-70321d87ffc5",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "меня",
+      "en": "me",
+      "lemma": "я",
+      "type": "word",
+      "usage": "neutral",
+      "start": 208.54000015258788,
+      "end": 209.60000076293946,
+      "verification": "two-transcript agreement",
+      "rank": 52,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 208.54000015258788,
+          "end": 209.60000076293946
+        },
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 313.7,
+          "end": 314.6600002288818
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 570.2600000023842,
+          "end": 571.2199999928474
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 679.2799999237061,
+          "end": 680.1600002288818
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1034.3599998474122,
+          "end": 1035.2599996566773
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1117.3999998092652,
+          "end": 1118.5400003433228
+        }
+      ]
+    },
+    {
+      "id": "music-433e6109bdf6",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "говорят",
+      "en": "they say",
+      "lemma": "говорить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 211.11999995708464,
+      "end": 212.26000001430512,
+      "verification": "two-transcript agreement",
+      "rank": 53,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 211.11999995708464,
+          "end": 212.26000001430512
+        }
+      ]
+    },
+    {
+      "id": "music-d3be709adce4",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "сделал",
+      "en": "did",
+      "lemma": "сделать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 211.77999992370604,
+      "end": 212.80000009536744,
+      "verification": "two-transcript agreement",
+      "rank": 54,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 211.77999992370604,
+          "end": 212.80000009536744
+        },
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 904.1800000190735,
+          "end": 905.2800001144409
+        }
+      ]
+    },
+    {
+      "id": "music-a53ac5c1234f",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "все",
+      "en": "everything",
+      "lemma": "всё",
+      "type": "word",
+      "usage": "neutral",
+      "start": 212.10000009536742,
+      "end": 213.14000000953675,
+      "verification": "two-transcript agreement",
+      "rank": 55,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 212.10000009536742,
+          "end": 213.14000000953675
+        },
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1384.5200001716614,
+          "end": 1385.6199997901917
+        }
+      ]
+    },
+    {
+      "id": "music-3e8dc6faad97",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "стану",
+      "en": "will become",
+      "lemma": "стать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 215.33999986648558,
+      "end": 216.32000007629395,
+      "verification": "two-transcript agreement",
+      "rank": 56,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 215.33999986648558,
+          "end": 216.32000007629395
+        }
+      ]
+    },
+    {
+      "id": "music-1ae2e6f81072",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "у",
+      "en": "with (indicating possession)",
+      "lemma": "у",
+      "type": "word",
+      "usage": "neutral",
+      "start": 219.62000007629393,
+      "end": 220.47999992370606,
+      "verification": "two-transcript agreement",
+      "rank": 57,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 219.62000007629393,
+          "end": 220.47999992370606
+        }
+      ]
+    },
+    {
+      "id": "music-b5dcbebdeb81",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "легенда",
+      "en": "legend",
+      "lemma": "легенда",
+      "type": "word",
+      "usage": "neutral",
+      "start": 231.0799991607666,
+      "end": 232.2799991607666,
+      "verification": "two-transcript agreement",
+      "rank": 58,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 231.0799991607666,
+          "end": 232.2799991607666
+        }
+      ]
+    },
+    {
+      "id": "music-98dd4f156250",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "можно",
+      "en": "can",
+      "lemma": "можно",
+      "type": "word",
+      "usage": "neutral",
+      "start": 231.5799991607666,
+      "end": 232.60000076293946,
+      "verification": "two-transcript agreement",
+      "rank": 59,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 231.5799991607666,
+          "end": 232.60000076293946
+        }
+      ]
+    },
+    {
+      "id": "music-f0958db5abca",
+      "songId": "mdb-02",
+      "song": "ARISTOCRAT",
+      "ru": "умирать",
+      "en": "die",
+      "lemma": "умирать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 231.90000076293944,
+      "end": 233.1800006866455,
+      "verification": "two-transcript agreement",
+      "rank": 60,
+      "occurrences": [
+        {
+          "songId": "mdb-02",
+          "song": "ARISTOCRAT",
+          "start": 231.90000076293944,
+          "end": 233.1800006866455
+        }
+      ]
+    },
+    {
+      "id": "music-25afa16f9f84",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "жизни",
+      "en": "life",
+      "lemma": "жизнь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 300.739999961853,
+      "end": 301.69999995231626,
+      "verification": "two-transcript agreement",
+      "rank": 61,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 300.739999961853,
+          "end": 301.69999995231626
+        }
+      ]
+    },
+    {
+      "id": "music-f6fbe8d81383",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "только",
+      "en": "ever (for emphasis)",
+      "lemma": "только",
+      "type": "word",
+      "usage": "neutral",
+      "start": 300.9999999523163,
+      "end": 302.1400000095367,
+      "verification": "two-transcript agreement",
+      "rank": 62,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 300.9999999523163,
+          "end": 302.1400000095367
+        }
+      ]
+    },
+    {
+      "id": "music-a89a3b51e342",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "вытворял",
+      "en": "got up to",
+      "lemma": "вытворять",
+      "type": "word",
+      "usage": "informal",
+      "start": 301.9000000476837,
+      "end": 303.2800001144409,
+      "verification": "two-transcript agreement",
+      "rank": 63,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 301.9000000476837,
+          "end": 303.2800001144409
+        }
+      ]
+    },
+    {
+      "id": "music-9dc0d5713c77",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "но",
+      "en": "but",
+      "lemma": "но",
+      "type": "word",
+      "usage": "neutral",
+      "start": 302.75999994277953,
+      "end": 304.36000003814695,
+      "verification": "two-transcript agreement",
+      "rank": 64,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 302.75999994277953,
+          "end": 304.36000003814695
+        },
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 457.29999990463256,
+          "end": 458.2800001144409
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 540.500000011921,
+          "end": 541.4800000429153
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 683.3599998474122,
+          "end": 684.1399997711181
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 982.9999992370606,
+          "end": 983.8599990844726
+        }
+      ]
+    },
+    {
+      "id": "music-405d2aced29b",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "улики",
+      "en": "evidence",
+      "lemma": "улика",
+      "type": "word",
+      "usage": "neutral",
+      "start": 303.66000003814696,
+      "end": 304.84000005722044,
+      "verification": "two-transcript agreement",
+      "rank": 65,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 303.66000003814696,
+          "end": 304.84000005722044
+        }
+      ]
+    },
+    {
+      "id": "music-7ce64846b241",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "найдет",
+      "en": "will find",
+      "lemma": "найти",
+      "type": "word",
+      "usage": "neutral",
+      "start": 304.43999977111815,
+      "end": 305.5999998092651,
+      "verification": "two-transcript agreement",
+      "rank": 66,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 304.43999977111815,
+          "end": 305.5999998092651
+        }
+      ]
+    },
+    {
+      "id": "music-95b234c6b76a",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "Федерал",
+      "en": "federal agent",
+      "lemma": "федерал",
+      "type": "word",
+      "usage": "informal",
+      "start": 304.8999998092651,
+      "end": 306.4,
+      "verification": "two-transcript agreement",
+      "rank": 67,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 304.8999998092651,
+          "end": 306.4
+        }
+      ]
+    },
+    {
+      "id": "music-a3127a570812",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "походу",
+      "en": "apparently",
+      "lemma": "походу",
+      "type": "word",
+      "usage": "slang",
+      "start": 310.50000019073485,
+      "end": 311.6200002670288,
+      "verification": "two-transcript agreement",
+      "rank": 68,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 310.50000019073485,
+          "end": 311.6200002670288
+        }
+      ]
+    },
+    {
+      "id": "music-ee592486bb23",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "там",
+      "en": "there",
+      "lemma": "там",
+      "type": "word",
+      "usage": "neutral",
+      "start": 310.9200002670288,
+      "end": 311.9600004196167,
+      "verification": "two-transcript agreement",
+      "rank": 69,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 310.9200002670288,
+          "end": 311.9600004196167
+        },
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 564.3200008392334,
+          "end": 565.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-1ba563c3aa75",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "криминал",
+      "en": "criminal activity",
+      "lemma": "криминал",
+      "type": "word",
+      "usage": "neutral",
+      "start": 311.2600004196167,
+      "end": 312.9,
+      "verification": "two-transcript agreement",
+      "rank": 70,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 311.2600004196167,
+          "end": 312.9
+        }
+      ]
+    },
+    {
+      "id": "music-54db504b5b80",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "кустах",
+      "en": "bushes",
+      "lemma": "куст",
+      "type": "word",
+      "usage": "neutral",
+      "start": 318.09999961853026,
+      "end": 319.10000076293943,
+      "verification": "two-transcript agreement",
+      "rank": 71,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 318.09999961853026,
+          "end": 319.10000076293943
+        }
+      ]
+    },
+    {
+      "id": "music-2ba73f78cb8f",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "Если",
+      "en": "if",
+      "lemma": "если",
+      "type": "word",
+      "usage": "neutral",
+      "start": 319.2,
+      "end": 320.1800006866455,
+      "verification": "two-transcript agreement",
+      "rank": 72,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 319.2,
+          "end": 320.1800006866455
+        }
+      ]
+    },
+    {
+      "id": "music-1593f065fce4",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "Папа",
+      "en": "daddy",
+      "lemma": "папа",
+      "type": "word",
+      "usage": "informal",
+      "start": 322.5400001525879,
+      "end": 323.47999992370603,
+      "verification": "two-transcript agreement",
+      "rank": 73,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 322.5400001525879,
+          "end": 323.47999992370603
+        }
+      ]
+    },
+    {
+      "id": "music-1738626aca4b",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "в",
+      "en": "to",
+      "lemma": "в",
+      "type": "word",
+      "usage": "neutral",
+      "start": 323.09999961853026,
+      "end": 324.0399993896484,
+      "verification": "two-transcript agreement",
+      "rank": 74,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 323.09999961853026,
+          "end": 324.0399993896484
+        }
+      ]
+    },
+    {
+      "id": "music-39288e04fb14",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "ресторан",
+      "en": "restaurant",
+      "lemma": "ресторан",
+      "type": "word",
+      "usage": "neutral",
+      "start": 323.3399993896484,
+      "end": 324.61999931335447,
+      "verification": "two-transcript agreement",
+      "rank": 75,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 323.3399993896484,
+          "end": 324.61999931335447
+        }
+      ]
+    },
+    {
+      "id": "music-240355c6f609",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "кайф",
+      "en": "a real pleasure",
+      "lemma": "кайф",
+      "type": "word",
+      "usage": "slang",
+      "start": 324.3599998474121,
+      "end": 325.5000003814697,
+      "verification": "two-transcript agreement",
+      "rank": 76,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 324.3599998474121,
+          "end": 325.5000003814697
+        }
+      ]
+    },
+    {
+      "id": "music-477fb0b40df4",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "Деньги",
+      "en": "money",
+      "lemma": "деньги",
+      "type": "word",
+      "usage": "neutral",
+      "start": 325.15999908447264,
+      "end": 326.4400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 77,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 325.15999908447264,
+          "end": 326.4400009155273
+        },
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1621.2599999427796,
+          "end": 1621.9800000429154
+        }
+      ]
+    },
+    {
+      "id": "music-9500538cbe6b",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "утомили",
+      "en": "tired out",
+      "lemma": "утомить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 326.09999961853026,
+      "end": 327.3400005340576,
+      "verification": "two-transcript agreement",
+      "rank": 78,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 326.09999961853026,
+          "end": 327.3400005340576
+        }
+      ]
+    },
+    {
+      "id": "music-f949ace41521",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "руке",
+      "en": "wrist",
+      "lemma": "рука",
+      "type": "word",
+      "usage": "neutral",
+      "start": 363.5399999141693,
+      "end": 364.70000019073484,
+      "verification": "two-transcript agreement",
+      "rank": 79,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 363.5399999141693,
+          "end": 364.70000019073484
+        }
+      ]
+    },
+    {
+      "id": "music-b01de7992f26",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "На уме",
+      "en": "on one's mind",
+      "lemma": "на уме",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 364.48000020980834,
+      "end": 366.3000000953674,
+      "verification": "two-transcript agreement",
+      "rank": 80,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 364.48000020980834,
+          "end": 366.3000000953674
+        }
+      ]
+    },
+    {
+      "id": "music-aeab629d59bb",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "уме",
+      "en": "mind",
+      "lemma": "ум",
+      "type": "word",
+      "usage": "neutral",
+      "start": 365.29999990463256,
+      "end": 366.3000000953674,
+      "verification": "two-transcript agreement",
+      "rank": 81,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 365.29999990463256,
+          "end": 366.3000000953674
+        }
+      ]
+    },
+    {
+      "id": "music-3b03b1a93a27",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "бабло",
+      "en": "cash",
+      "lemma": "бабло",
+      "type": "word",
+      "usage": "slang",
+      "start": 365.6000000953674,
+      "end": 366.939999961853,
+      "verification": "two-transcript agreement",
+      "rank": 82,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 365.6000000953674,
+          "end": 366.939999961853
+        }
+      ]
+    },
+    {
+      "id": "music-8354f3ac6e9d",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "На душе",
+      "en": "in one's heart",
+      "lemma": "на душе",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 366.239999961853,
+      "end": 367.9,
+      "verification": "two-transcript agreement",
+      "rank": 83,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 366.239999961853,
+          "end": 367.9
+        }
+      ]
+    },
+    {
+      "id": "music-aaf66a5896c4",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "душе",
+      "en": "soul",
+      "lemma": "душа",
+      "type": "word",
+      "usage": "neutral",
+      "start": 366.8799998283386,
+      "end": 367.9,
+      "verification": "two-transcript agreement",
+      "rank": 84,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 366.8799998283386,
+          "end": 367.9
+        }
+      ]
+    },
+    {
+      "id": "music-396644492c9e",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "тепло",
+      "en": "warm",
+      "lemma": "тепло",
+      "type": "word",
+      "usage": "neutral",
+      "start": 367.2,
+      "end": 368.47999992370603,
+      "verification": "two-transcript agreement",
+      "rank": 85,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 367.2,
+          "end": 368.47999992370603
+        }
+      ]
+    },
+    {
+      "id": "music-6276bbcb5336",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "Снега",
+      "en": "snow",
+      "lemma": "снег",
+      "type": "word",
+      "usage": "neutral",
+      "start": 369.72000045776366,
+      "end": 370.9,
+      "verification": "two-transcript agreement",
+      "rank": 86,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 369.72000045776366,
+          "end": 370.9
+        }
+      ]
+    },
+    {
+      "id": "music-b7340f850d0c",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "Нарисуй",
+      "en": "draw",
+      "lemma": "нарисовать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 370.9799997329712,
+      "end": 372.63999977111814,
+      "verification": "two-transcript agreement",
+      "rank": 87,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 370.9799997329712,
+          "end": 372.63999977111814
+        }
+      ]
+    },
+    {
+      "id": "music-31a2a2843eaa",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "полос",
+      "en": "lines",
+      "lemma": "полоса",
+      "type": "word",
+      "usage": "neutral",
+      "start": 371.93999977111815,
+      "end": 373.439999961853,
+      "verification": "two-transcript agreement",
+      "rank": 88,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 371.93999977111815,
+          "end": 373.439999961853
+        }
+      ]
+    },
+    {
+      "id": "music-110f0400368d",
+      "songId": "mdb-03",
+      "song": "HUBLOT",
+      "ru": "Девоньки",
+      "en": "girls",
+      "lemma": "девонька",
+      "type": "word",
+      "usage": "informal",
+      "start": 372.739999961853,
+      "end": 374.2199996948242,
+      "verification": "two-transcript agreement",
+      "rank": 89,
+      "occurrences": [
+        {
+          "songId": "mdb-03",
+          "song": "HUBLOT",
+          "start": 372.739999961853,
+          "end": 374.2199996948242
+        }
+      ]
+    },
+    {
+      "id": "music-bed19ff21476",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "прошу прощения",
+      "en": "excuse me",
+      "lemma": "просить прощения",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 391.3399999856949,
+      "end": 392.99999990463255,
+      "verification": "two-transcript agreement",
+      "rank": 90,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 391.3399999856949,
+          "end": 392.99999990463255
+        }
+      ]
+    },
+    {
+      "id": "music-043dc8a7590c",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "прощения",
+      "en": "forgiveness",
+      "lemma": "прощение",
+      "type": "word",
+      "usage": "neutral",
+      "start": 391.6800000190735,
+      "end": 392.99999990463255,
+      "verification": "two-transcript agreement",
+      "rank": 91,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 391.6800000190735,
+          "end": 392.99999990463255
+        }
+      ]
+    },
+    {
+      "id": "music-b07ed6c8d597",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "а",
+      "en": "and",
+      "lemma": "а",
+      "type": "word",
+      "usage": "neutral",
+      "start": 392.9200000286102,
+      "end": 393.8000000953674,
+      "verification": "two-transcript agreement",
+      "rank": 92,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 392.9200000286102,
+          "end": 393.8000000953674
+        }
+      ]
+    },
+    {
+      "id": "music-8fddd8f3c42c",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "говори",
+      "en": "tell me",
+      "lemma": "говорить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 394.8599998474121,
+      "end": 396.34000005722044,
+      "verification": "two-transcript agreement",
+      "rank": 93,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 394.8599998474121,
+          "end": 396.34000005722044
+        }
+      ]
+    },
+    {
+      "id": "music-820a96827935",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "бы",
+      "en": "would",
+      "lemma": "бы",
+      "type": "word",
+      "usage": "neutral",
+      "start": 395.8999998092651,
+      "end": 396.9599999427795,
+      "verification": "two-transcript agreement",
+      "rank": 94,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 395.8999998092651,
+          "end": 396.9599999427795
+        }
+      ]
+    },
+    {
+      "id": "music-18364e405f6b",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "хотел",
+      "en": "would like",
+      "lemma": "хотеть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 396.25999994277953,
+      "end": 396.99999990463255,
+      "verification": "two-transcript agreement",
+      "rank": 95,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 396.25999994277953,
+          "end": 396.99999990463255
+        }
+      ]
+    },
+    {
+      "id": "music-2a7d2581f0e3",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "у",
+      "en": "from",
+      "lemma": "у",
+      "type": "word",
+      "usage": "neutral",
+      "start": 396.29999990463256,
+      "end": 397.72000017166135,
+      "verification": "two-transcript agreement",
+      "rank": 96,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 396.29999990463256,
+          "end": 397.72000017166135
+        }
+      ]
+    },
+    {
+      "id": "music-156feb722c56",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "заказать",
+      "en": "book",
+      "lemma": "заказать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 397.02000017166137,
+      "end": 397.9199999809265,
+      "verification": "two-transcript agreement",
+      "rank": 97,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 397.02000017166137,
+          "end": 397.9199999809265
+        }
+      ]
+    },
+    {
+      "id": "music-0aa6dd37bfe8",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "корпоративный",
+      "en": "corporate",
+      "lemma": "корпоративный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 397.2199999809265,
+      "end": 399.01999988555906,
+      "verification": "two-transcript agreement",
+      "rank": 98,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 397.2199999809265,
+          "end": 399.01999988555906
+        }
+      ]
+    },
+    {
+      "id": "music-9ab7a690441c",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "концерт",
+      "en": "concert",
+      "lemma": "концерт",
+      "type": "word",
+      "usage": "neutral",
+      "start": 398.31999988555907,
+      "end": 399.3799995422363,
+      "verification": "two-transcript agreement",
+      "rank": 99,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 398.31999988555907,
+          "end": 399.3799995422363
+        }
+      ]
+    },
+    {
+      "id": "music-045d20a26609",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "Сколько",
+      "en": "how much",
+      "lemma": "сколько",
+      "type": "word",
+      "usage": "neutral",
+      "start": 399.0800001144409,
+      "end": 399.8399995803833,
+      "verification": "two-transcript agreement",
+      "rank": 100,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 399.0800001144409,
+          "end": 399.8399995803833
+        }
+      ]
+    },
+    {
+      "id": "music-4246879d3b8e",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "миллион",
+      "en": "a million",
+      "lemma": "миллион",
+      "type": "word",
+      "usage": "neutral",
+      "start": 400.5199996948242,
+      "end": 401.74000015258787,
+      "verification": "two-transcript agreement",
+      "rank": 101,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 400.5199996948242,
+          "end": 401.74000015258787
+        }
+      ]
+    },
+    {
+      "id": "music-5cae1a06cc44",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "рублей",
+      "en": "rubles",
+      "lemma": "рубль",
+      "type": "word",
+      "usage": "neutral",
+      "start": 401.0400001525879,
+      "end": 402.04000034332273,
+      "verification": "two-transcript agreement",
+      "rank": 102,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 401.0400001525879,
+          "end": 402.04000034332273
+        }
+      ]
+    },
+    {
+      "id": "music-067ba10ec2c7",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "найду",
+      "en": "will find",
+      "lemma": "найти",
+      "type": "word",
+      "usage": "neutral",
+      "start": 401.34000034332274,
+      "end": 402.4600004196167,
+      "verification": "two-transcript agreement",
+      "rank": 103,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 401.34000034332274,
+          "end": 402.4600004196167
+        }
+      ]
+    },
+    {
+      "id": "music-0e6e63843d7e",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "чё",
+      "en": "what",
+      "lemma": "что",
+      "type": "word",
+      "usage": "informal",
+      "start": 402.38000030517577,
+      "end": 403.2199996948242,
+      "verification": "two-transcript agreement",
+      "rank": 104,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 402.38000030517577,
+          "end": 403.2199996948242
+        },
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1621.9599999904633,
+          "end": 1623.1799999713899
+        }
+      ]
+    },
+    {
+      "id": "music-627839350b20",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "со",
+      "en": "with",
+      "lemma": "с",
+      "type": "word",
+      "usage": "neutral",
+      "start": 450.75999994277953,
+      "end": 451.84000005722044,
+      "verification": "two-transcript agreement",
+      "rank": 105,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 450.75999994277953,
+          "end": 451.84000005722044
+        }
+      ]
+    },
+    {
+      "id": "music-4333753b2547",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "мной",
+      "en": "me",
+      "lemma": "я",
+      "type": "word",
+      "usage": "neutral",
+      "start": 451.14000005722045,
+      "end": 451.9599999427795,
+      "verification": "two-transcript agreement",
+      "rank": 106,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 451.14000005722045,
+          "end": 451.9599999427795
+        }
+      ]
+    },
+    {
+      "id": "music-66cea2f1cde7",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "часа",
+      "en": "hours",
+      "lemma": "час",
+      "type": "word",
+      "usage": "neutral",
+      "start": 452.27999992370604,
+      "end": 453.2800001144409,
+      "verification": "two-transcript agreement",
+      "rank": 107,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 452.27999992370604,
+          "end": 453.2800001144409
+        }
+      ]
+    },
+    {
+      "id": "music-73c23e8cbc7d",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "говорила",
+      "en": "said",
+      "lemma": "говорить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 454.2199999809265,
+      "end": 455.70000019073484,
+      "verification": "two-transcript agreement",
+      "rank": 108,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 454.2199999809265,
+          "end": 455.70000019073484
+        }
+      ]
+    },
+    {
+      "id": "music-8eec7f91e30e",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "пацан",
+      "en": "boyfriend",
+      "lemma": "пацан",
+      "type": "word",
+      "usage": "slang",
+      "start": 455.81999988555907,
+      "end": 457.0599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 109,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 455.81999988555907,
+          "end": 457.0599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-eb693ccc5031",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "так",
+      "en": "so",
+      "lemma": "так",
+      "type": "word",
+      "usage": "neutral",
+      "start": 456.3599998474121,
+      "end": 457.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 110,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 456.3599998474121,
+          "end": 457.5599998474121
+        },
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1490.8800003051758,
+          "end": 1491.8799995422364
+        }
+      ]
+    },
+    {
+      "id": "music-9eab5bf79291",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "крут",
+      "en": "cool",
+      "lemma": "крутой",
+      "type": "word",
+      "usage": "slang",
+      "start": 456.8599998474121,
+      "end": 457.99999990463255,
+      "verification": "two-transcript agreement",
+      "rank": 111,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 456.8599998474121,
+          "end": 457.99999990463255
+        }
+      ]
+    },
+    {
+      "id": "music-9d59cc2dbf49",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "потом",
+      "en": "then",
+      "lemma": "потом",
+      "type": "word",
+      "usage": "neutral",
+      "start": 457.5800001144409,
+      "end": 458.74000015258787,
+      "verification": "two-transcript agreement",
+      "rank": 112,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 457.5800001144409,
+          "end": 458.74000015258787
+        }
+      ]
+    },
+    {
+      "id": "music-58337d286156",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "сосала",
+      "en": "sucked his dick",
+      "lemma": "сосать",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 458.0400001525879,
+      "end": 459.4,
+      "verification": "two-transcript agreement",
+      "rank": 113,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 458.0400001525879,
+          "end": 459.4
+        }
+      ]
+    },
+    {
+      "id": "music-05d8793f7824",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "некогда",
+      "en": "there's no time",
+      "lemma": "некогда",
+      "type": "word",
+      "usage": "neutral",
+      "start": 459.22000045776366,
+      "end": 460.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 114,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 459.22000045776366,
+          "end": 460.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-65b314ac9cf2",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "вдохнуть",
+      "en": "breathe in",
+      "lemma": "вдохнуть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 459.8599998474121,
+      "end": 461.439999961853,
+      "verification": "two-transcript agreement",
+      "rank": 115,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 459.8599998474121,
+          "end": 461.439999961853
+        }
+      ]
+    },
+    {
+      "id": "music-6e136081e222",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "всегда",
+      "en": "always",
+      "lemma": "всегда",
+      "type": "word",
+      "usage": "neutral",
+      "start": 462.1399995803833,
+      "end": 463.2599996566772,
+      "verification": "two-transcript agreement",
+      "rank": 116,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 462.1399995803833,
+          "end": 463.2599996566772
+        }
+      ]
+    },
+    {
+      "id": "music-72c380ca16e4",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "младенец",
+      "en": "infant",
+      "lemma": "младенец",
+      "type": "word",
+      "usage": "neutral",
+      "start": 463.3599998474121,
+      "end": 464.70000019073484,
+      "verification": "two-transcript agreement",
+      "rank": 117,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 463.3599998474121,
+          "end": 464.70000019073484
+        }
+      ]
+    },
+    {
+      "id": "music-5ffa52de7aaa",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "А",
+      "en": "whereas",
+      "lemma": "а",
+      "type": "word",
+      "usage": "neutral",
+      "start": 464.00000019073485,
+      "end": 465.04000034332273,
+      "verification": "two-transcript agreement",
+      "rank": 118,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 464.00000019073485,
+          "end": 465.04000034332273
+        }
+      ]
+    },
+    {
+      "id": "music-af980575aa64",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "будто",
+      "en": "as if",
+      "lemma": "будто",
+      "type": "word",
+      "usage": "neutral",
+      "start": 464.88000030517577,
+      "end": 465.97999992370603,
+      "verification": "two-transcript agreement",
+      "rank": 119,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 464.88000030517577,
+          "end": 465.97999992370603
+        }
+      ]
+    },
+    {
+      "id": "music-bd194350950d",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "повар",
+      "en": "cook",
+      "lemma": "повар",
+      "type": "word",
+      "usage": "neutral",
+      "start": 465.27999992370604,
+      "end": 466.5399993896484,
+      "verification": "two-transcript agreement",
+      "rank": 120,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 465.27999992370604,
+          "end": 466.5399993896484
+        }
+      ]
+    },
+    {
+      "id": "music-cd1915b9d540",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "плоская",
+      "en": "flat",
+      "lemma": "плоский",
+      "type": "word",
+      "usage": "neutral",
+      "start": 466.22000045776366,
+      "end": 467.45999946594236,
+      "verification": "two-transcript agreement",
+      "rank": 121,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 466.22000045776366,
+          "end": 467.45999946594236
+        }
+      ]
+    },
+    {
+      "id": "music-0c89fc930865",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "стою",
+      "en": "cost",
+      "lemma": "стоить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 468.0400001525879,
+      "end": 469.10000076293943,
+      "verification": "two-transcript agreement",
+      "rank": 122,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 468.0400001525879,
+          "end": 469.10000076293943
+        }
+      ]
+    },
+    {
+      "id": "music-68af6a11202b",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "очень",
+      "en": "very",
+      "lemma": "очень",
+      "type": "word",
+      "usage": "neutral",
+      "start": 468.40000076293944,
+      "end": 469.6600002288818,
+      "verification": "two-transcript agreement",
+      "rank": 123,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 468.40000076293944,
+          "end": 469.6600002288818
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 666.6800000190735,
+          "end": 667.8200000762939
+        }
+      ]
+    },
+    {
+      "id": "music-1101544fdd23",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "много",
+      "en": "a lot",
+      "lemma": "много",
+      "type": "word",
+      "usage": "neutral",
+      "start": 468.9600002288818,
+      "end": 470.0000003814697,
+      "verification": "two-transcript agreement",
+      "rank": 124,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 468.9600002288818,
+          "end": 470.0000003814697
+        }
+      ]
+    },
+    {
+      "id": "music-f9f2603f9c7b",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "своём",
+      "en": "my own",
+      "lemma": "свой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 469.56000061035155,
+      "end": 470.6800006866455,
+      "verification": "two-transcript agreement",
+      "rank": 125,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 469.56000061035155,
+          "end": 470.6800006866455
+        }
+      ]
+    },
+    {
+      "id": "music-734a63b7fcf8",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "стою",
+      "en": "stand",
+      "lemma": "стоять",
+      "type": "word",
+      "usage": "neutral",
+      "start": 469.9800006866455,
+      "end": 471.10000076293943,
+      "verification": "two-transcript agreement",
+      "rank": 126,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 469.9800006866455,
+          "end": 471.10000076293943
+        }
+      ]
+    },
+    {
+      "id": "music-f9d050861085",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "надо",
+      "en": "need",
+      "lemma": "надо",
+      "type": "word",
+      "usage": "neutral",
+      "start": 471.5199996948242,
+      "end": 472.6999992370605,
+      "verification": "two-transcript agreement",
+      "rank": 127,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 471.5199996948242,
+          "end": 472.6999992370605
+        }
+      ]
+    },
+    {
+      "id": "music-5c7afba5642a",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "больше",
+      "en": "more",
+      "lemma": "много",
+      "type": "word",
+      "usage": "neutral",
+      "start": 472.40000076293944,
+      "end": 473.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 128,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 472.40000076293944,
+          "end": 473.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-f2a1e6de27c5",
+      "songId": "mdb-04",
+      "song": "NOMINALO",
+      "ru": "денег",
+      "en": "money",
+      "lemma": "деньги",
+      "type": "word",
+      "usage": "neutral",
+      "start": 472.8599998474121,
+      "end": 474.0200008392334,
+      "verification": "two-transcript agreement",
+      "rank": 129,
+      "occurrences": [
+        {
+          "songId": "mdb-04",
+          "song": "NOMINALO",
+          "start": 472.8599998474121,
+          "end": 474.0200008392334
+        }
+      ]
+    },
+    {
+      "id": "music-b9facfcd89cd",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "пушек",
+      "en": "guns",
+      "lemma": "пушка",
+      "type": "word",
+      "usage": "slang",
+      "start": 543.2399999618531,
+      "end": 544.4599999427795,
+      "verification": "two-transcript agreement",
+      "rank": 130,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 543.2399999618531,
+          "end": 544.4599999427795
+        }
+      ]
+    },
+    {
+      "id": "music-00dbeebe60f6",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "штанах",
+      "en": "pants",
+      "lemma": "штаны",
+      "type": "word",
+      "usage": "neutral",
+      "start": 544.120000076294,
+      "end": 545.439999961853,
+      "verification": "two-transcript agreement",
+      "rank": 131,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 544.120000076294,
+          "end": 545.439999961853
+        }
+      ]
+    },
+    {
+      "id": "music-42e4ff3e6396",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "игре",
+      "en": "game",
+      "lemma": "игра",
+      "type": "word",
+      "usage": "neutral",
+      "start": 547.9799997329712,
+      "end": 548.860000038147,
+      "verification": "two-transcript agreement",
+      "rank": 132,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 547.9799997329712,
+          "end": 548.860000038147
+        }
+      ]
+    },
+    {
+      "id": "music-2a607e878760",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "прям",
+      "en": "just",
+      "lemma": "прямо",
+      "type": "word",
+      "usage": "informal",
+      "start": 548.160000038147,
+      "end": 549.1799997329712,
+      "verification": "two-transcript agreement",
+      "rank": 133,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 548.160000038147,
+          "end": 549.1799997329712
+        }
+      ]
+    },
+    {
+      "id": "music-241774092aeb",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "Цепь",
+      "en": "chain necklace",
+      "lemma": "цепь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 551.660000038147,
+      "end": 553.0000003814697,
+      "verification": "two-transcript agreement",
+      "rank": 134,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 551.660000038147,
+          "end": 553.0000003814697
+        }
+      ]
+    },
+    {
+      "id": "music-16bb05b0141a",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "мы",
+      "en": "we",
+      "lemma": "мы",
+      "type": "word",
+      "usage": "neutral",
+      "start": 554.5999996185303,
+      "end": 555.6200002670288,
+      "verification": "two-transcript agreement",
+      "rank": 135,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 554.5999996185303,
+          "end": 555.6200002670288
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 982.0199996948243,
+          "end": 982.9200004577636
+        }
+      ]
+    },
+    {
+      "id": "music-a4af80ee6d89",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "Забрать",
+      "en": "take away",
+      "lemma": "забрать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 556.5199996948243,
+      "end": 557.9400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 136,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 556.5199996948243,
+          "end": 557.9400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-6be1b2e9f7a2",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "всех",
+      "en": "all",
+      "lemma": "весь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 557.2400009155274,
+      "end": 558.2799991607666,
+      "verification": "two-transcript agreement",
+      "rank": 137,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 557.2400009155274,
+          "end": 558.2799991607666
+        }
+      ]
+    },
+    {
+      "id": "music-f65ad4ecdb0c",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "их",
+      "en": "their",
+      "lemma": "их",
+      "type": "word",
+      "usage": "neutral",
+      "start": 557.5799991607666,
+      "end": 558.5399993896484,
+      "verification": "two-transcript agreement",
+      "rank": 138,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 557.5799991607666,
+          "end": 558.5399993896484
+        }
+      ]
+    },
+    {
+      "id": "music-18a771787dae",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "всю",
+      "en": "all",
+      "lemma": "весь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 559.5600006103516,
+      "end": 560.6000007629394,
+      "verification": "two-transcript agreement",
+      "rank": 139,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 559.5600006103516,
+          "end": 560.6000007629394
+        }
+      ]
+    },
+    {
+      "id": "music-aec23f6fe417",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "зелень",
+      "en": "cash",
+      "lemma": "зелень",
+      "type": "word",
+      "usage": "slang",
+      "start": 560.1400005340577,
+      "end": 561.2799991607666,
+      "verification": "two-transcript agreement",
+      "rank": 140,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 560.1400005340577,
+          "end": 561.2799991607666
+        }
+      ]
+    },
+    {
+      "id": "music-49922d799bd9",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "беден",
+      "en": "poor",
+      "lemma": "бедный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 567.1599990844727,
+      "end": 568.3400005340576,
+      "verification": "two-transcript agreement",
+      "rank": 141,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 567.1599990844727,
+          "end": 568.3400005340576
+        }
+      ]
+    },
+    {
+      "id": "music-d66d29c8b65f",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "судьба",
+      "en": "fate",
+      "lemma": "судьба",
+      "type": "word",
+      "usage": "neutral",
+      "start": 568.5400001525879,
+      "end": 569.8799995422363,
+      "verification": "two-transcript agreement",
+      "rank": 142,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 568.5400001525879,
+          "end": 569.8799995422363
+        }
+      ]
+    },
+    {
+      "id": "music-f6025a3e119f",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "гараж",
+      "en": "garage",
+      "lemma": "гараж",
+      "type": "word",
+      "usage": "neutral",
+      "start": 570.5199999928475,
+      "end": 571.860000038147,
+      "verification": "two-transcript agreement",
+      "rank": 143,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 570.5199999928475,
+          "end": 571.860000038147
+        }
+      ]
+    },
+    {
+      "id": "music-afc3a736d924",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "полон",
+      "en": "full",
+      "lemma": "полный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 571.160000038147,
+      "end": 572.5400001049042,
+      "verification": "two-transcript agreement",
+      "rank": 144,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 571.160000038147,
+          "end": 572.5400001049042
+        }
+      ]
+    },
+    {
+      "id": "music-ab82f1c5f89c",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "мне",
+      "en": "me",
+      "lemma": "я",
+      "type": "word",
+      "usage": "neutral",
+      "start": 589.5199996948243,
+      "end": 590.5399993896484,
+      "verification": "two-transcript agreement",
+      "rank": 145,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 589.5199996948243,
+          "end": 590.5399993896484
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 974.8000003814698,
+          "end": 975.7199996948242
+        }
+      ]
+    },
+    {
+      "id": "music-e4a844b563e0",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "майка",
+      "en": "tank top",
+      "lemma": "майка",
+      "type": "word",
+      "usage": "neutral",
+      "start": 589.8399993896485,
+      "end": 591.1199993133545,
+      "verification": "two-transcript agreement",
+      "rank": 146,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 589.8399993896485,
+          "end": 591.1199993133545
+        }
+      ]
+    },
+    {
+      "id": "music-9d50f92d3a32",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "белая",
+      "en": "white",
+      "lemma": "белый",
+      "type": "word",
+      "usage": "neutral",
+      "start": 590.4199993133545,
+      "end": 591.9400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 147,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 590.4199993133545,
+          "end": 591.9400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-b528bad7f998",
+      "songId": "mdb-05",
+      "song": "GTA",
+      "ru": "и",
+      "en": "and",
+      "lemma": "и",
+      "type": "word",
+      "usage": "neutral",
+      "start": 642.080000114441,
+      "end": 642.939999961853,
+      "verification": "two-transcript agreement",
+      "rank": 148,
+      "occurrences": [
+        {
+          "songId": "mdb-05",
+          "song": "GTA",
+          "start": 642.080000114441,
+          "end": 642.939999961853
+        },
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 659.0999996185303,
+          "end": 659.9200004577636
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1029.7600004196167,
+          "end": 1030.700000190735
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1160.9399997711182,
+          "end": 1161.9200004577638
+        },
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1477.279999923706,
+          "end": 1478.0799998283387
+        }
+      ]
+    },
+    {
+      "id": "music-bf5dd677edbf",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "послушал",
+      "en": "listened to",
+      "lemma": "послушать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 645.7200004577637,
+      "end": 646.8599990844726,
+      "verification": "two-transcript agreement",
+      "rank": 149,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 645.7200004577637,
+          "end": 646.8599990844726
+        }
+      ]
+    },
+    {
+      "id": "music-324432600c10",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "ёбаный",
+      "en": "fucking",
+      "lemma": "ёбаный",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 646.3800003051758,
+      "end": 647.5000003814697,
+      "verification": "two-transcript agreement",
+      "rank": 150,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 646.3800003051758,
+          "end": 647.5000003814697
+        }
+      ]
+    },
+    {
+      "id": "music-13717383851d",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "альбом",
+      "en": "album",
+      "lemma": "альбом",
+      "type": "word",
+      "usage": "neutral",
+      "start": 646.8000003814698,
+      "end": 647.9400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 151,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 646.8000003814698,
+          "end": 647.9400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-7e761c229558",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "столько",
+      "en": "so many",
+      "lemma": "столько",
+      "type": "word",
+      "usage": "neutral",
+      "start": 647.2400009155274,
+      "end": 648.5800003051758,
+      "verification": "two-transcript agreement",
+      "rank": 152,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 647.2400009155274,
+          "end": 648.5800003051758
+        }
+      ]
+    },
+    {
+      "id": "music-2594ef69b802",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "ни одного",
+      "en": "not a single",
+      "lemma": "ни один",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 648.9399997711182,
+      "end": 649.9200004577636,
+      "verification": "two-transcript agreement",
+      "rank": 153,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 648.9399997711182,
+          "end": 649.9200004577636
+        }
+      ]
+    },
+    {
+      "id": "music-9e95a9704de7",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "одного",
+      "en": "one",
+      "lemma": "один",
+      "type": "word",
+      "usage": "neutral",
+      "start": 649.0199996948243,
+      "end": 649.9200004577636,
+      "verification": "two-transcript agreement",
+      "rank": 154,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 649.0199996948243,
+          "end": 649.9200004577636
+        }
+      ]
+    },
+    {
+      "id": "music-0a33e9738961",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "ёбаного",
+      "en": "fucking",
+      "lemma": "ёбаный",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 649.2200004577637,
+      "end": 650.5000003814697,
+      "verification": "two-transcript agreement",
+      "rank": 155,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 649.2200004577637,
+          "end": 650.5000003814697
+        }
+      ]
+    },
+    {
+      "id": "music-96a80ecea82e",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "фита",
+      "en": "guest collaboration",
+      "lemma": "фит",
+      "type": "word",
+      "usage": "slang",
+      "start": 649.8000003814698,
+      "end": 650.9,
+      "verification": "two-transcript agreement",
+      "rank": 156,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 649.8000003814698,
+          "end": 650.9
+        }
+      ]
+    },
+    {
+      "id": "music-f05026a0fc76",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "то",
+      "en": "that",
+      "lemma": "тот",
+      "type": "word",
+      "usage": "neutral",
+      "start": 650.2,
+      "end": 651.4400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 157,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 650.2,
+          "end": 651.4400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-bf90ff4df49d",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "что",
+      "en": "that",
+      "lemma": "что",
+      "type": "word",
+      "usage": "neutral",
+      "start": 650.7400009155274,
+      "end": 651.5399993896484,
+      "verification": "two-transcript agreement",
+      "rank": 158,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 650.7400009155274,
+          "end": 651.5399993896484
+        },
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1041.2599994659424,
+          "end": 1041.9799999237061
+        }
+      ]
+    },
+    {
+      "id": "music-74e62bfebe97",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "он",
+      "en": "it",
+      "lemma": "он",
+      "type": "word",
+      "usage": "neutral",
+      "start": 650.8399993896485,
+      "end": 651.7999996185303,
+      "verification": "two-transcript agreement",
+      "rank": 159,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 650.8399993896485,
+          "end": 651.7999996185303
+        },
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1493.5799991607666,
+          "end": 1494.5000003814698
+        }
+      ]
+    },
+    {
+      "id": "music-d373f24fd8e7",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "без",
+      "en": "without",
+      "lemma": "без",
+      "type": "word",
+      "usage": "neutral",
+      "start": 651.0999996185303,
+      "end": 651.9599994659424,
+      "verification": "two-transcript agreement",
+      "rank": 160,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 651.0999996185303,
+          "end": 651.9599994659424
+        }
+      ]
+    },
+    {
+      "id": "music-19068cfdb5fb",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "фитов",
+      "en": "guest collaborations",
+      "lemma": "фит",
+      "type": "word",
+      "usage": "slang",
+      "start": 651.2599994659424,
+      "end": 652.4400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 161,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 651.2599994659424,
+          "end": 652.4400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-23110fcf9b44",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "будет",
+      "en": "will be",
+      "lemma": "быть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 652.0199996948243,
+      "end": 653.0399993896484,
+      "verification": "two-transcript agreement",
+      "rank": 162,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 652.0199996948243,
+          "end": 653.0399993896484
+        }
+      ]
+    },
+    {
+      "id": "music-9fdb79e799f7",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "настолько",
+      "en": "so",
+      "lemma": "настолько",
+      "type": "word",
+      "usage": "neutral",
+      "start": 654.5400001525879,
+      "end": 655.6999992370605,
+      "verification": "two-transcript agreement",
+      "rank": 163,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 654.5400001525879,
+          "end": 655.6999992370605
+        }
+      ]
+    },
+    {
+      "id": "music-2106db3e2657",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "сильнейший",
+      "en": "extremely powerful",
+      "lemma": "сильный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 654.9999992370606,
+      "end": 656.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 164,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 654.9999992370606,
+          "end": 656.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-26ae6a97567a",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "ход",
+      "en": "strategic move",
+      "lemma": "ход",
+      "type": "word",
+      "usage": "neutral",
+      "start": 655.8599998474122,
+      "end": 656.9200004577636,
+      "verification": "two-transcript agreement",
+      "rank": 165,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 655.8599998474122,
+          "end": 656.9200004577636
+        }
+      ]
+    },
+    {
+      "id": "music-81b9a249fbd5",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "просто",
+      "en": "simply",
+      "lemma": "просто",
+      "type": "word",
+      "usage": "neutral",
+      "start": 656.9600002288819,
+      "end": 658.4599994659424,
+      "verification": "two-transcript agreement",
+      "rank": 166,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 656.9600002288819,
+          "end": 658.4599994659424
+        }
+      ]
+    },
+    {
+      "id": "music-6196da82195b",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "пиздец",
+      "en": "fucking unbelievable",
+      "lemma": "пиздец",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 657.7599994659424,
+      "end": 659.1000007629394,
+      "verification": "two-transcript agreement",
+      "rank": 167,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 657.7599994659424,
+          "end": 659.1000007629394
+        }
+      ]
+    },
+    {
+      "id": "music-126980fcc374",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "слушал",
+      "en": "was listening",
+      "lemma": "слушать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 658.5799991607666,
+      "end": 659.7999996185303,
+      "verification": "two-transcript agreement",
+      "rank": 168,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 658.5799991607666,
+          "end": 659.7999996185303
+        }
+      ]
+    },
+    {
+      "id": "music-f27386836d0e",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "нет",
+      "en": "there are none",
+      "lemma": "нет",
+      "type": "word",
+      "usage": "neutral",
+      "start": 661.1199999570847,
+      "end": 662.2400000333786,
+      "verification": "two-transcript agreement",
+      "rank": 169,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 661.1199999570847,
+          "end": 662.2400000333786
+        }
+      ]
+    },
+    {
+      "id": "music-45850416a6ee",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "все",
+      "en": "all",
+      "lemma": "весь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 661.8600000858307,
+      "end": 662.7800001144409,
+      "verification": "two-transcript agreement",
+      "rank": 170,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 661.8600000858307,
+          "end": 662.7800001144409
+        },
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1380.7,
+          "end": 1381.7600000143052
+        }
+      ]
+    },
+    {
+      "id": "music-c9ceea21bd6d",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "такие",
+      "en": "such",
+      "lemma": "такой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 662.080000114441,
+      "end": 663.2800001144409,
+      "verification": "two-transcript agreement",
+      "rank": 171,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 662.080000114441,
+          "end": 663.2800001144409
+        }
+      ]
+    },
+    {
+      "id": "music-5a83c275cb4b",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "треки",
+      "en": "tracks",
+      "lemma": "трек",
+      "type": "word",
+      "usage": "neutral",
+      "start": 662.580000114441,
+      "end": 663.6599999904632,
+      "verification": "two-transcript agreement",
+      "rank": 172,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 662.580000114441,
+          "end": 663.6599999904632
+        }
+      ]
+    },
+    {
+      "id": "music-832089fd5367",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "охуенные",
+      "en": "fucking awesome",
+      "lemma": "охуенный",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 663.3199998855591,
+      "end": 664.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 173,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 663.3199998855591,
+          "end": 664.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-cc21ae0f9407",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "какой",
+      "en": "what a",
+      "lemma": "какой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 664.5400001525879,
+      "end": 665.4199999809265,
+      "verification": "two-transcript agreement",
+      "rank": 174,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 664.5400001525879,
+          "end": 665.4199999809265
+        }
+      ]
+    },
+    {
+      "id": "music-c7f99906cb8b",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "же",
+      "en": "really",
+      "lemma": "же",
+      "type": "word",
+      "usage": "neutral",
+      "start": 664.7199999809266,
+      "end": 665.7000001907348,
+      "verification": "two-transcript agreement",
+      "rank": 175,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 664.7199999809266,
+          "end": 665.7000001907348
+        }
+      ]
+    },
+    {
+      "id": "music-ebd431dc0138",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "сильный",
+      "en": "powerful",
+      "lemma": "сильный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 665.2,
+      "end": 666.2400001525879,
+      "verification": "two-transcript agreement",
+      "rank": 176,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 665.2,
+          "end": 666.2400001525879
+        }
+      ]
+    },
+    {
+      "id": "music-bd1a9e30c5a4",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "смешно",
+      "en": "ridiculous",
+      "lemma": "смешно",
+      "type": "word",
+      "usage": "neutral",
+      "start": 668.580000114441,
+      "end": 669.6600002288818,
+      "verification": "two-transcript agreement",
+      "rank": 177,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 668.580000114441,
+          "end": 669.6600002288818
+        }
+      ]
+    },
+    {
+      "id": "music-d09a1e14ab5d",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "никто",
+      "en": "nobody",
+      "lemma": "никто",
+      "type": "word",
+      "usage": "neutral",
+      "start": 669.1799995422364,
+      "end": 670.0599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 178,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 669.1799995422364,
+          "end": 670.0599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-43112fe53b5b",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "даже",
+      "en": "even",
+      "lemma": "даже",
+      "type": "word",
+      "usage": "neutral",
+      "start": 669.3599998474122,
+      "end": 670.5199998855591,
+      "verification": "two-transcript agreement",
+      "rank": 179,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 669.3599998474122,
+          "end": 670.5199998855591
+        }
+      ]
+    },
+    {
+      "id": "music-4796081f4fc0",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "близко",
+      "en": "anywhere near",
+      "lemma": "близко",
+      "type": "word",
+      "usage": "neutral",
+      "start": 669.8199998855591,
+      "end": 670.939999961853,
+      "verification": "two-transcript agreement",
+      "rank": 180,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 669.8199998855591,
+          "end": 670.939999961853
+        }
+      ]
+    },
+    {
+      "id": "music-460536aecc11",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "делает",
+      "en": "does",
+      "lemma": "делать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 670.4200002670289,
+      "end": 671.4600004196167,
+      "verification": "two-transcript agreement",
+      "rank": 181,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 670.4200002670289,
+          "end": 671.4600004196167
+        }
+      ]
+    },
+    {
+      "id": "music-4157ddc17110",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "вещи",
+      "en": "things",
+      "lemma": "вещь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 671.1399995803833,
+      "end": 672.0599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 182,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 671.1399995803833,
+          "end": 672.0599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-7f36a77c11d3",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "которые",
+      "en": "that",
+      "lemma": "который",
+      "type": "word",
+      "usage": "neutral",
+      "start": 671.5999996185303,
+      "end": 672.3799995422363,
+      "verification": "two-transcript agreement",
+      "rank": 183,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 671.5999996185303,
+          "end": 672.3799995422363
+        }
+      ]
+    },
+    {
+      "id": "music-1f63d79b21c3",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "делаешь",
+      "en": "do",
+      "lemma": "делать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 671.9799997329712,
+      "end": 673.0999998092651,
+      "verification": "two-transcript agreement",
+      "rank": 184,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 671.9799997329712,
+          "end": 673.0999998092651
+        }
+      ]
+    },
+    {
+      "id": "music-8ff2de4fb12d",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "в плане",
+      "en": "in terms of",
+      "lemma": "в плане",
+      "type": "phrase",
+      "usage": "informal",
+      "start": 672.8400003433228,
+      "end": 674.6200002670288,
+      "verification": "two-transcript agreement",
+      "rank": 185,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 672.8400003433228,
+          "end": 674.6200002670288
+        }
+      ]
+    },
+    {
+      "id": "music-2d358a15cbac",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "целостности",
+      "en": "cohesiveness",
+      "lemma": "целостность",
+      "type": "word",
+      "usage": "neutral",
+      "start": 673.9200002670289,
+      "end": 675.2800001144409,
+      "verification": "two-transcript agreement",
+      "rank": 186,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 673.9200002670289,
+          "end": 675.2800001144409
+        }
+      ]
+    },
+    {
+      "id": "music-174cc1e0ac78",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "промоушена",
+      "en": "promotion",
+      "lemma": "промоушен",
+      "type": "word",
+      "usage": "neutral",
+      "start": 674.580000114441,
+      "end": 676.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 187,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 674.580000114441,
+          "end": 676.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-b75e1316268d",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "задумок",
+      "en": "creative ideas",
+      "lemma": "задумка",
+      "type": "word",
+      "usage": "neutral",
+      "start": 676.3000003814698,
+      "end": 678.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 188,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 676.3000003814698,
+          "end": 678.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-c60efba14308",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "хочу",
+      "en": "want",
+      "lemma": "хотеть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 678.4000007629395,
+      "end": 679.3400005340576,
+      "verification": "two-transcript agreement",
+      "rank": 189,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 678.4000007629395,
+          "end": 679.3400005340576
+        }
+      ]
+    },
+    {
+      "id": "music-0018692c99f4",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "нахваливать",
+      "en": "praise lavishly",
+      "lemma": "нахваливать",
+      "type": "word",
+      "usage": "informal",
+      "start": 678.6400005340577,
+      "end": 679.979999923706,
+      "verification": "two-transcript agreement",
+      "rank": 190,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 678.6400005340577,
+          "end": 679.979999923706
+        }
+      ]
+    },
+    {
+      "id": "music-c7bd3ccf38f9",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "бесит",
+      "en": "infuriates",
+      "lemma": "бесить",
+      "type": "word",
+      "usage": "informal",
+      "start": 679.8599998474122,
+      "end": 680.7199996948242,
+      "verification": "two-transcript agreement",
+      "rank": 191,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 679.8599998474122,
+          "end": 680.7199996948242
+        }
+      ]
+    },
+    {
+      "id": "music-6819a478e1ac",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "потому что",
+      "en": "because",
+      "lemma": "потому что",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 680.1400005340577,
+      "end": 681.0200008392334,
+      "verification": "two-transcript agreement",
+      "rank": 192,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 680.1400005340577,
+          "end": 681.0200008392334
+        }
+      ]
+    },
+    {
+      "id": "music-7f07986410ae",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "приходится",
+      "en": "have to",
+      "lemma": "приходиться",
+      "type": "word",
+      "usage": "neutral",
+      "start": 680.3200008392334,
+      "end": 681.6000007629394,
+      "verification": "two-transcript agreement",
+      "rank": 193,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 680.3200008392334,
+          "end": 681.6000007629394
+        }
+      ]
+    },
+    {
+      "id": "music-cb91b03190a9",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "говорить",
+      "en": "say",
+      "lemma": "говорить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 682.1599990844727,
+      "end": 683.1000007629394,
+      "verification": "two-transcript agreement",
+      "rank": 194,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 682.1599990844727,
+          "end": 683.1000007629394
+        }
+      ]
+    },
+    {
+      "id": "music-9a5659a07a58",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "хороший",
+      "en": "good",
+      "lemma": "хороший",
+      "type": "word",
+      "usage": "neutral",
+      "start": 682.7400009155274,
+      "end": 683.9400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 195,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 682.7400009155274,
+          "end": 683.9400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-550039b2f54d",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "тут",
+      "en": "in this case",
+      "lemma": "тут",
+      "type": "word",
+      "usage": "informal",
+      "start": 683.9399997711182,
+      "end": 684.7199996948242,
+      "verification": "two-transcript agreement",
+      "rank": 196,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 683.9399997711182,
+          "end": 684.7199996948242
+        }
+      ]
+    },
+    {
+      "id": "music-be9dd27d567a",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "к сожалению",
+      "en": "unfortunately",
+      "lemma": "к сожалению",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 684.2599994659424,
+      "end": 685.1600002288818,
+      "verification": "two-transcript agreement",
+      "rank": 197,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 684.2599994659424,
+          "end": 685.1600002288818
+        }
+      ]
+    },
+    {
+      "id": "music-0946576c9dc2",
+      "songId": "mdb-06",
+      "song": "СКИТ ОТ @VSBATTLEVIDEO",
+      "ru": "по факту",
+      "en": "in fact",
+      "lemma": "по факту",
+      "type": "phrase",
+      "usage": "informal",
+      "start": 684.5600006103516,
+      "end": 685.9,
+      "verification": "two-transcript agreement",
+      "rank": 198,
+      "occurrences": [
+        {
+          "songId": "mdb-06",
+          "song": "СКИТ ОТ @VSBATTLEVIDEO",
+          "start": 684.5600006103516,
+          "end": 685.9
+        }
+      ]
+    },
+    {
+      "id": "music-6baf6dd897b1",
+      "songId": "mdb-07",
+      "song": "ПАПИН ТАНК",
+      "ru": "Папин",
+      "en": "dad's",
+      "lemma": "папин",
+      "type": "word",
+      "usage": "neutral",
+      "start": 689.7,
+      "end": 691.6200000286102,
+      "verification": "two-transcript agreement",
+      "rank": 199,
+      "occurrences": [
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 689.7,
+          "end": 691.6200000286102
+        }
+      ]
+    },
+    {
+      "id": "music-cd723d58afe6",
+      "songId": "mdb-07",
+      "song": "ПАПИН ТАНК",
+      "ru": "танк",
+      "en": "tank",
+      "lemma": "танк",
+      "type": "word",
+      "usage": "neutral",
+      "start": 690.9200000286103,
+      "end": 692.0599999666214,
+      "verification": "two-transcript agreement",
+      "rank": 200,
+      "occurrences": [
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 690.9200000286103,
+          "end": 692.0599999666214
+        }
+      ]
+    },
+    {
+      "id": "music-3f36c252151b",
+      "songId": "mdb-07",
+      "song": "ПАПИН ТАНК",
+      "ru": "папа",
+      "en": "dad",
+      "lemma": "папа",
+      "type": "word",
+      "usage": "neutral",
+      "start": 723.660000038147,
+      "end": 724.5999998092651,
+      "verification": "two-transcript agreement",
+      "rank": 201,
+      "occurrences": [
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 723.660000038147,
+          "end": 724.5999998092651
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1109.7,
+          "end": 1112.1200000286103
+        }
+      ]
+    },
+    {
+      "id": "music-d1f926958865",
+      "songId": "mdb-07",
+      "song": "ПАПИН ТАНК",
+      "ru": "капитан",
+      "en": "captain",
+      "lemma": "капитан",
+      "type": "word",
+      "usage": "neutral",
+      "start": 725.5400001525879,
+      "end": 727.0599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 202,
+      "occurrences": [
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 725.5400001525879,
+          "end": 727.0599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-0dabb3700b46",
+      "songId": "mdb-07",
+      "song": "ПАПИН ТАНК",
+      "ru": "Чёрный",
+      "en": "black",
+      "lemma": "чёрный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 727.5200001716614,
+      "end": 728.8799995422363,
+      "verification": "two-transcript agreement",
+      "rank": 203,
+      "occurrences": [
+        {
+          "songId": "mdb-07",
+          "song": "ПАПИН ТАНК",
+          "start": 727.5200001716614,
+          "end": 728.8799995422363
+        }
+      ]
+    },
+    {
+      "id": "music-1bbc408c6687",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "у",
+      "en": "with",
+      "lemma": "у",
+      "type": "word",
+      "usage": "neutral",
+      "start": 888.6599990844727,
+      "end": 889.5800003051758,
+      "verification": "two-transcript agreement",
+      "rank": 204,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 888.6599990844727,
+          "end": 889.5800003051758
+        }
+      ]
+    },
+    {
+      "id": "music-2c60e33cc1d6",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "согласен",
+      "en": "in agreement",
+      "lemma": "согласный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 892.3200008392334,
+      "end": 893.5399993896484,
+      "verification": "two-transcript agreement",
+      "rank": 205,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 892.3200008392334,
+          "end": 893.5399993896484
+        }
+      ]
+    },
+    {
+      "id": "music-cab1600e9d11",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "плохой",
+      "en": "bad",
+      "lemma": "плохой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 892.8800003051758,
+      "end": 893.9400009155273,
+      "verification": "two-transcript agreement",
+      "rank": 206,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 892.8800003051758,
+          "end": 893.9400009155273
+        }
+      ]
+    },
+    {
+      "id": "music-4932950e76fb",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "рэперы",
+      "en": "rappers",
+      "lemma": "рэпер",
+      "type": "word",
+      "usage": "neutral",
+      "start": 896.6799995422364,
+      "end": 897.979999923706,
+      "verification": "two-transcript agreement",
+      "rank": 207,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 896.6799995422364,
+          "end": 897.979999923706
+        }
+      ]
+    },
+    {
+      "id": "music-21377d01cad5",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "плаксы",
+      "en": "crybabies",
+      "lemma": "плакса",
+      "type": "word",
+      "usage": "informal",
+      "start": 897.4199993133545,
+      "end": 898.479999923706,
+      "verification": "two-transcript agreement",
+      "rank": 208,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 897.4199993133545,
+          "end": 898.479999923706
+        }
+      ]
+    },
+    {
+      "id": "music-01d04a372c8f",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "же",
+      "en": "same (emphasis)",
+      "lemma": "же",
+      "type": "word",
+      "usage": "neutral",
+      "start": 900.0799999952317,
+      "end": 900.8600000083446,
+      "verification": "two-transcript agreement",
+      "rank": 209,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 900.0799999952317,
+          "end": 900.8600000083446
+        }
+      ]
+    },
+    {
+      "id": "music-29019d60973c",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "салют",
+      "en": "greetings",
+      "lemma": "салют",
+      "type": "word",
+      "usage": "informal",
+      "start": 901.379999947548,
+      "end": 902.5199998855591,
+      "verification": "two-transcript agreement",
+      "rank": 210,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 901.379999947548,
+          "end": 902.5199998855591
+        }
+      ]
+    },
+    {
+      "id": "music-d01da63953c3",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "моим",
+      "en": "my",
+      "lemma": "мой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 901.8199998855591,
+      "end": 902.9,
+      "verification": "two-transcript agreement",
+      "rank": 211,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 901.8199998855591,
+          "end": 902.9
+        }
+      ]
+    },
+    {
+      "id": "music-302d135d5e7d",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "малой",
+      "en": "kid",
+      "lemma": "малой",
+      "type": "word",
+      "usage": "informal",
+      "start": 902.660000038147,
+      "end": 903.7199999332428,
+      "verification": "two-transcript agreement",
+      "rank": 212,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 902.660000038147,
+          "end": 903.7199999332428
+        }
+      ]
+    },
+    {
+      "id": "music-b3e5656b79b2",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "чарты",
+      "en": "music charts",
+      "lemma": "чарт",
+      "type": "word",
+      "usage": "neutral",
+      "start": 903.3400001049042,
+      "end": 904.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 213,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 903.3400001049042,
+          "end": 904.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-6aaec7811f15",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "что",
+      "en": "what",
+      "lemma": "что",
+      "type": "word",
+      "usage": "neutral",
+      "start": 903.8599998474122,
+      "end": 904.8800000190735,
+      "verification": "two-transcript agreement",
+      "rank": 214,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 903.8599998474122,
+          "end": 904.8800000190735
+        }
+      ]
+    },
+    {
+      "id": "music-1ef9919e2105",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "сделал всех",
+      "en": "outdid everyone",
+      "lemma": "сделать всех",
+      "type": "phrase",
+      "usage": "informal",
+      "start": 905.5200001716614,
+      "end": 906.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 215,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 905.5200001716614,
+          "end": 906.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-5ca9ab812a9a",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "всех",
+      "en": "everyone",
+      "lemma": "весь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 905.6000000953675,
+      "end": 906.5599998474121,
+      "verification": "two-transcript agreement",
+      "rank": 216,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 905.6000000953675,
+          "end": 906.5599998474121
+        }
+      ]
+    },
+    {
+      "id": "music-161ef01ee3a9",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "нахуй",
+      "en": "fucking (emphasis)",
+      "lemma": "нахуй",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 905.8599998474122,
+      "end": 906.9599999427795,
+      "verification": "two-transcript agreement",
+      "rank": 217,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 905.8599998474122,
+          "end": 906.9599999427795
+        }
+      ]
+    },
+    {
+      "id": "music-a436f0c0dce3",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "бог",
+      "en": "God",
+      "lemma": "бог",
+      "type": "word",
+      "usage": "neutral",
+      "start": 908.7200004577637,
+      "end": 909.8799995422363,
+      "verification": "two-transcript agreement",
+      "rank": 218,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 908.7200004577637,
+          "end": 909.8799995422363
+        }
+      ]
+    },
+    {
+      "id": "music-a18372ccd197",
+      "songId": "mdb-08",
+      "song": "DINERO",
+      "ru": "любит",
+      "en": "loves",
+      "lemma": "любить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 909.1799995422364,
+      "end": 910.2199996948242,
+      "verification": "two-transcript agreement",
+      "rank": 219,
+      "occurrences": [
+        {
+          "songId": "mdb-08",
+          "song": "DINERO",
+          "start": 909.1799995422364,
+          "end": 910.2199996948242
+        }
+      ]
+    },
+    {
+      "id": "music-7fc4b0e7da3d",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "нам",
+      "en": "to us",
+      "lemma": "мы",
+      "type": "word",
+      "usage": "neutral",
+      "start": 983.1599990844727,
+      "end": 984.1199993133545,
+      "verification": "two-transcript agreement",
+      "rank": 220,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 983.1599990844727,
+          "end": 984.1199993133545
+        }
+      ]
+    },
+    {
+      "id": "music-d02acb202db0",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "да",
+      "en": "and",
+      "lemma": "да",
+      "type": "word",
+      "usage": "neutral",
+      "start": 990.3399999856949,
+      "end": 991.2799999952316,
+      "verification": "two-transcript agreement",
+      "rank": 221,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 990.3399999856949,
+          "end": 991.2799999952316
+        }
+      ]
+    },
+    {
+      "id": "music-2b3a2e7af820",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "Прям",
+      "en": "straight",
+      "lemma": "прямо",
+      "type": "word",
+      "usage": "informal",
+      "start": 992.4400000095368,
+      "end": 993.979999923706,
+      "verification": "two-transcript agreement",
+      "rank": 222,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 992.4400000095368,
+          "end": 993.979999923706
+        }
+      ]
+    },
+    {
+      "id": "music-402626cd4858",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "это",
+      "en": "is",
+      "lemma": "это",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1022.1800000190735,
+      "end": 1023.2399999141693,
+      "verification": "two-transcript agreement",
+      "rank": 223,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1022.1800000190735,
+          "end": 1023.2399999141693
+        }
+      ]
+    },
+    {
+      "id": "music-9459540f319a",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "зверь",
+      "en": "beast",
+      "lemma": "зверь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1022.5399999141694,
+      "end": 1023.6799999713897,
+      "verification": "two-transcript agreement",
+      "rank": 224,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1022.5399999141694,
+          "end": 1023.6799999713897
+        }
+      ]
+    },
+    {
+      "id": "music-1a4e6e622986",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "человек",
+      "en": "person",
+      "lemma": "человек",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1022.9799999713898,
+      "end": 1024.8800000190736,
+      "verification": "two-transcript agreement",
+      "rank": 225,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1022.9799999713898,
+          "end": 1024.8800000190736
+        },
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1150.2,
+          "end": 1151.4799999237061
+        }
+      ]
+    },
+    {
+      "id": "music-ae5d76d1b5a2",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "ебло",
+      "en": "face",
+      "lemma": "ебло",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 1024.1800000190735,
+      "end": 1025.4599999427796,
+      "verification": "two-transcript agreement",
+      "rank": 226,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1024.1800000190735,
+          "end": 1025.4599999427796
+        }
+      ]
+    },
+    {
+      "id": "music-019c26edce3f",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "Вызвал",
+      "en": "called",
+      "lemma": "вызвать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1025.3599998474122,
+      "end": 1026.780000114441,
+      "verification": "two-transcript agreement",
+      "rank": 227,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1025.3599998474122,
+          "end": 1026.780000114441
+        }
+      ]
+    },
+    {
+      "id": "music-4a4cd8c2a9ca",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "свой",
+      "en": "my own",
+      "lemma": "свой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1027.4199997901917,
+      "end": 1028.4200004577638,
+      "verification": "two-transcript agreement",
+      "rank": 228,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1027.4199997901917,
+          "end": 1028.4200004577638
+        }
+      ]
+    },
+    {
+      "id": "music-a23931f3f99c",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "здоров",
+      "en": "healthy",
+      "lemma": "здоровый",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1029.2600004196167,
+      "end": 1030.4600004196168,
+      "verification": "two-transcript agreement",
+      "rank": 229,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1029.2600004196167,
+          "end": 1030.4600004196168
+        }
+      ]
+    },
+    {
+      "id": "music-d4443b0f320f",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "молодой",
+      "en": "young",
+      "lemma": "молодой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1032.4600002288819,
+      "end": 1033.740000152588,
+      "verification": "two-transcript agreement",
+      "rank": 230,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1032.4600002288819,
+          "end": 1033.740000152588
+        }
+      ]
+    },
+    {
+      "id": "music-b4da53b46afd",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "интеллигент",
+      "en": "educated, cultured person",
+      "lemma": "интеллигент",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1033.3999998092652,
+      "end": 1034.6799997329713,
+      "verification": "two-transcript agreement",
+      "rank": 231,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1033.3999998092652,
+          "end": 1034.6799997329713
+        }
+      ]
+    },
+    {
+      "id": "music-a92919a57827",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "у",
+      "en": "in someone's possession",
+      "lemma": "у",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1034.239999961853,
+      "end": 1035.0599998474122,
+      "verification": "two-transcript agreement",
+      "rank": 232,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1034.239999961853,
+          "end": 1035.0599998474122
+        }
+      ]
+    },
+    {
+      "id": "music-6b39feeb99a3",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "ствол",
+      "en": "gun",
+      "lemma": "ствол",
+      "type": "word",
+      "usage": "slang",
+      "start": 1034.5599996566773,
+      "end": 1035.660000228882,
+      "verification": "two-transcript agreement",
+      "rank": 233,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1034.5599996566773,
+          "end": 1035.660000228882
+        }
+      ]
+    },
+    {
+      "id": "music-2e4c24c30792",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "Интеллект",
+      "en": "intelligence",
+      "lemma": "интеллект",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1035.0599996566773,
+      "end": 1036.4799999237061,
+      "verification": "two-transcript agreement",
+      "rank": 234,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1035.0599996566773,
+          "end": 1036.4799999237061
+        }
+      ]
+    },
+    {
+      "id": "music-6fc9e119f09f",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "тебя",
+      "en": "you",
+      "lemma": "ты",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1037.2400009155274,
+      "end": 1038.0200008392335,
+      "verification": "two-transcript agreement",
+      "rank": 235,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1037.2400009155274,
+          "end": 1038.0200008392335
+        }
+      ]
+    },
+    {
+      "id": "music-8a8585414ac3",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "нет",
+      "en": "do not have",
+      "lemma": "нет",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1037.3200008392334,
+      "end": 1038.3799995422364,
+      "verification": "two-transcript agreement",
+      "rank": 236,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1037.3200008392334,
+          "end": 1038.3799995422364
+        }
+      ]
+    },
+    {
+      "id": "music-40451bc32ef2",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "так",
+      "en": "so much",
+      "lemma": "так",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1040.5199996948243,
+      "end": 1041.740000152588,
+      "verification": "two-transcript agreement",
+      "rank": 237,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1040.5199996948243,
+          "end": 1041.740000152588
+        }
+      ]
+    },
+    {
+      "id": "music-c4427b53797c",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "забыл",
+      "en": "forgot",
+      "lemma": "забыть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1041.279999923706,
+      "end": 1042.5599998474122,
+      "verification": "two-transcript agreement",
+      "rank": 238,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1041.279999923706,
+          "end": 1042.5599998474122
+        }
+      ]
+    },
+    {
+      "id": "music-2c93366db628",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "своё",
+      "en": "my own",
+      "lemma": "свой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1041.8599998474122,
+      "end": 1043.1999992370606,
+      "verification": "two-transcript agreement",
+      "rank": 239,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1041.8599998474122,
+          "end": 1043.1999992370606
+        }
+      ]
+    },
+    {
+      "id": "music-db0e72e5cf55",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "имя",
+      "en": "name",
+      "lemma": "имя",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1042.4999992370606,
+      "end": 1043.4599994659425,
+      "verification": "two-transcript agreement",
+      "rank": 240,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1042.4999992370606,
+          "end": 1043.4599994659425
+        }
+      ]
+    },
+    {
+      "id": "music-b9271ecf2201",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "вновь",
+      "en": "again",
+      "lemma": "вновь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1042.7599994659424,
+      "end": 1044.4,
+      "verification": "two-transcript agreement",
+      "rank": 241,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1042.7599994659424,
+          "end": 1044.4
+        }
+      ]
+    },
+    {
+      "id": "music-10e574cfb1be",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "Не вопрос",
+      "en": "no problem",
+      "lemma": "не вопрос",
+      "type": "phrase",
+      "usage": "informal",
+      "start": 1043.7,
+      "end": 1045.5399993896485,
+      "verification": "two-transcript agreement",
+      "rank": 242,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1043.7,
+          "end": 1045.5399993896485
+        }
+      ]
+    },
+    {
+      "id": "music-3c58ebca966c",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "вопрос",
+      "en": "problem",
+      "lemma": "вопрос",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1044.0199996948243,
+      "end": 1045.5399993896485,
+      "verification": "two-transcript agreement",
+      "rank": 243,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1044.0199996948243,
+          "end": 1045.5399993896485
+        }
+      ]
+    },
+    {
+      "id": "music-c982c3d25318",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "гляну",
+      "en": "I'll take a look",
+      "lemma": "глянуть",
+      "type": "word",
+      "usage": "informal",
+      "start": 1045.2,
+      "end": 1046.2199996948243,
+      "verification": "two-transcript agreement",
+      "rank": 244,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1045.2,
+          "end": 1046.2199996948243
+        }
+      ]
+    },
+    {
+      "id": "music-7ac37964ec64",
+      "songId": "mdb-09",
+      "song": "МАНИЯ",
+      "ru": "списке",
+      "en": "list",
+      "lemma": "список",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1045.6799995422364,
+      "end": 1046.7600006103517,
+      "verification": "two-transcript agreement",
+      "rank": 245,
+      "occurrences": [
+        {
+          "songId": "mdb-09",
+          "song": "МАНИЯ",
+          "start": 1045.6799995422364,
+          "end": 1046.7600006103517
+        }
+      ]
+    },
+    {
+      "id": "music-7663b22fbf20",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "рада",
+      "en": "glad",
+      "lemma": "рад",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1114.8799998283387,
+      "end": 1116.1399997711183,
+      "verification": "two-transcript agreement",
+      "rank": 246,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1114.8799998283387,
+          "end": 1116.1399997711183
+        }
+      ]
+    },
+    {
+      "id": "music-c05730b4d3cd",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "голодна",
+      "en": "hungry",
+      "lemma": "голодный",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1115.8399998664856,
+      "end": 1117.3400000572205,
+      "verification": "two-transcript agreement",
+      "rank": 247,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1115.8399998664856,
+          "end": 1117.3400000572205
+        }
+      ]
+    },
+    {
+      "id": "music-aabf086b3bf5",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "Сука",
+      "en": "bitch",
+      "lemma": "сука",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 1135.1599990844727,
+      "end": 1136.820000076294,
+      "verification": "two-transcript agreement",
+      "rank": 248,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1135.1599990844727,
+          "end": 1136.820000076294
+        }
+      ]
+    },
+    {
+      "id": "music-5c30b75070aa",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "тупой",
+      "en": "stupid",
+      "lemma": "тупой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1137.4399997711182,
+      "end": 1138.6999992370606,
+      "verification": "two-transcript agreement",
+      "rank": 249,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1137.4399997711182,
+          "end": 1138.6999992370606
+        }
+      ]
+    },
+    {
+      "id": "music-ed19cd97688d",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "настолько",
+      "en": "to that extent",
+      "lemma": "настолько",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1143.160000038147,
+      "end": 1144.360000038147,
+      "verification": "two-transcript agreement",
+      "rank": 250,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1143.160000038147,
+          "end": 1144.360000038147
+        }
+      ]
+    },
+    {
+      "id": "music-5f8304130958",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "чтобы",
+      "en": "to",
+      "lemma": "чтобы",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1144.080000114441,
+      "end": 1144.820000076294,
+      "verification": "two-transcript agreement",
+      "rank": 251,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1144.080000114441,
+          "end": 1144.820000076294
+        }
+      ]
+    },
+    {
+      "id": "music-ed0392150b3b",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "быть",
+      "en": "be",
+      "lemma": "быть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1144.120000076294,
+      "end": 1145.160000228882,
+      "verification": "two-transcript agreement",
+      "rank": 252,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1144.120000076294,
+          "end": 1145.160000228882
+        }
+      ]
+    },
+    {
+      "id": "music-a2568f6c4085",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "с",
+      "en": "with",
+      "lemma": "с",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1144.4600002288819,
+      "end": 1145.660000228882,
+      "verification": "two-transcript agreement",
+      "rank": 253,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1144.4600002288819,
+          "end": 1145.660000228882
+        }
+      ]
+    },
+    {
+      "id": "music-6a55f977c23d",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "ной",
+      "en": "whine",
+      "lemma": "ныть",
+      "type": "word",
+      "usage": "informal",
+      "start": 1148.3000003814698,
+      "end": 1149.2599996566773,
+      "verification": "two-transcript agreement",
+      "rank": 254,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1148.3000003814698,
+          "end": 1149.2599996566773
+        }
+      ]
+    },
+    {
+      "id": "music-a94c214b6697",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "человек года",
+      "en": "person of the year",
+      "lemma": "человек года",
+      "type": "phrase",
+      "usage": "neutral",
+      "start": 1150.2,
+      "end": 1151.9799999237061,
+      "verification": "two-transcript agreement",
+      "rank": 255,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1150.2,
+          "end": 1151.9799999237061
+        }
+      ]
+    },
+    {
+      "id": "music-dff67fe05c56",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "года",
+      "en": "year",
+      "lemma": "год",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1150.779999923706,
+      "end": 1151.9799999237061,
+      "verification": "two-transcript agreement",
+      "rank": 256,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1150.779999923706,
+          "end": 1151.9799999237061
+        }
+      ]
+    },
+    {
+      "id": "music-7b912d9d619a",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "эталон",
+      "en": "model of perfection",
+      "lemma": "эталон",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1151.279999923706,
+      "end": 1152.740000152588,
+      "verification": "two-transcript agreement",
+      "rank": 257,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1151.279999923706,
+          "end": 1152.740000152588
+        }
+      ]
+    },
+    {
+      "id": "music-2023a2b9bfcf",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "реально",
+      "en": "really",
+      "lemma": "реально",
+      "type": "word",
+      "usage": "informal",
+      "start": 1157.3200008392334,
+      "end": 1158.6399997711183,
+      "verification": "two-transcript agreement",
+      "rank": 258,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1157.3200008392334,
+          "end": 1158.6399997711183
+        }
+      ]
+    },
+    {
+      "id": "music-013989f7d41b",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "верит",
+      "en": "believes",
+      "lemma": "верить",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1157.9399997711182,
+      "end": 1159.0800003051759,
+      "verification": "two-transcript agreement",
+      "rank": 259,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1157.9399997711182,
+          "end": 1159.0800003051759
+        }
+      ]
+    },
+    {
+      "id": "music-848cc8296c6d",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "из",
+      "en": "among",
+      "lemma": "из",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1161.4399997711182,
+      "end": 1162.3400005340577,
+      "verification": "two-transcript agreement",
+      "rank": 260,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1161.4399997711182,
+          "end": 1162.3400005340577
+        }
+      ]
+    },
+    {
+      "id": "music-7f1985619dd2",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "нас",
+      "en": "us",
+      "lemma": "мы",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1161.6400005340577,
+      "end": 1162.5399993896485,
+      "verification": "two-transcript agreement",
+      "rank": 261,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1161.6400005340577,
+          "end": 1162.5399993896485
+        }
+      ]
+    },
+    {
+      "id": "music-0f4b6d2c6321",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "теперь",
+      "en": "now",
+      "lemma": "теперь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1161.8399993896485,
+      "end": 1162.9400009155274,
+      "verification": "two-transcript agreement",
+      "rank": 262,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1161.8399993896485,
+          "end": 1162.9400009155274
+        },
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1628.8000003814698,
+          "end": 1630.0400003433228
+        }
+      ]
+    },
+    {
+      "id": "music-e5f10070c030",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "на",
+      "en": "at",
+      "lemma": "на",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1182.4600002288819,
+      "end": 1183.4600004196168,
+      "verification": "two-transcript agreement",
+      "rank": 263,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1182.4600002288819,
+          "end": 1183.4600004196168
+        },
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1470.1000000059605,
+          "end": 1471.1599999904633
+        }
+      ]
+    },
+    {
+      "id": "music-614125f3d174",
+      "songId": "mdb-10",
+      "song": "У МЕНЯ НЕ ВСТАЛ",
+      "ru": "у",
+      "en": "with (possession)",
+      "lemma": "у",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1202.7599999427796,
+      "end": 1203.4799999237061,
+      "verification": "two-transcript agreement",
+      "rank": 264,
+      "occurrences": [
+        {
+          "songId": "mdb-10",
+          "song": "У МЕНЯ НЕ ВСТАЛ",
+          "start": 1202.7599999427796,
+          "end": 1203.4799999237061
+        }
+      ]
+    },
+    {
+      "id": "music-412c31795222",
+      "songId": "mdb-11",
+      "song": "КОГДА НАС ОТПУСТИТ",
+      "ru": "кончатся",
+      "en": "will end",
+      "lemma": "кончиться",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1379.7,
+      "end": 1381.4,
+      "verification": "two-transcript agreement",
+      "rank": 265,
+      "occurrences": [
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1379.7,
+          "end": 1381.4
+        }
+      ]
+    },
+    {
+      "id": "music-e9a63d3ef172",
+      "songId": "mdb-11",
+      "song": "КОГДА НАС ОТПУСТИТ",
+      "ru": "чувства",
+      "en": "feelings",
+      "lemma": "чувство",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1381.0600000143052,
+      "end": 1382.4399999618531,
+      "verification": "two-transcript agreement",
+      "rank": 266,
+      "occurrences": [
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1381.0600000143052,
+          "end": 1382.4399999618531
+        }
+      ]
+    },
+    {
+      "id": "music-a86326b11310",
+      "songId": "mdb-11",
+      "song": "КОГДА НАС ОТПУСТИТ",
+      "ru": "любовь",
+      "en": "love",
+      "lemma": "любовь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1382.8800000667572,
+      "end": 1384.259999895096,
+      "verification": "two-transcript agreement",
+      "rank": 267,
+      "occurrences": [
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1382.8800000667572,
+          "end": 1384.259999895096
+        }
+      ]
+    },
+    {
+      "id": "music-f5e807b5169e",
+      "songId": "mdb-11",
+      "song": "КОГДА НАС ОТПУСТИТ",
+      "ru": "было",
+      "en": "was",
+      "lemma": "быть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1384.040000152588,
+      "end": 1385.2200001716615,
+      "verification": "two-transcript agreement",
+      "rank": 268,
+      "occurrences": [
+        {
+          "songId": "mdb-11",
+          "song": "КОГДА НАС ОТПУСТИТ",
+          "start": 1384.040000152588,
+          "end": 1385.2200001716615
+        }
+      ]
+    },
+    {
+      "id": "music-537b411af39b",
+      "songId": "mdb-12",
+      "song": "PULL UP",
+      "ru": "понимаю",
+      "en": "understand",
+      "lemma": "понимать",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1487.2400009155274,
+      "end": 1488.2600006103517,
+      "verification": "two-transcript agreement",
+      "rank": 269,
+      "occurrences": [
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1487.2400009155274,
+          "end": 1488.2600006103517
+        }
+      ]
+    },
+    {
+      "id": "music-37e514b71a52",
+      "songId": "mdb-12",
+      "song": "PULL UP",
+      "ru": "много",
+      "en": "many",
+      "lemma": "много",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1491.1799995422364,
+      "end": 1492.0800003051759,
+      "verification": "two-transcript agreement",
+      "rank": 270,
+      "occurrences": [
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1491.1799995422364,
+          "end": 1492.0800003051759
+        }
+      ]
+    },
+    {
+      "id": "music-8fc49c3a2305",
+      "songId": "mdb-12",
+      "song": "PULL UP",
+      "ru": "вопросов",
+      "en": "questions",
+      "lemma": "вопрос",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1491.3800003051758,
+      "end": 1492.9,
+      "verification": "two-transcript agreement",
+      "rank": 271,
+      "occurrences": [
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1491.3800003051758,
+          "end": 1492.9
+        }
+      ]
+    },
+    {
+      "id": "music-e7cc1d72e27e",
+      "songId": "mdb-12",
+      "song": "PULL UP",
+      "ru": "столько",
+      "en": "so much",
+      "lemma": "столько",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1492.4600002288819,
+      "end": 1493.5000003814698,
+      "verification": "two-transcript agreement",
+      "rank": 272,
+      "occurrences": [
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1492.4600002288819,
+          "end": 1493.5000003814698
+        }
+      ]
+    },
+    {
+      "id": "music-61695f1b6405",
+      "songId": "mdb-12",
+      "song": "PULL UP",
+      "ru": "почему",
+      "en": "why",
+      "lemma": "почему",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1493.3200008392334,
+      "end": 1494.2799991607667,
+      "verification": "two-transcript agreement",
+      "rank": 273,
+      "occurrences": [
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1493.3200008392334,
+          "end": 1494.2799991607667
+        }
+      ]
+    },
+    {
+      "id": "music-5ebac5c86f8b",
+      "songId": "mdb-12",
+      "song": "PULL UP",
+      "ru": "такой",
+      "en": "so",
+      "lemma": "такой",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1493.8000003814698,
+      "end": 1494.8599990844727,
+      "verification": "two-transcript agreement",
+      "rank": 274,
+      "occurrences": [
+        {
+          "songId": "mdb-12",
+          "song": "PULL UP",
+          "start": 1493.8000003814698,
+          "end": 1494.8599990844727
+        }
+      ]
+    },
+    {
+      "id": "music-254fbcddd7db",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "эти",
+      "en": "these",
+      "lemma": "этот",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1620.3800000071526,
+      "end": 1621.9599999427796,
+      "verification": "two-transcript agreement",
+      "rank": 275,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1620.3800000071526,
+          "end": 1621.9599999427796
+        }
+      ]
+    },
+    {
+      "id": "music-92f1e20eb480",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "же",
+      "en": "after all (emphasis)",
+      "lemma": "же",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1624.279999923706,
+      "end": 1625.240000152588,
+      "verification": "two-transcript agreement",
+      "rank": 276,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1624.279999923706,
+          "end": 1625.240000152588
+        }
+      ]
+    },
+    {
+      "id": "music-d64c00361a36",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "этого",
+      "en": "this",
+      "lemma": "этот",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1624.540000152588,
+      "end": 1625.860000038147,
+      "verification": "two-transcript agreement",
+      "rank": 277,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1624.540000152588,
+          "end": 1625.860000038147
+        }
+      ]
+    },
+    {
+      "id": "music-59018191a5ab",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "всю",
+      "en": "whole",
+      "lemma": "весь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1625.160000038147,
+      "end": 1626.1399997711183,
+      "verification": "two-transcript agreement",
+      "rank": 278,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1625.160000038147,
+          "end": 1626.1399997711183
+        }
+      ]
+    },
+    {
+      "id": "music-66290db64c73",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "жизнь",
+      "en": "life",
+      "lemma": "жизнь",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1625.4399997711182,
+      "end": 1626.4599999427796,
+      "verification": "two-transcript agreement",
+      "rank": 279,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1625.4399997711182,
+          "end": 1626.4599999427796
+        }
+      ]
+    },
+    {
+      "id": "music-d4fc9fb7bae4",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "а",
+      "en": "but",
+      "lemma": "а",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1627.8599998474122,
+      "end": 1628.8399995803834,
+      "verification": "two-transcript agreement",
+      "rank": 280,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1627.8599998474122,
+          "end": 1628.8399995803834
+        }
+      ]
+    },
+    {
+      "id": "music-ff371447cc4c",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "хули",
+      "en": "why the fuck",
+      "lemma": "хули",
+      "type": "word",
+      "usage": "vulgar",
+      "start": 1628.1399995803833,
+      "end": 1629.160000228882,
+      "verification": "two-transcript agreement",
+      "rank": 281,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1628.1399995803833,
+          "end": 1629.160000228882
+        }
+      ]
+    },
+    {
+      "id": "music-ec1594be095e",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "тут",
+      "en": "here",
+      "lemma": "тут",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1629.3400003433228,
+      "end": 1630.5000003814698,
+      "verification": "two-transcript agreement",
+      "rank": 282,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1629.3400003433228,
+          "end": 1630.5000003814698
+        }
+      ]
+    },
+    {
+      "id": "music-95867ce57261",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "человек",
+      "en": "human being",
+      "lemma": "человек",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1632.6399995803833,
+      "end": 1634.240000152588,
+      "verification": "two-transcript agreement",
+      "rank": 283,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1632.6399995803833,
+          "end": 1634.240000152588
+        }
+      ]
+    },
+    {
+      "id": "music-1e4b07fe6164",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "уйду",
+      "en": "I'll leave",
+      "lemma": "уйти",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1636.8399993896485,
+      "end": 1638.0399993896485,
+      "verification": "two-transcript agreement",
+      "rank": 284,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1636.8399993896485,
+          "end": 1638.0399993896485
+        }
+      ]
+    },
+    {
+      "id": "music-56b368abedf8",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "быть",
+      "en": "to be",
+      "lemma": "быть",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1647.1599990844727,
+      "end": 1648.0599998474122,
+      "verification": "two-transcript agreement",
+      "rank": 285,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1647.1599990844727,
+          "end": 1648.0599998474122
+        }
+      ]
+    },
+    {
+      "id": "music-da6bc27c3905",
+      "songId": "mdb-13",
+      "song": "Я КОГДА-НИБУДЬ УЙДУ",
+      "ru": "на",
+      "en": "in (public view)",
+      "lemma": "на",
+      "type": "word",
+      "usage": "neutral",
+      "start": 1647.3599998474122,
+      "end": 1648.320000076294,
+      "verification": "two-transcript agreement",
+      "rank": 286,
+      "occurrences": [
+        {
+          "songId": "mdb-13",
+          "song": "Я КОГДА-НИБУДЬ УЙДУ",
+          "start": 1647.3599998474122,
+          "end": 1648.320000076294
+        }
+      ]
+    }
+  ],
+  "qualityNote": "Draft vocabulary from your audio, checked against two transcriptions. Some words and clip timings may still need correction.",
+  "songVocabularyEntries": 366
+}

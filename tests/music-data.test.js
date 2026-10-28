@@ -1,0 +1,6 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+const album=JSON.parse(fs.readFileSync(new URL('../public/music/album.json',import.meta.url)));
+test('album has 13 ordered playable track boundaries covering the supplied recording',()=>{assert.equal(album.songs.length,13);assert.equal(album.songs[0].start,0);assert.equal(album.songs.at(-1).end,album.duration);album.songs.forEach((s,i)=>{assert.ok(s.end>s.start);if(i)assert.equal(s.start,album.songs[i-1].end);});});
+test('vocabulary IDs are unique, translations are populated, clips stay inside their song',()=>{assert.ok(album.cards.length);assert.equal(new Set(album.cards.map(c=>c.id)).size,album.cards.length);for(const c of album.cards){const s=album.songs.find(s=>s.id===c.songId);assert.ok(s);for(const o of c.occurrences||[c]){const track=album.songs.find(t=>t.id===o.songId);assert.ok(track);assert.ok(o.start>=track.start&&o.end<=track.end&&o.end>o.start);assert.ok(o.end-o.start<10);}assert.ok(c.ru.trim()&&c.en.trim()&&c.lemma.trim());assert.ok(c.start>=s.start&&c.end<=s.end&&c.end>c.start);assert.ok(c.end-c.start<10);assert.ok(c.ru.split(/\s+/).length<=5);assert.ok(!/субтитр|dimatorzok/i.test(c.ru));}});

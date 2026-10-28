@@ -1,0 +1,13 @@
+{
+  "audio": "User-provided album recording",
+  "trackList": "https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY",
+  "extractionModel": "gpt-6-astra",
+  "reasoningEffort": "high",
+  "transcriptionModels": [
+    "whisper-1",
+    "gpt-4o-transcribe"
+  ],
+  "cards": 286,
+  "songs": 13,
+  "review": "Automatic agreement checks, not a human-verified lyric edition"
+}

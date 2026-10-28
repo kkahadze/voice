@@ -1,0 +1,4 @@
+export const normalizeTerm=s=>s.toLowerCase().replaceAll('ё','е').replaceAll('\u0301','').replace(/[^\p{L}\p{N} ]/gu,'').replace(/\s+/g,' ').trim();
+export function mergeMusicCards(cards){const groups=new Map();for(const c of cards){const key=normalizeTerm(c.ru)+'|'+normalizeTerm(c.en);const occurrence={songId:c.songId,song:c.song,start:c.start,end:c.end};if(groups.has(key)){const item=groups.get(key);if(!item.occurrences.some(o=>o.songId===c.songId&&o.start===c.start))item.occurrences.push(occurrence);}else groups.set(key,{...c,id:'music-'+c.id.split('-').at(-1),occurrences:[occurrence]});}return [...groups.values()].map((c,i)=>({...c,rank:i+1}));}
+export function inSong(card,songId){return !songId||(card.occurrences||[card]).some(o=>o.songId===songId);}
+export function forSong(card,songId){if(!card)return card;return {...card,...((card.occurrences||[]).find(o=>o.songId===songId)||{})};}

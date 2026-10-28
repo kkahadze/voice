@@ -1,0 +1,11 @@
+Spanish learning content — version 1
+
+The 1,000 Spanish vocabulary cards and the Spanish speaking, listening and topic curricula were written for this app in October 2026. They are original educational content, not copied from a dictionary, song, textbook or frequency list.
+
+The vocabulary order is curated for broad everyday usefulness and learning coverage. Rank means position in this deck, not measured corpus frequency. It includes common words, function words and a small number of useful multiword expressions. Spanish spelling retains standard written accents; the display field does not add artificial stress marks.
+
+Meanings are concise English learning glosses, not exhaustive dictionary entries. Many words have additional meanings or regional uses. Regional variants are labeled when useful. Nouns are shown as headwords without systematically attaching articles; the deck is not a complete noun-gender reference. The tutor can explain gender and usage in context.
+
+The speaking and listening curricula use B1, B2, C1 and C2 as practice-design guides. These are not certified CEFR tests and do not establish an official proficiency level. Listening lessons contain original passages, questions and answer keys; revealing the transcript prevents that attempt from being counted as independent listening evidence. Regional Spanish varieties should be accepted when appropriate.
+
+Spanish progress is separate from Russian progress. Existing Russian songs remain in the Russian library; the Spanish listening library uses original spoken lessons.

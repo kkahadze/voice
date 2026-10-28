@@ -1,0 +1,9 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {applyAssessment,undoAssessment} from '../public/practice-state.js';
+import {getPractice} from '../public/practice-store.js';
+const transcript=[{speaker:'user',text:'Я хочу говорить о кино.\nМне нравится этот фильм.'},{speaker:'teacher',text:'Почему он тебе нравится?'}];
+const session={id:'saved-talk',mode:'talk',at:1000,transcript,topicId:'topic-talk-films',incomplete:false};
+test('assessment retains exact transcripts across JSON storage, reload, duplicate review and undo',()=>{const state={cards:[{id:'skill',mode:'talk',stage:0}],sessions:[{...session,status:'pending'}]};const result={summary:'Discussed films',updates:[{id:'skill',outcome:'success',reason:'Explained preference',quote:'Мне нравится этот фильм.'}]};const applied=applyAssessment(state,session,result);const restored=getPractice({getItem:()=>JSON.stringify(applied)});assert.deepEqual(restored.sessions[0].transcript,transcript);assert.equal(restored.sessions[0].topicId,session.topicId);assert.equal(applyAssessment(restored,session,result),restored);assert.deepEqual(undoAssessment(restored,session.id).sessions[0].transcript,transcript);});
+test('zero-update reviews retain transcripts and retries preserve already saved transcripts',()=>{const state={cards:[],sessions:[{...session,status:'failed'}]};const applied=applyAssessment(state,{id:session.id,mode:'talk',at:1000},{summary:'No changes',updates:[]});assert.deepEqual(applied.sessions[0].transcript,transcript);assert.equal(applied.sessions[0].status,'applied');});
+test('older sessions without transcript remain distinguishable from empty recordings',()=>{const result={summary:'No speech',updates:[]};assert.equal(applyAssessment({cards:[],sessions:[]},{id:'old',mode:'talk'},result).sessions[0].transcript,null);assert.deepEqual(applyAssessment({cards:[],sessions:[]},{id:'empty',mode:'talk',transcript:[]},result).sessions[0].transcript,[]);});

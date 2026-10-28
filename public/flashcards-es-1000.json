@@ -1,0 +1,7002 @@
+[
+  {
+    "id": "es-word-hola",
+    "rank": 1,
+    "es": "hola",
+    "stressed": "hola",
+    "en": "hello"
+  },
+  {
+    "id": "es-word-adiós",
+    "rank": 2,
+    "es": "adiós",
+    "stressed": "adiós",
+    "en": "goodbye"
+  },
+  {
+    "id": "es-word-gracias",
+    "rank": 3,
+    "es": "gracias",
+    "stressed": "gracias",
+    "en": "thank you"
+  },
+  {
+    "id": "es-word-por-favor",
+    "rank": 4,
+    "es": "por favor",
+    "stressed": "por favor",
+    "en": "please"
+  },
+  {
+    "id": "es-word-perdón",
+    "rank": 5,
+    "es": "perdón",
+    "stressed": "perdón",
+    "en": "sorry; excuse me"
+  },
+  {
+    "id": "es-word-sí",
+    "rank": 6,
+    "es": "sí",
+    "stressed": "sí",
+    "en": "yes"
+  },
+  {
+    "id": "es-word-no",
+    "rank": 7,
+    "es": "no",
+    "stressed": "no",
+    "en": "no; not"
+  },
+  {
+    "id": "es-word-tal-vez",
+    "rank": 8,
+    "es": "tal vez",
+    "stressed": "tal vez",
+    "en": "perhaps"
+  },
+  {
+    "id": "es-word-bien",
+    "rank": 9,
+    "es": "bien",
+    "stressed": "bien",
+    "en": "well; fine"
+  },
+  {
+    "id": "es-word-mal",
+    "rank": 10,
+    "es": "mal",
+    "stressed": "mal",
+    "en": "badly; poorly"
+  },
+  {
+    "id": "es-word-hoy",
+    "rank": 11,
+    "es": "hoy",
+    "stressed": "hoy",
+    "en": "today"
+  },
+  {
+    "id": "es-word-ayer",
+    "rank": 12,
+    "es": "ayer",
+    "stressed": "ayer",
+    "en": "yesterday"
+  },
+  {
+    "id": "es-word-mañana",
+    "rank": 13,
+    "es": "mañana",
+    "stressed": "mañana",
+    "en": "tomorrow; morning"
+  },
+  {
+    "id": "es-word-ahora",
+    "rank": 14,
+    "es": "ahora",
+    "stressed": "ahora",
+    "en": "now"
+  },
+  {
+    "id": "es-word-antes",
+    "rank": 15,
+    "es": "antes",
+    "stressed": "antes",
+    "en": "before"
+  },
+  {
+    "id": "es-word-después",
+    "rank": 16,
+    "es": "después",
+    "stressed": "después",
+    "en": "after; afterwards"
+  },
+  {
+    "id": "es-word-siempre",
+    "rank": 17,
+    "es": "siempre",
+    "stressed": "siempre",
+    "en": "always"
+  },
+  {
+    "id": "es-word-nunca",
+    "rank": 18,
+    "es": "nunca",
+    "stressed": "nunca",
+    "en": "never"
+  },
+  {
+    "id": "es-word-a-veces",
+    "rank": 19,
+    "es": "a veces",
+    "stressed": "a veces",
+    "en": "sometimes"
+  },
+  {
+    "id": "es-word-todavía",
+    "rank": 20,
+    "es": "todavía",
+    "stressed": "todavía",
+    "en": "still; yet"
+  },
+  {
+    "id": "es-word-ya",
+    "rank": 21,
+    "es": "ya",
+    "stressed": "ya",
+    "en": "already; now"
+  },
+  {
+    "id": "es-word-pronto",
+    "rank": 22,
+    "es": "pronto",
+    "stressed": "pronto",
+    "en": "soon"
+  },
+  {
+    "id": "es-word-tarde",
+    "rank": 23,
+    "es": "tarde",
+    "stressed": "tarde",
+    "en": "late; afternoon"
+  },
+  {
+    "id": "es-word-luego",
+    "rank": 24,
+    "es": "luego",
+    "stressed": "luego",
+    "en": "later; then"
+  },
+  {
+    "id": "es-word-aquí",
+    "rank": 25,
+    "es": "aquí",
+    "stressed": "aquí",
+    "en": "here"
+  },
+  {
+    "id": "es-word-ahí",
+    "rank": 26,
+    "es": "ahí",
+    "stressed": "ahí",
+    "en": "there (near you)"
+  },
+  {
+    "id": "es-word-allí",
+    "rank": 27,
+    "es": "allí",
+    "stressed": "allí",
+    "en": "over there"
+  },
+  {
+    "id": "es-word-cerca",
+    "rank": 28,
+    "es": "cerca",
+    "stressed": "cerca",
+    "en": "near"
+  },
+  {
+    "id": "es-word-lejos",
+    "rank": 29,
+    "es": "lejos",
+    "stressed": "lejos",
+    "en": "far"
+  },
+  {
+    "id": "es-word-arriba",
+    "rank": 30,
+    "es": "arriba",
+    "stressed": "arriba",
+    "en": "up; above"
+  },
+  {
+    "id": "es-word-abajo",
+    "rank": 31,
+    "es": "abajo",
+    "stressed": "abajo",
+    "en": "down; below"
+  },
+  {
+    "id": "es-word-dentro",
+    "rank": 32,
+    "es": "dentro",
+    "stressed": "dentro",
+    "en": "inside"
+  },
+  {
+    "id": "es-word-fuera",
+    "rank": 33,
+    "es": "fuera",
+    "stressed": "fuera",
+    "en": "outside"
+  },
+  {
+    "id": "es-word-delante",
+    "rank": 34,
+    "es": "delante",
+    "stressed": "delante",
+    "en": "in front"
+  },
+  {
+    "id": "es-word-detrás",
+    "rank": 35,
+    "es": "detrás",
+    "stressed": "detrás",
+    "en": "behind"
+  },
+  {
+    "id": "es-word-junto",
+    "rank": 36,
+    "es": "junto",
+    "stressed": "junto",
+    "en": "together; next to (junto a)"
+  },
+  {
+    "id": "es-word-más",
+    "rank": 37,
+    "es": "más",
+    "stressed": "más",
+    "en": "more"
+  },
+  {
+    "id": "es-word-menos",
+    "rank": 38,
+    "es": "menos",
+    "stressed": "menos",
+    "en": "less; fewer"
+  },
+  {
+    "id": "es-word-mucho",
+    "rank": 39,
+    "es": "mucho",
+    "stressed": "mucho",
+    "en": "a lot; much"
+  },
+  {
+    "id": "es-word-poco",
+    "rank": 40,
+    "es": "poco",
+    "stressed": "poco",
+    "en": "little; not much"
+  },
+  {
+    "id": "es-word-bastante",
+    "rank": 41,
+    "es": "bastante",
+    "stressed": "bastante",
+    "en": "quite; enough"
+  },
+  {
+    "id": "es-word-demasiado",
+    "rank": 42,
+    "es": "demasiado",
+    "stressed": "demasiado",
+    "en": "too much; too"
+  },
+  {
+    "id": "es-word-muy",
+    "rank": 43,
+    "es": "muy",
+    "stressed": "muy",
+    "en": "very"
+  },
+  {
+    "id": "es-word-tan",
+    "rank": 44,
+    "es": "tan",
+    "stressed": "tan",
+    "en": "so; as"
+  },
+  {
+    "id": "es-word-casi",
+    "rank": 45,
+    "es": "casi",
+    "stressed": "casi",
+    "en": "almost"
+  },
+  {
+    "id": "es-word-solo",
+    "rank": 46,
+    "es": "solo",
+    "stressed": "solo",
+    "en": "alone; only"
+  },
+  {
+    "id": "es-word-también",
+    "rank": 47,
+    "es": "también",
+    "stressed": "también",
+    "en": "also; too"
+  },
+  {
+    "id": "es-word-tampoco",
+    "rank": 48,
+    "es": "tampoco",
+    "stressed": "tampoco",
+    "en": "neither; not either"
+  },
+  {
+    "id": "es-word-incluso",
+    "rank": 49,
+    "es": "incluso",
+    "stressed": "incluso",
+    "en": "even"
+  },
+  {
+    "id": "es-word-quizá",
+    "rank": 50,
+    "es": "quizá",
+    "stressed": "quizá",
+    "en": "perhaps; maybe"
+  },
+  {
+    "id": "es-word-y",
+    "rank": 51,
+    "es": "y",
+    "stressed": "y",
+    "en": "and"
+  },
+  {
+    "id": "es-word-o",
+    "rank": 52,
+    "es": "o",
+    "stressed": "o",
+    "en": "or"
+  },
+  {
+    "id": "es-word-pero",
+    "rank": 53,
+    "es": "pero",
+    "stressed": "pero",
+    "en": "but"
+  },
+  {
+    "id": "es-word-porque",
+    "rank": 54,
+    "es": "porque",
+    "stressed": "porque",
+    "en": "because"
+  },
+  {
+    "id": "es-word-aunque",
+    "rank": 55,
+    "es": "aunque",
+    "stressed": "aunque",
+    "en": "although; even if"
+  },
+  {
+    "id": "es-word-si",
+    "rank": 56,
+    "es": "si",
+    "stressed": "si",
+    "en": "if"
+  },
+  {
+    "id": "es-word-cuando",
+    "rank": 57,
+    "es": "cuando",
+    "stressed": "cuando",
+    "en": "when"
+  },
+  {
+    "id": "es-word-mientras",
+    "rank": 58,
+    "es": "mientras",
+    "stressed": "mientras",
+    "en": "while"
+  },
+  {
+    "id": "es-word-como",
+    "rank": 59,
+    "es": "como",
+    "stressed": "como",
+    "en": "as; like"
+  },
+  {
+    "id": "es-word-que",
+    "rank": 60,
+    "es": "que",
+    "stressed": "que",
+    "en": "that; which"
+  },
+  {
+    "id": "es-word-quien",
+    "rank": 61,
+    "es": "quien",
+    "stressed": "quien",
+    "en": "who; whoever (relative pronoun)"
+  },
+  {
+    "id": "es-word-donde",
+    "rank": 62,
+    "es": "donde",
+    "stressed": "donde",
+    "en": "where (relative)"
+  },
+  {
+    "id": "es-word-qué",
+    "rank": 63,
+    "es": "qué",
+    "stressed": "qué",
+    "en": "what; which"
+  },
+  {
+    "id": "es-word-quién",
+    "rank": 64,
+    "es": "quién",
+    "stressed": "quién",
+    "en": "who (question or exclamation)"
+  },
+  {
+    "id": "es-word-cuál",
+    "rank": 65,
+    "es": "cuál",
+    "stressed": "cuál",
+    "en": "which one"
+  },
+  {
+    "id": "es-word-cómo",
+    "rank": 66,
+    "es": "cómo",
+    "stressed": "cómo",
+    "en": "how"
+  },
+  {
+    "id": "es-word-cuándo",
+    "rank": 67,
+    "es": "cuándo",
+    "stressed": "cuándo",
+    "en": "when (question)"
+  },
+  {
+    "id": "es-word-dónde",
+    "rank": 68,
+    "es": "dónde",
+    "stressed": "dónde",
+    "en": "where (question)"
+  },
+  {
+    "id": "es-word-cuánto",
+    "rank": 69,
+    "es": "cuánto",
+    "stressed": "cuánto",
+    "en": "how much; how many"
+  },
+  {
+    "id": "es-word-por-qué",
+    "rank": 70,
+    "es": "por qué",
+    "stressed": "por qué",
+    "en": "why"
+  },
+  {
+    "id": "es-word-para",
+    "rank": 71,
+    "es": "para",
+    "stressed": "para",
+    "en": "for; in order to"
+  },
+  {
+    "id": "es-word-por",
+    "rank": 72,
+    "es": "por",
+    "stressed": "por",
+    "en": "by; through; because of"
+  },
+  {
+    "id": "es-word-de",
+    "rank": 73,
+    "es": "de",
+    "stressed": "de",
+    "en": "of; from"
+  },
+  {
+    "id": "es-word-a",
+    "rank": 74,
+    "es": "a",
+    "stressed": "a",
+    "en": "to; at"
+  },
+  {
+    "id": "es-word-con",
+    "rank": 75,
+    "es": "con",
+    "stressed": "con",
+    "en": "with"
+  },
+  {
+    "id": "es-word-sin",
+    "rank": 76,
+    "es": "sin",
+    "stressed": "sin",
+    "en": "without"
+  },
+  {
+    "id": "es-word-sobre",
+    "rank": 77,
+    "es": "sobre",
+    "stressed": "sobre",
+    "en": "on; about"
+  },
+  {
+    "id": "es-word-entre",
+    "rank": 78,
+    "es": "entre",
+    "stressed": "entre",
+    "en": "between; among"
+  },
+  {
+    "id": "es-word-hasta",
+    "rank": 79,
+    "es": "hasta",
+    "stressed": "hasta",
+    "en": "until; up to"
+  },
+  {
+    "id": "es-word-desde",
+    "rank": 80,
+    "es": "desde",
+    "stressed": "desde",
+    "en": "from; since"
+  },
+  {
+    "id": "es-word-hacia",
+    "rank": 81,
+    "es": "hacia",
+    "stressed": "hacia",
+    "en": "towards"
+  },
+  {
+    "id": "es-word-contra",
+    "rank": 82,
+    "es": "contra",
+    "stressed": "contra",
+    "en": "against"
+  },
+  {
+    "id": "es-word-según",
+    "rank": 83,
+    "es": "según",
+    "stressed": "según",
+    "en": "according to"
+  },
+  {
+    "id": "es-word-durante",
+    "rank": 84,
+    "es": "durante",
+    "stressed": "durante",
+    "en": "during"
+  },
+  {
+    "id": "es-word-excepto",
+    "rank": 85,
+    "es": "excepto",
+    "stressed": "excepto",
+    "en": "except"
+  },
+  {
+    "id": "es-word-además",
+    "rank": 86,
+    "es": "además",
+    "stressed": "además",
+    "en": "besides; furthermore"
+  },
+  {
+    "id": "es-word-entonces",
+    "rank": 87,
+    "es": "entonces",
+    "stressed": "entonces",
+    "en": "then; in that case"
+  },
+  {
+    "id": "es-word-así",
+    "rank": 88,
+    "es": "así",
+    "stressed": "así",
+    "en": "like this; thus"
+  },
+  {
+    "id": "es-word-pues",
+    "rank": 89,
+    "es": "pues",
+    "stressed": "pues",
+    "en": "well; since"
+  },
+  {
+    "id": "es-word-sin-embargo",
+    "rank": 90,
+    "es": "sin embargo",
+    "stressed": "sin embargo",
+    "en": "however"
+  },
+  {
+    "id": "es-word-por-eso",
+    "rank": 91,
+    "es": "por eso",
+    "stressed": "por eso",
+    "en": "for that reason"
+  },
+  {
+    "id": "es-word-es-decir",
+    "rank": 92,
+    "es": "es decir",
+    "stressed": "es decir",
+    "en": "that is to say"
+  },
+  {
+    "id": "es-word-en-cambio",
+    "rank": 93,
+    "es": "en cambio",
+    "stressed": "en cambio",
+    "en": "on the other hand"
+  },
+  {
+    "id": "es-word-por-tanto",
+    "rank": 94,
+    "es": "por tanto",
+    "stressed": "por tanto",
+    "en": "therefore"
+  },
+  {
+    "id": "es-word-al-menos",
+    "rank": 95,
+    "es": "al menos",
+    "stressed": "al menos",
+    "en": "at least"
+  },
+  {
+    "id": "es-word-yo",
+    "rank": 96,
+    "es": "yo",
+    "stressed": "yo",
+    "en": "I"
+  },
+  {
+    "id": "es-word-tú",
+    "rank": 97,
+    "es": "tú",
+    "stressed": "tú",
+    "en": "you (informal singular)"
+  },
+  {
+    "id": "es-word-él",
+    "rank": 98,
+    "es": "él",
+    "stressed": "él",
+    "en": "he"
+  },
+  {
+    "id": "es-word-ella",
+    "rank": 99,
+    "es": "ella",
+    "stressed": "ella",
+    "en": "she"
+  },
+  {
+    "id": "es-word-usted",
+    "rank": 100,
+    "es": "usted",
+    "stressed": "usted",
+    "en": "you (formal singular)"
+  },
+  {
+    "id": "es-word-nosotros",
+    "rank": 101,
+    "es": "nosotros",
+    "stressed": "nosotros",
+    "en": "we (masculine or mixed)"
+  },
+  {
+    "id": "es-word-vosotros",
+    "rank": 102,
+    "es": "vosotros",
+    "stressed": "vosotros",
+    "en": "you (informal plural, Spain)"
+  },
+  {
+    "id": "es-word-ustedes",
+    "rank": 103,
+    "es": "ustedes",
+    "stressed": "ustedes",
+    "en": "you (plural)"
+  },
+  {
+    "id": "es-word-ellos",
+    "rank": 104,
+    "es": "ellos",
+    "stressed": "ellos",
+    "en": "they (masculine or mixed)"
+  },
+  {
+    "id": "es-word-me",
+    "rank": 105,
+    "es": "me",
+    "stressed": "me",
+    "en": "me; myself"
+  },
+  {
+    "id": "es-word-te",
+    "rank": 106,
+    "es": "te",
+    "stressed": "te",
+    "en": "you; yourself"
+  },
+  {
+    "id": "es-word-se",
+    "rank": 107,
+    "es": "se",
+    "stressed": "se",
+    "en": "oneself; reflexive pronoun"
+  },
+  {
+    "id": "es-word-nos",
+    "rank": 108,
+    "es": "nos",
+    "stressed": "nos",
+    "en": "us; ourselves"
+  },
+  {
+    "id": "es-word-os",
+    "rank": 109,
+    "es": "os",
+    "stressed": "os",
+    "en": "you; yourselves (Spain)"
+  },
+  {
+    "id": "es-word-lo",
+    "rank": 110,
+    "es": "lo",
+    "stressed": "lo",
+    "en": "it; him (direct object)"
+  },
+  {
+    "id": "es-word-la",
+    "rank": 111,
+    "es": "la",
+    "stressed": "la",
+    "en": "it; her; the (feminine)"
+  },
+  {
+    "id": "es-word-le",
+    "rank": 112,
+    "es": "le",
+    "stressed": "le",
+    "en": "to him; to her; to you"
+  },
+  {
+    "id": "es-word-les",
+    "rank": 113,
+    "es": "les",
+    "stressed": "les",
+    "en": "to them; to you all"
+  },
+  {
+    "id": "es-word-mi",
+    "rank": 114,
+    "es": "mi",
+    "stressed": "mi",
+    "en": "my"
+  },
+  {
+    "id": "es-word-tu",
+    "rank": 115,
+    "es": "tu",
+    "stressed": "tu",
+    "en": "your (informal)"
+  },
+  {
+    "id": "es-word-su",
+    "rank": 116,
+    "es": "su",
+    "stressed": "su",
+    "en": "his; her; your; their"
+  },
+  {
+    "id": "es-word-nuestro",
+    "rank": 117,
+    "es": "nuestro",
+    "stressed": "nuestro",
+    "en": "our"
+  },
+  {
+    "id": "es-word-mío",
+    "rank": 118,
+    "es": "mío",
+    "stressed": "mío",
+    "en": "mine"
+  },
+  {
+    "id": "es-word-tuyo",
+    "rank": 119,
+    "es": "tuyo",
+    "stressed": "tuyo",
+    "en": "yours (informal)"
+  },
+  {
+    "id": "es-word-este",
+    "rank": 120,
+    "es": "este",
+    "stressed": "este",
+    "en": "this (masculine); east"
+  },
+  {
+    "id": "es-word-esto",
+    "rank": 121,
+    "es": "esto",
+    "stressed": "esto",
+    "en": "this (unspecified thing)"
+  },
+  {
+    "id": "es-word-ese",
+    "rank": 122,
+    "es": "ese",
+    "stressed": "ese",
+    "en": "that (masculine, near you)"
+  },
+  {
+    "id": "es-word-eso",
+    "rank": 123,
+    "es": "eso",
+    "stressed": "eso",
+    "en": "that (unspecified thing)"
+  },
+  {
+    "id": "es-word-aquel",
+    "rank": 124,
+    "es": "aquel",
+    "stressed": "aquel",
+    "en": "that over there (masculine)"
+  },
+  {
+    "id": "es-word-aquello",
+    "rank": 125,
+    "es": "aquello",
+    "stressed": "aquello",
+    "en": "that over there (unspecified)"
+  },
+  {
+    "id": "es-word-alguien",
+    "rank": 126,
+    "es": "alguien",
+    "stressed": "alguien",
+    "en": "someone"
+  },
+  {
+    "id": "es-word-nadie",
+    "rank": 127,
+    "es": "nadie",
+    "stressed": "nadie",
+    "en": "nobody"
+  },
+  {
+    "id": "es-word-algo",
+    "rank": 128,
+    "es": "algo",
+    "stressed": "algo",
+    "en": "something"
+  },
+  {
+    "id": "es-word-nada",
+    "rank": 129,
+    "es": "nada",
+    "stressed": "nada",
+    "en": "nothing"
+  },
+  {
+    "id": "es-word-todo",
+    "rank": 130,
+    "es": "todo",
+    "stressed": "todo",
+    "en": "everything; all"
+  },
+  {
+    "id": "es-word-cada",
+    "rank": 131,
+    "es": "cada",
+    "stressed": "cada",
+    "en": "each"
+  },
+  {
+    "id": "es-word-otro",
+    "rank": 132,
+    "es": "otro",
+    "stressed": "otro",
+    "en": "other; another"
+  },
+  {
+    "id": "es-word-mismo",
+    "rank": 133,
+    "es": "mismo",
+    "stressed": "mismo",
+    "en": "same; oneself"
+  },
+  {
+    "id": "es-word-cualquiera",
+    "rank": 134,
+    "es": "cualquiera",
+    "stressed": "cualquiera",
+    "en": "anyone; any one"
+  },
+  {
+    "id": "es-word-ninguno",
+    "rank": 135,
+    "es": "ninguno",
+    "stressed": "ninguno",
+    "en": "none; not any"
+  },
+  {
+    "id": "es-word-ser",
+    "rank": 136,
+    "es": "ser",
+    "stressed": "ser",
+    "en": "to be (identity; characteristics)"
+  },
+  {
+    "id": "es-word-estar",
+    "rank": 137,
+    "es": "estar",
+    "stressed": "estar",
+    "en": "to be (state; location)"
+  },
+  {
+    "id": "es-word-haber",
+    "rank": 138,
+    "es": "haber",
+    "stressed": "haber",
+    "en": "auxiliary have; there to be"
+  },
+  {
+    "id": "es-word-tener",
+    "rank": 139,
+    "es": "tener",
+    "stressed": "tener",
+    "en": "to have"
+  },
+  {
+    "id": "es-word-hacer",
+    "rank": 140,
+    "es": "hacer",
+    "stressed": "hacer",
+    "en": "to do; to make"
+  },
+  {
+    "id": "es-word-ir",
+    "rank": 141,
+    "es": "ir",
+    "stressed": "ir",
+    "en": "to go"
+  },
+  {
+    "id": "es-word-venir",
+    "rank": 142,
+    "es": "venir",
+    "stressed": "venir",
+    "en": "to come"
+  },
+  {
+    "id": "es-word-volver",
+    "rank": 143,
+    "es": "volver",
+    "stressed": "volver",
+    "en": "to return"
+  },
+  {
+    "id": "es-word-salir",
+    "rank": 144,
+    "es": "salir",
+    "stressed": "salir",
+    "en": "to go out; to leave"
+  },
+  {
+    "id": "es-word-entrar",
+    "rank": 145,
+    "es": "entrar",
+    "stressed": "entrar",
+    "en": "to enter"
+  },
+  {
+    "id": "es-word-llegar",
+    "rank": 146,
+    "es": "llegar",
+    "stressed": "llegar",
+    "en": "to arrive"
+  },
+  {
+    "id": "es-word-pasar",
+    "rank": 147,
+    "es": "pasar",
+    "stressed": "pasar",
+    "en": "to pass; to happen"
+  },
+  {
+    "id": "es-word-quedar",
+    "rank": 148,
+    "es": "quedar",
+    "stressed": "quedar",
+    "en": "to remain; to arrange to meet"
+  },
+  {
+    "id": "es-word-quedarse",
+    "rank": 149,
+    "es": "quedarse",
+    "stressed": "quedarse",
+    "en": "to stay; to remain"
+  },
+  {
+    "id": "es-word-llevar",
+    "rank": 150,
+    "es": "llevar",
+    "stressed": "llevar",
+    "en": "to carry; to wear"
+  },
+  {
+    "id": "es-word-traer",
+    "rank": 151,
+    "es": "traer",
+    "stressed": "traer",
+    "en": "to bring"
+  },
+  {
+    "id": "es-word-dar",
+    "rank": 152,
+    "es": "dar",
+    "stressed": "dar",
+    "en": "to give"
+  },
+  {
+    "id": "es-word-decir",
+    "rank": 153,
+    "es": "decir",
+    "stressed": "decir",
+    "en": "to say; to tell"
+  },
+  {
+    "id": "es-word-hablar",
+    "rank": 154,
+    "es": "hablar",
+    "stressed": "hablar",
+    "en": "to speak"
+  },
+  {
+    "id": "es-word-contar",
+    "rank": 155,
+    "es": "contar",
+    "stressed": "contar",
+    "en": "to count; to tell a story"
+  },
+  {
+    "id": "es-word-preguntar",
+    "rank": 156,
+    "es": "preguntar",
+    "stressed": "preguntar",
+    "en": "to ask a question"
+  },
+  {
+    "id": "es-word-responder",
+    "rank": 157,
+    "es": "responder",
+    "stressed": "responder",
+    "en": "to answer"
+  },
+  {
+    "id": "es-word-llamar",
+    "rank": 158,
+    "es": "llamar",
+    "stressed": "llamar",
+    "en": "to call"
+  },
+  {
+    "id": "es-word-llamarse",
+    "rank": 159,
+    "es": "llamarse",
+    "stressed": "llamarse",
+    "en": "to be called"
+  },
+  {
+    "id": "es-word-escuchar",
+    "rank": 160,
+    "es": "escuchar",
+    "stressed": "escuchar",
+    "en": "to listen"
+  },
+  {
+    "id": "es-word-oír",
+    "rank": 161,
+    "es": "oír",
+    "stressed": "oír",
+    "en": "to hear"
+  },
+  {
+    "id": "es-word-ver",
+    "rank": 162,
+    "es": "ver",
+    "stressed": "ver",
+    "en": "to see"
+  },
+  {
+    "id": "es-word-mirar",
+    "rank": 163,
+    "es": "mirar",
+    "stressed": "mirar",
+    "en": "to look at"
+  },
+  {
+    "id": "es-word-leer",
+    "rank": 164,
+    "es": "leer",
+    "stressed": "leer",
+    "en": "to read"
+  },
+  {
+    "id": "es-word-escribir",
+    "rank": 165,
+    "es": "escribir",
+    "stressed": "escribir",
+    "en": "to write"
+  },
+  {
+    "id": "es-word-saber",
+    "rank": 166,
+    "es": "saber",
+    "stressed": "saber",
+    "en": "to know a fact; to know how"
+  },
+  {
+    "id": "es-word-conocer",
+    "rank": 167,
+    "es": "conocer",
+    "stressed": "conocer",
+    "en": "to know a person or place"
+  },
+  {
+    "id": "es-word-entender",
+    "rank": 168,
+    "es": "entender",
+    "stressed": "entender",
+    "en": "to understand"
+  },
+  {
+    "id": "es-word-comprender",
+    "rank": 169,
+    "es": "comprender",
+    "stressed": "comprender",
+    "en": "to comprehend"
+  },
+  {
+    "id": "es-word-pensar",
+    "rank": 170,
+    "es": "pensar",
+    "stressed": "pensar",
+    "en": "to think"
+  },
+  {
+    "id": "es-word-creer",
+    "rank": 171,
+    "es": "creer",
+    "stressed": "creer",
+    "en": "to believe"
+  },
+  {
+    "id": "es-word-recordar",
+    "rank": 172,
+    "es": "recordar",
+    "stressed": "recordar",
+    "en": "to remember"
+  },
+  {
+    "id": "es-word-olvidar",
+    "rank": 173,
+    "es": "olvidar",
+    "stressed": "olvidar",
+    "en": "to forget"
+  },
+  {
+    "id": "es-word-aprender",
+    "rank": 174,
+    "es": "aprender",
+    "stressed": "aprender",
+    "en": "to learn"
+  },
+  {
+    "id": "es-word-enseñar",
+    "rank": 175,
+    "es": "enseñar",
+    "stressed": "enseñar",
+    "en": "to teach; to show"
+  },
+  {
+    "id": "es-word-estudiar",
+    "rank": 176,
+    "es": "estudiar",
+    "stressed": "estudiar",
+    "en": "to study"
+  },
+  {
+    "id": "es-word-practicar",
+    "rank": 177,
+    "es": "practicar",
+    "stressed": "practicar",
+    "en": "to practice"
+  },
+  {
+    "id": "es-word-poder",
+    "rank": 178,
+    "es": "poder",
+    "stressed": "poder",
+    "en": "to be able to"
+  },
+  {
+    "id": "es-word-querer",
+    "rank": 179,
+    "es": "querer",
+    "stressed": "querer",
+    "en": "to want; to love"
+  },
+  {
+    "id": "es-word-necesitar",
+    "rank": 180,
+    "es": "necesitar",
+    "stressed": "necesitar",
+    "en": "to need"
+  },
+  {
+    "id": "es-word-deber",
+    "rank": 181,
+    "es": "deber",
+    "stressed": "deber",
+    "en": "should; to owe"
+  },
+  {
+    "id": "es-word-preferir",
+    "rank": 182,
+    "es": "preferir",
+    "stressed": "preferir",
+    "en": "to prefer"
+  },
+  {
+    "id": "es-word-intentar",
+    "rank": 183,
+    "es": "intentar",
+    "stressed": "intentar",
+    "en": "to try"
+  },
+  {
+    "id": "es-word-conseguir",
+    "rank": 184,
+    "es": "conseguir",
+    "stressed": "conseguir",
+    "en": "to obtain; to manage to"
+  },
+  {
+    "id": "es-word-lograr",
+    "rank": 185,
+    "es": "lograr",
+    "stressed": "lograr",
+    "en": "to achieve"
+  },
+  {
+    "id": "es-word-comer",
+    "rank": 186,
+    "es": "comer",
+    "stressed": "comer",
+    "en": "to eat"
+  },
+  {
+    "id": "es-word-beber",
+    "rank": 187,
+    "es": "beber",
+    "stressed": "beber",
+    "en": "to drink"
+  },
+  {
+    "id": "es-word-cocinar",
+    "rank": 188,
+    "es": "cocinar",
+    "stressed": "cocinar",
+    "en": "to cook"
+  },
+  {
+    "id": "es-word-preparar",
+    "rank": 189,
+    "es": "preparar",
+    "stressed": "preparar",
+    "en": "to prepare"
+  },
+  {
+    "id": "es-word-probar",
+    "rank": 190,
+    "es": "probar",
+    "stressed": "probar",
+    "en": "to try; to taste; to test"
+  },
+  {
+    "id": "es-word-comprar",
+    "rank": 191,
+    "es": "comprar",
+    "stressed": "comprar",
+    "en": "to buy"
+  },
+  {
+    "id": "es-word-vender",
+    "rank": 192,
+    "es": "vender",
+    "stressed": "vender",
+    "en": "to sell"
+  },
+  {
+    "id": "es-word-pagar",
+    "rank": 193,
+    "es": "pagar",
+    "stressed": "pagar",
+    "en": "to pay"
+  },
+  {
+    "id": "es-word-costar",
+    "rank": 194,
+    "es": "costar",
+    "stressed": "costar",
+    "en": "to cost; to be difficult"
+  },
+  {
+    "id": "es-word-pedir",
+    "rank": 195,
+    "es": "pedir",
+    "stressed": "pedir",
+    "en": "to ask for; to order"
+  },
+  {
+    "id": "es-word-servir",
+    "rank": 196,
+    "es": "servir",
+    "stressed": "servir",
+    "en": "to serve; to be useful"
+  },
+  {
+    "id": "es-word-buscar",
+    "rank": 197,
+    "es": "buscar",
+    "stressed": "buscar",
+    "en": "to look for"
+  },
+  {
+    "id": "es-word-encontrar",
+    "rank": 198,
+    "es": "encontrar",
+    "stressed": "encontrar",
+    "en": "to find"
+  },
+  {
+    "id": "es-word-perder",
+    "rank": 199,
+    "es": "perder",
+    "stressed": "perder",
+    "en": "to lose"
+  },
+  {
+    "id": "es-word-perderse",
+    "rank": 200,
+    "es": "perderse",
+    "stressed": "perderse",
+    "en": "to get lost"
+  },
+  {
+    "id": "es-word-ganar",
+    "rank": 201,
+    "es": "ganar",
+    "stressed": "ganar",
+    "en": "to win; to earn"
+  },
+  {
+    "id": "es-word-trabajar",
+    "rank": 202,
+    "es": "trabajar",
+    "stressed": "trabajar",
+    "en": "to work"
+  },
+  {
+    "id": "es-word-vivir",
+    "rank": 203,
+    "es": "vivir",
+    "stressed": "vivir",
+    "en": "to live"
+  },
+  {
+    "id": "es-word-dormir",
+    "rank": 204,
+    "es": "dormir",
+    "stressed": "dormir",
+    "en": "to sleep"
+  },
+  {
+    "id": "es-word-soñar",
+    "rank": 205,
+    "es": "soñar",
+    "stressed": "soñar",
+    "en": "to dream"
+  },
+  {
+    "id": "es-word-despertarse",
+    "rank": 206,
+    "es": "despertarse",
+    "stressed": "despertarse",
+    "en": "to wake up"
+  },
+  {
+    "id": "es-word-levantarse",
+    "rank": 207,
+    "es": "levantarse",
+    "stressed": "levantarse",
+    "en": "to get up"
+  },
+  {
+    "id": "es-word-acostarse",
+    "rank": 208,
+    "es": "acostarse",
+    "stressed": "acostarse",
+    "en": "to go to bed"
+  },
+  {
+    "id": "es-word-sentarse",
+    "rank": 209,
+    "es": "sentarse",
+    "stressed": "sentarse",
+    "en": "to sit down"
+  },
+  {
+    "id": "es-word-ponerse",
+    "rank": 210,
+    "es": "ponerse",
+    "stressed": "ponerse",
+    "en": "to put on; to become"
+  },
+  {
+    "id": "es-word-vestirse",
+    "rank": 211,
+    "es": "vestirse",
+    "stressed": "vestirse",
+    "en": "to get dressed"
+  },
+  {
+    "id": "es-word-lavar",
+    "rank": 212,
+    "es": "lavar",
+    "stressed": "lavar",
+    "en": "to wash"
+  },
+  {
+    "id": "es-word-limpiar",
+    "rank": 213,
+    "es": "limpiar",
+    "stressed": "limpiar",
+    "en": "to clean"
+  },
+  {
+    "id": "es-word-abrir",
+    "rank": 214,
+    "es": "abrir",
+    "stressed": "abrir",
+    "en": "to open"
+  },
+  {
+    "id": "es-word-cerrar",
+    "rank": 215,
+    "es": "cerrar",
+    "stressed": "cerrar",
+    "en": "to close"
+  },
+  {
+    "id": "es-word-empezar",
+    "rank": 216,
+    "es": "empezar",
+    "stressed": "empezar",
+    "en": "to start"
+  },
+  {
+    "id": "es-word-comenzar",
+    "rank": 217,
+    "es": "comenzar",
+    "stressed": "comenzar",
+    "en": "to begin"
+  },
+  {
+    "id": "es-word-terminar",
+    "rank": 218,
+    "es": "terminar",
+    "stressed": "terminar",
+    "en": "to finish"
+  },
+  {
+    "id": "es-word-acabar",
+    "rank": 219,
+    "es": "acabar",
+    "stressed": "acabar",
+    "en": "to finish; to end"
+  },
+  {
+    "id": "es-word-continuar",
+    "rank": 220,
+    "es": "continuar",
+    "stressed": "continuar",
+    "en": "to continue"
+  },
+  {
+    "id": "es-word-seguir",
+    "rank": 221,
+    "es": "seguir",
+    "stressed": "seguir",
+    "en": "to follow; to continue"
+  },
+  {
+    "id": "es-word-parar",
+    "rank": 222,
+    "es": "parar",
+    "stressed": "parar",
+    "en": "to stop"
+  },
+  {
+    "id": "es-word-esperar",
+    "rank": 223,
+    "es": "esperar",
+    "stressed": "esperar",
+    "en": "to wait; to hope"
+  },
+  {
+    "id": "es-word-ayudar",
+    "rank": 224,
+    "es": "ayudar",
+    "stressed": "ayudar",
+    "en": "to help"
+  },
+  {
+    "id": "es-word-usar",
+    "rank": 225,
+    "es": "usar",
+    "stressed": "usar",
+    "en": "to use"
+  },
+  {
+    "id": "es-word-utilizar",
+    "rank": 226,
+    "es": "utilizar",
+    "stressed": "utilizar",
+    "en": "to use; to employ"
+  },
+  {
+    "id": "es-word-cambiar",
+    "rank": 227,
+    "es": "cambiar",
+    "stressed": "cambiar",
+    "en": "to change"
+  },
+  {
+    "id": "es-word-mover",
+    "rank": 228,
+    "es": "mover",
+    "stressed": "mover",
+    "en": "to move something"
+  },
+  {
+    "id": "es-word-moverse",
+    "rank": 229,
+    "es": "moverse",
+    "stressed": "moverse",
+    "en": "to move oneself"
+  },
+  {
+    "id": "es-word-subir",
+    "rank": 230,
+    "es": "subir",
+    "stressed": "subir",
+    "en": "to go up; to upload"
+  },
+  {
+    "id": "es-word-bajar",
+    "rank": 231,
+    "es": "bajar",
+    "stressed": "bajar",
+    "en": "to go down; to download"
+  },
+  {
+    "id": "es-word-caminar",
+    "rank": 232,
+    "es": "caminar",
+    "stressed": "caminar",
+    "en": "to walk"
+  },
+  {
+    "id": "es-word-andar",
+    "rank": 233,
+    "es": "andar",
+    "stressed": "andar",
+    "en": "to walk; to go"
+  },
+  {
+    "id": "es-word-correr",
+    "rank": 234,
+    "es": "correr",
+    "stressed": "correr",
+    "en": "to run"
+  },
+  {
+    "id": "es-word-nadar",
+    "rank": 235,
+    "es": "nadar",
+    "stressed": "nadar",
+    "en": "to swim"
+  },
+  {
+    "id": "es-word-jugar",
+    "rank": 236,
+    "es": "jugar",
+    "stressed": "jugar",
+    "en": "to play"
+  },
+  {
+    "id": "es-word-viajar",
+    "rank": 237,
+    "es": "viajar",
+    "stressed": "viajar",
+    "en": "to travel"
+  },
+  {
+    "id": "es-word-conducir",
+    "rank": 238,
+    "es": "conducir",
+    "stressed": "conducir",
+    "en": "to drive"
+  },
+  {
+    "id": "es-word-volar",
+    "rank": 239,
+    "es": "volar",
+    "stressed": "volar",
+    "en": "to fly"
+  },
+  {
+    "id": "es-word-montar",
+    "rank": 240,
+    "es": "montar",
+    "stressed": "montar",
+    "en": "to ride; to assemble"
+  },
+  {
+    "id": "es-word-visitar",
+    "rank": 241,
+    "es": "visitar",
+    "stressed": "visitar",
+    "en": "to visit"
+  },
+  {
+    "id": "es-word-pasear",
+    "rank": 242,
+    "es": "pasear",
+    "stressed": "pasear",
+    "en": "to stroll"
+  },
+  {
+    "id": "es-word-descansar",
+    "rank": 243,
+    "es": "descansar",
+    "stressed": "descansar",
+    "en": "to rest"
+  },
+  {
+    "id": "es-word-disfrutar",
+    "rank": 244,
+    "es": "disfrutar",
+    "stressed": "disfrutar",
+    "en": "to enjoy"
+  },
+  {
+    "id": "es-word-celebrar",
+    "rank": 245,
+    "es": "celebrar",
+    "stressed": "celebrar",
+    "en": "to celebrate"
+  },
+  {
+    "id": "es-word-bailar",
+    "rank": 246,
+    "es": "bailar",
+    "stressed": "bailar",
+    "en": "to dance"
+  },
+  {
+    "id": "es-word-cantar",
+    "rank": 247,
+    "es": "cantar",
+    "stressed": "cantar",
+    "en": "to sing"
+  },
+  {
+    "id": "es-word-tocar",
+    "rank": 248,
+    "es": "tocar",
+    "stressed": "tocar",
+    "en": "to touch; to play an instrument"
+  },
+  {
+    "id": "es-word-reír",
+    "rank": 249,
+    "es": "reír",
+    "stressed": "reír",
+    "en": "to laugh"
+  },
+  {
+    "id": "es-word-sonreír",
+    "rank": 250,
+    "es": "sonreír",
+    "stressed": "sonreír",
+    "en": "to smile"
+  },
+  {
+    "id": "es-word-llorar",
+    "rank": 251,
+    "es": "llorar",
+    "stressed": "llorar",
+    "en": "to cry"
+  },
+  {
+    "id": "es-word-sentir",
+    "rank": 252,
+    "es": "sentir",
+    "stressed": "sentir",
+    "en": "to feel"
+  },
+  {
+    "id": "es-word-sentirse",
+    "rank": 253,
+    "es": "sentirse",
+    "stressed": "sentirse",
+    "en": "to feel (oneself)"
+  },
+  {
+    "id": "es-word-gustar",
+    "rank": 254,
+    "es": "gustar",
+    "stressed": "gustar",
+    "en": "to be pleasing to; to like"
+  },
+  {
+    "id": "es-word-encantar",
+    "rank": 255,
+    "es": "encantar",
+    "stressed": "encantar",
+    "en": "to delight; to love something"
+  },
+  {
+    "id": "es-word-amar",
+    "rank": 256,
+    "es": "amar",
+    "stressed": "amar",
+    "en": "to love"
+  },
+  {
+    "id": "es-word-odiar",
+    "rank": 257,
+    "es": "odiar",
+    "stressed": "odiar",
+    "en": "to hate"
+  },
+  {
+    "id": "es-word-preocuparse",
+    "rank": 258,
+    "es": "preocuparse",
+    "stressed": "preocuparse",
+    "en": "to worry"
+  },
+  {
+    "id": "es-word-molestar",
+    "rank": 259,
+    "es": "molestar",
+    "stressed": "molestar",
+    "en": "to bother"
+  },
+  {
+    "id": "es-word-importar",
+    "rank": 260,
+    "es": "importar",
+    "stressed": "importar",
+    "en": "to matter"
+  },
+  {
+    "id": "es-word-parecer",
+    "rank": 261,
+    "es": "parecer",
+    "stressed": "parecer",
+    "en": "to seem"
+  },
+  {
+    "id": "es-word-resultar",
+    "rank": 262,
+    "es": "resultar",
+    "stressed": "resultar",
+    "en": "to turn out; to result"
+  },
+  {
+    "id": "es-word-explicar",
+    "rank": 263,
+    "es": "explicar",
+    "stressed": "explicar",
+    "en": "to explain"
+  },
+  {
+    "id": "es-word-describir",
+    "rank": 264,
+    "es": "describir",
+    "stressed": "describir",
+    "en": "to describe"
+  },
+  {
+    "id": "es-word-comparar",
+    "rank": 265,
+    "es": "comparar",
+    "stressed": "comparar",
+    "en": "to compare"
+  },
+  {
+    "id": "es-word-elegir",
+    "rank": 266,
+    "es": "elegir",
+    "stressed": "elegir",
+    "en": "to choose"
+  },
+  {
+    "id": "es-word-decidir",
+    "rank": 267,
+    "es": "decidir",
+    "stressed": "decidir",
+    "en": "to decide"
+  },
+  {
+    "id": "es-word-aceptar",
+    "rank": 268,
+    "es": "aceptar",
+    "stressed": "aceptar",
+    "en": "to accept"
+  },
+  {
+    "id": "es-word-rechazar",
+    "rank": 269,
+    "es": "rechazar",
+    "stressed": "rechazar",
+    "en": "to reject"
+  },
+  {
+    "id": "es-word-ofrecer",
+    "rank": 270,
+    "es": "ofrecer",
+    "stressed": "ofrecer",
+    "en": "to offer"
+  },
+  {
+    "id": "es-word-permitir",
+    "rank": 271,
+    "es": "permitir",
+    "stressed": "permitir",
+    "en": "to allow"
+  },
+  {
+    "id": "es-word-prohibir",
+    "rank": 272,
+    "es": "prohibir",
+    "stressed": "prohibir",
+    "en": "to forbid"
+  },
+  {
+    "id": "es-word-prometer",
+    "rank": 273,
+    "es": "prometer",
+    "stressed": "prometer",
+    "en": "to promise"
+  },
+  {
+    "id": "es-word-cumplir",
+    "rank": 274,
+    "es": "cumplir",
+    "stressed": "cumplir",
+    "en": "to fulfill; to turn an age"
+  },
+  {
+    "id": "es-word-invitar",
+    "rank": 275,
+    "es": "invitar",
+    "stressed": "invitar",
+    "en": "to invite"
+  },
+  {
+    "id": "es-word-recomendar",
+    "rank": 276,
+    "es": "recomendar",
+    "stressed": "recomendar",
+    "en": "to recommend"
+  },
+  {
+    "id": "es-word-aconsejar",
+    "rank": 277,
+    "es": "aconsejar",
+    "stressed": "aconsejar",
+    "en": "to advise"
+  },
+  {
+    "id": "es-word-sugerir",
+    "rank": 278,
+    "es": "sugerir",
+    "stressed": "sugerir",
+    "en": "to suggest"
+  },
+  {
+    "id": "es-word-proponer",
+    "rank": 279,
+    "es": "proponer",
+    "stressed": "proponer",
+    "en": "to propose"
+  },
+  {
+    "id": "es-word-organizar",
+    "rank": 280,
+    "es": "organizar",
+    "stressed": "organizar",
+    "en": "to organize"
+  },
+  {
+    "id": "es-word-planear",
+    "rank": 281,
+    "es": "planear",
+    "stressed": "planear",
+    "en": "to plan"
+  },
+  {
+    "id": "es-word-reservar",
+    "rank": 282,
+    "es": "reservar",
+    "stressed": "reservar",
+    "en": "to reserve; to book"
+  },
+  {
+    "id": "es-word-cancelar",
+    "rank": 283,
+    "es": "cancelar",
+    "stressed": "cancelar",
+    "en": "to cancel"
+  },
+  {
+    "id": "es-word-confirmar",
+    "rank": 284,
+    "es": "confirmar",
+    "stressed": "confirmar",
+    "en": "to confirm"
+  },
+  {
+    "id": "es-word-avisar",
+    "rank": 285,
+    "es": "avisar",
+    "stressed": "avisar",
+    "en": "to notify; to warn"
+  },
+  {
+    "id": "es-word-persona",
+    "rank": 286,
+    "es": "persona",
+    "stressed": "persona",
+    "en": "person"
+  },
+  {
+    "id": "es-word-hombre",
+    "rank": 287,
+    "es": "hombre",
+    "stressed": "hombre",
+    "en": "man"
+  },
+  {
+    "id": "es-word-mujer",
+    "rank": 288,
+    "es": "mujer",
+    "stressed": "mujer",
+    "en": "woman"
+  },
+  {
+    "id": "es-word-niño",
+    "rank": 289,
+    "es": "niño",
+    "stressed": "niño",
+    "en": "child; boy"
+  },
+  {
+    "id": "es-word-niña",
+    "rank": 290,
+    "es": "niña",
+    "stressed": "niña",
+    "en": "girl"
+  },
+  {
+    "id": "es-word-bebé",
+    "rank": 291,
+    "es": "bebé",
+    "stressed": "bebé",
+    "en": "baby"
+  },
+  {
+    "id": "es-word-adulto",
+    "rank": 292,
+    "es": "adulto",
+    "stressed": "adulto",
+    "en": "adult"
+  },
+  {
+    "id": "es-word-joven",
+    "rank": 293,
+    "es": "joven",
+    "stressed": "joven",
+    "en": "young; young person"
+  },
+  {
+    "id": "es-word-familia",
+    "rank": 294,
+    "es": "familia",
+    "stressed": "familia",
+    "en": "family"
+  },
+  {
+    "id": "es-word-madre",
+    "rank": 295,
+    "es": "madre",
+    "stressed": "madre",
+    "en": "mother"
+  },
+  {
+    "id": "es-word-padre",
+    "rank": 296,
+    "es": "padre",
+    "stressed": "padre",
+    "en": "father"
+  },
+  {
+    "id": "es-word-hijo",
+    "rank": 297,
+    "es": "hijo",
+    "stressed": "hijo",
+    "en": "son; child"
+  },
+  {
+    "id": "es-word-hija",
+    "rank": 298,
+    "es": "hija",
+    "stressed": "hija",
+    "en": "daughter"
+  },
+  {
+    "id": "es-word-hermano",
+    "rank": 299,
+    "es": "hermano",
+    "stressed": "hermano",
+    "en": "brother"
+  },
+  {
+    "id": "es-word-hermana",
+    "rank": 300,
+    "es": "hermana",
+    "stressed": "hermana",
+    "en": "sister"
+  },
+  {
+    "id": "es-word-abuelo",
+    "rank": 301,
+    "es": "abuelo",
+    "stressed": "abuelo",
+    "en": "grandfather"
+  },
+  {
+    "id": "es-word-abuela",
+    "rank": 302,
+    "es": "abuela",
+    "stressed": "abuela",
+    "en": "grandmother"
+  },
+  {
+    "id": "es-word-nieto",
+    "rank": 303,
+    "es": "nieto",
+    "stressed": "nieto",
+    "en": "grandson"
+  },
+  {
+    "id": "es-word-tío",
+    "rank": 304,
+    "es": "tío",
+    "stressed": "tío",
+    "en": "uncle"
+  },
+  {
+    "id": "es-word-tía",
+    "rank": 305,
+    "es": "tía",
+    "stressed": "tía",
+    "en": "aunt"
+  },
+  {
+    "id": "es-word-primo",
+    "rank": 306,
+    "es": "primo",
+    "stressed": "primo",
+    "en": "cousin (male)"
+  },
+  {
+    "id": "es-word-prima",
+    "rank": 307,
+    "es": "prima",
+    "stressed": "prima",
+    "en": "cousin (female)"
+  },
+  {
+    "id": "es-word-pareja",
+    "rank": 308,
+    "es": "pareja",
+    "stressed": "pareja",
+    "en": "partner; couple"
+  },
+  {
+    "id": "es-word-marido",
+    "rank": 309,
+    "es": "marido",
+    "stressed": "marido",
+    "en": "husband"
+  },
+  {
+    "id": "es-word-esposa",
+    "rank": 310,
+    "es": "esposa",
+    "stressed": "esposa",
+    "en": "wife"
+  },
+  {
+    "id": "es-word-novio",
+    "rank": 311,
+    "es": "novio",
+    "stressed": "novio",
+    "en": "boyfriend; groom"
+  },
+  {
+    "id": "es-word-novia",
+    "rank": 312,
+    "es": "novia",
+    "stressed": "novia",
+    "en": "girlfriend; bride"
+  },
+  {
+    "id": "es-word-amigo",
+    "rank": 313,
+    "es": "amigo",
+    "stressed": "amigo",
+    "en": "friend (male)"
+  },
+  {
+    "id": "es-word-amiga",
+    "rank": 314,
+    "es": "amiga",
+    "stressed": "amiga",
+    "en": "friend (female)"
+  },
+  {
+    "id": "es-word-compañero",
+    "rank": 315,
+    "es": "compañero",
+    "stressed": "compañero",
+    "en": "colleague; classmate; companion"
+  },
+  {
+    "id": "es-word-vecino",
+    "rank": 316,
+    "es": "vecino",
+    "stressed": "vecino",
+    "en": "neighbor"
+  },
+  {
+    "id": "es-word-conocido",
+    "rank": 317,
+    "es": "conocido",
+    "stressed": "conocido",
+    "en": "acquaintance; known"
+  },
+  {
+    "id": "es-word-invitado",
+    "rank": 318,
+    "es": "invitado",
+    "stressed": "invitado",
+    "en": "guest"
+  },
+  {
+    "id": "es-word-cliente",
+    "rank": 319,
+    "es": "cliente",
+    "stressed": "cliente",
+    "en": "customer; client"
+  },
+  {
+    "id": "es-word-jefe",
+    "rank": 320,
+    "es": "jefe",
+    "stressed": "jefe",
+    "en": "boss"
+  },
+  {
+    "id": "es-word-empleado",
+    "rank": 321,
+    "es": "empleado",
+    "stressed": "empleado",
+    "en": "employee"
+  },
+  {
+    "id": "es-word-profesor",
+    "rank": 322,
+    "es": "profesor",
+    "stressed": "profesor",
+    "en": "teacher; professor"
+  },
+  {
+    "id": "es-word-estudiante",
+    "rank": 323,
+    "es": "estudiante",
+    "stressed": "estudiante",
+    "en": "student"
+  },
+  {
+    "id": "es-word-médico",
+    "rank": 324,
+    "es": "médico",
+    "stressed": "médico",
+    "en": "doctor"
+  },
+  {
+    "id": "es-word-enfermero",
+    "rank": 325,
+    "es": "enfermero",
+    "stressed": "enfermero",
+    "en": "nurse"
+  },
+  {
+    "id": "es-word-policía",
+    "rank": 326,
+    "es": "policía",
+    "stressed": "policía",
+    "en": "police; police officer"
+  },
+  {
+    "id": "es-word-conductor",
+    "rank": 327,
+    "es": "conductor",
+    "stressed": "conductor",
+    "en": "driver"
+  },
+  {
+    "id": "es-word-camarero",
+    "rank": 328,
+    "es": "camarero",
+    "stressed": "camarero",
+    "en": "waiter"
+  },
+  {
+    "id": "es-word-artista",
+    "rank": 329,
+    "es": "artista",
+    "stressed": "artista",
+    "en": "artist"
+  },
+  {
+    "id": "es-word-casa",
+    "rank": 330,
+    "es": "casa",
+    "stressed": "casa",
+    "en": "house; home"
+  },
+  {
+    "id": "es-word-piso",
+    "rank": 331,
+    "es": "piso",
+    "stressed": "piso",
+    "en": "floor; apartment (Spain)"
+  },
+  {
+    "id": "es-word-apartamento",
+    "rank": 332,
+    "es": "apartamento",
+    "stressed": "apartamento",
+    "en": "apartment"
+  },
+  {
+    "id": "es-word-edificio",
+    "rank": 333,
+    "es": "edificio",
+    "stressed": "edificio",
+    "en": "building"
+  },
+  {
+    "id": "es-word-habitación",
+    "rank": 334,
+    "es": "habitación",
+    "stressed": "habitación",
+    "en": "room"
+  },
+  {
+    "id": "es-word-cuarto",
+    "rank": 335,
+    "es": "cuarto",
+    "stressed": "cuarto",
+    "en": "room; fourth"
+  },
+  {
+    "id": "es-word-salón",
+    "rank": 336,
+    "es": "salón",
+    "stressed": "salón",
+    "en": "living room; hall"
+  },
+  {
+    "id": "es-word-cocina",
+    "rank": 337,
+    "es": "cocina",
+    "stressed": "cocina",
+    "en": "kitchen"
+  },
+  {
+    "id": "es-word-baño",
+    "rank": 338,
+    "es": "baño",
+    "stressed": "baño",
+    "en": "bathroom; bath"
+  },
+  {
+    "id": "es-word-dormitorio",
+    "rank": 339,
+    "es": "dormitorio",
+    "stressed": "dormitorio",
+    "en": "bedroom"
+  },
+  {
+    "id": "es-word-pasillo",
+    "rank": 340,
+    "es": "pasillo",
+    "stressed": "pasillo",
+    "en": "hallway"
+  },
+  {
+    "id": "es-word-entrada",
+    "rank": 341,
+    "es": "entrada",
+    "stressed": "entrada",
+    "en": "entrance; ticket"
+  },
+  {
+    "id": "es-word-salida",
+    "rank": 342,
+    "es": "salida",
+    "stressed": "salida",
+    "en": "exit; departure"
+  },
+  {
+    "id": "es-word-puerta",
+    "rank": 343,
+    "es": "puerta",
+    "stressed": "puerta",
+    "en": "door"
+  },
+  {
+    "id": "es-word-ventana",
+    "rank": 344,
+    "es": "ventana",
+    "stressed": "ventana",
+    "en": "window"
+  },
+  {
+    "id": "es-word-pared",
+    "rank": 345,
+    "es": "pared",
+    "stressed": "pared",
+    "en": "wall"
+  },
+  {
+    "id": "es-word-techo",
+    "rank": 346,
+    "es": "techo",
+    "stressed": "techo",
+    "en": "ceiling; roof"
+  },
+  {
+    "id": "es-word-suelo",
+    "rank": 347,
+    "es": "suelo",
+    "stressed": "suelo",
+    "en": "floor; ground"
+  },
+  {
+    "id": "es-word-escalera",
+    "rank": 348,
+    "es": "escalera",
+    "stressed": "escalera",
+    "en": "stairs; ladder"
+  },
+  {
+    "id": "es-word-ascensor",
+    "rank": 349,
+    "es": "ascensor",
+    "stressed": "ascensor",
+    "en": "elevator"
+  },
+  {
+    "id": "es-word-balcón",
+    "rank": 350,
+    "es": "balcón",
+    "stressed": "balcón",
+    "en": "balcony"
+  },
+  {
+    "id": "es-word-terraza",
+    "rank": 351,
+    "es": "terraza",
+    "stressed": "terraza",
+    "en": "terrace"
+  },
+  {
+    "id": "es-word-jardín",
+    "rank": 352,
+    "es": "jardín",
+    "stressed": "jardín",
+    "en": "garden"
+  },
+  {
+    "id": "es-word-patio",
+    "rank": 353,
+    "es": "patio",
+    "stressed": "patio",
+    "en": "courtyard; patio"
+  },
+  {
+    "id": "es-word-garaje",
+    "rank": 354,
+    "es": "garaje",
+    "stressed": "garaje",
+    "en": "garage"
+  },
+  {
+    "id": "es-word-llave",
+    "rank": 355,
+    "es": "llave",
+    "stressed": "llave",
+    "en": "key"
+  },
+  {
+    "id": "es-word-cerradura",
+    "rank": 356,
+    "es": "cerradura",
+    "stressed": "cerradura",
+    "en": "lock"
+  },
+  {
+    "id": "es-word-mesa",
+    "rank": 357,
+    "es": "mesa",
+    "stressed": "mesa",
+    "en": "table"
+  },
+  {
+    "id": "es-word-silla",
+    "rank": 358,
+    "es": "silla",
+    "stressed": "silla",
+    "en": "chair"
+  },
+  {
+    "id": "es-word-sofá",
+    "rank": 359,
+    "es": "sofá",
+    "stressed": "sofá",
+    "en": "sofa"
+  },
+  {
+    "id": "es-word-cama",
+    "rank": 360,
+    "es": "cama",
+    "stressed": "cama",
+    "en": "bed"
+  },
+  {
+    "id": "es-word-manta",
+    "rank": 361,
+    "es": "manta",
+    "stressed": "manta",
+    "en": "blanket"
+  },
+  {
+    "id": "es-word-sábana",
+    "rank": 362,
+    "es": "sábana",
+    "stressed": "sábana",
+    "en": "bedsheet"
+  },
+  {
+    "id": "es-word-armario",
+    "rank": 363,
+    "es": "armario",
+    "stressed": "armario",
+    "en": "wardrobe; cupboard"
+  },
+  {
+    "id": "es-word-estante",
+    "rank": 364,
+    "es": "estante",
+    "stressed": "estante",
+    "en": "shelf"
+  },
+  {
+    "id": "es-word-lámpara",
+    "rank": 365,
+    "es": "lámpara",
+    "stressed": "lámpara",
+    "en": "lamp"
+  },
+  {
+    "id": "es-word-luz",
+    "rank": 366,
+    "es": "luz",
+    "stressed": "luz",
+    "en": "light"
+  },
+  {
+    "id": "es-word-enchufe",
+    "rank": 367,
+    "es": "enchufe",
+    "stressed": "enchufe",
+    "en": "electrical outlet; plug"
+  },
+  {
+    "id": "es-word-interruptor",
+    "rank": 368,
+    "es": "interruptor",
+    "stressed": "interruptor",
+    "en": "light switch"
+  },
+  {
+    "id": "es-word-espejo",
+    "rank": 369,
+    "es": "espejo",
+    "stressed": "espejo",
+    "en": "mirror"
+  },
+  {
+    "id": "es-word-alfombra",
+    "rank": 370,
+    "es": "alfombra",
+    "stressed": "alfombra",
+    "en": "rug; carpet"
+  },
+  {
+    "id": "es-word-cortina",
+    "rank": 371,
+    "es": "cortina",
+    "stressed": "cortina",
+    "en": "curtain"
+  },
+  {
+    "id": "es-word-reloj",
+    "rank": 372,
+    "es": "reloj",
+    "stressed": "reloj",
+    "en": "clock; watch"
+  },
+  {
+    "id": "es-word-televisor",
+    "rank": 373,
+    "es": "televisor",
+    "stressed": "televisor",
+    "en": "television set"
+  },
+  {
+    "id": "es-word-nevera",
+    "rank": 374,
+    "es": "nevera",
+    "stressed": "nevera",
+    "en": "refrigerator"
+  },
+  {
+    "id": "es-word-horno",
+    "rank": 375,
+    "es": "horno",
+    "stressed": "horno",
+    "en": "oven"
+  },
+  {
+    "id": "es-word-lavadora",
+    "rank": 376,
+    "es": "lavadora",
+    "stressed": "lavadora",
+    "en": "washing machine"
+  },
+  {
+    "id": "es-word-basura",
+    "rank": 377,
+    "es": "basura",
+    "stressed": "basura",
+    "en": "trash; rubbish"
+  },
+  {
+    "id": "es-word-agua",
+    "rank": 378,
+    "es": "agua",
+    "stressed": "agua",
+    "en": "water"
+  },
+  {
+    "id": "es-word-comida",
+    "rank": 379,
+    "es": "comida",
+    "stressed": "comida",
+    "en": "food; meal"
+  },
+  {
+    "id": "es-word-bebida",
+    "rank": 380,
+    "es": "bebida",
+    "stressed": "bebida",
+    "en": "drink"
+  },
+  {
+    "id": "es-word-pan",
+    "rank": 381,
+    "es": "pan",
+    "stressed": "pan",
+    "en": "bread"
+  },
+  {
+    "id": "es-word-arroz",
+    "rank": 382,
+    "es": "arroz",
+    "stressed": "arroz",
+    "en": "rice"
+  },
+  {
+    "id": "es-word-pasta",
+    "rank": 383,
+    "es": "pasta",
+    "stressed": "pasta",
+    "en": "pasta"
+  },
+  {
+    "id": "es-word-patata",
+    "rank": 384,
+    "es": "patata",
+    "stressed": "patata",
+    "en": "potato (Spain)"
+  },
+  {
+    "id": "es-word-tomate",
+    "rank": 385,
+    "es": "tomate",
+    "stressed": "tomate",
+    "en": "tomato"
+  },
+  {
+    "id": "es-word-cebolla",
+    "rank": 386,
+    "es": "cebolla",
+    "stressed": "cebolla",
+    "en": "onion"
+  },
+  {
+    "id": "es-word-ajo",
+    "rank": 387,
+    "es": "ajo",
+    "stressed": "ajo",
+    "en": "garlic"
+  },
+  {
+    "id": "es-word-zanahoria",
+    "rank": 388,
+    "es": "zanahoria",
+    "stressed": "zanahoria",
+    "en": "carrot"
+  },
+  {
+    "id": "es-word-lechuga",
+    "rank": 389,
+    "es": "lechuga",
+    "stressed": "lechuga",
+    "en": "lettuce"
+  },
+  {
+    "id": "es-word-pepino",
+    "rank": 390,
+    "es": "pepino",
+    "stressed": "pepino",
+    "en": "cucumber"
+  },
+  {
+    "id": "es-word-pimiento",
+    "rank": 391,
+    "es": "pimiento",
+    "stressed": "pimiento",
+    "en": "pepper (vegetable)"
+  },
+  {
+    "id": "es-word-calabaza",
+    "rank": 392,
+    "es": "calabaza",
+    "stressed": "calabaza",
+    "en": "pumpkin; squash"
+  },
+  {
+    "id": "es-word-judía",
+    "rank": 393,
+    "es": "judía",
+    "stressed": "judía",
+    "en": "bean (Spain)"
+  },
+  {
+    "id": "es-word-lenteja",
+    "rank": 394,
+    "es": "lenteja",
+    "stressed": "lenteja",
+    "en": "lentil"
+  },
+  {
+    "id": "es-word-garbanzo",
+    "rank": 395,
+    "es": "garbanzo",
+    "stressed": "garbanzo",
+    "en": "chickpea"
+  },
+  {
+    "id": "es-word-carne",
+    "rank": 396,
+    "es": "carne",
+    "stressed": "carne",
+    "en": "meat"
+  },
+  {
+    "id": "es-word-pollo",
+    "rank": 397,
+    "es": "pollo",
+    "stressed": "pollo",
+    "en": "chicken"
+  },
+  {
+    "id": "es-word-un",
+    "rank": 398,
+    "es": "un",
+    "stressed": "un",
+    "en": "a; an (masculine article)"
+  },
+  {
+    "id": "es-word-cerdo",
+    "rank": 399,
+    "es": "cerdo",
+    "stressed": "cerdo",
+    "en": "pig; pork"
+  },
+  {
+    "id": "es-word-pescado",
+    "rank": 400,
+    "es": "pescado",
+    "stressed": "pescado",
+    "en": "fish (as food)"
+  },
+  {
+    "id": "es-word-marisco",
+    "rank": 401,
+    "es": "marisco",
+    "stressed": "marisco",
+    "en": "shellfish; seafood"
+  },
+  {
+    "id": "es-word-huevo",
+    "rank": 402,
+    "es": "huevo",
+    "stressed": "huevo",
+    "en": "egg"
+  },
+  {
+    "id": "es-word-queso",
+    "rank": 403,
+    "es": "queso",
+    "stressed": "queso",
+    "en": "cheese"
+  },
+  {
+    "id": "es-word-leche",
+    "rank": 404,
+    "es": "leche",
+    "stressed": "leche",
+    "en": "milk"
+  },
+  {
+    "id": "es-word-yogur",
+    "rank": 405,
+    "es": "yogur",
+    "stressed": "yogur",
+    "en": "yogurt"
+  },
+  {
+    "id": "es-word-mantequilla",
+    "rank": 406,
+    "es": "mantequilla",
+    "stressed": "mantequilla",
+    "en": "butter"
+  },
+  {
+    "id": "es-word-aceite",
+    "rank": 407,
+    "es": "aceite",
+    "stressed": "aceite",
+    "en": "oil"
+  },
+  {
+    "id": "es-word-sal",
+    "rank": 408,
+    "es": "sal",
+    "stressed": "sal",
+    "en": "salt"
+  },
+  {
+    "id": "es-word-pimienta",
+    "rank": 409,
+    "es": "pimienta",
+    "stressed": "pimienta",
+    "en": "pepper (spice)"
+  },
+  {
+    "id": "es-word-azúcar",
+    "rank": 410,
+    "es": "azúcar",
+    "stressed": "azúcar",
+    "en": "sugar"
+  },
+  {
+    "id": "es-word-harina",
+    "rank": 411,
+    "es": "harina",
+    "stressed": "harina",
+    "en": "flour"
+  },
+  {
+    "id": "es-word-fruta",
+    "rank": 412,
+    "es": "fruta",
+    "stressed": "fruta",
+    "en": "fruit"
+  },
+  {
+    "id": "es-word-manzana",
+    "rank": 413,
+    "es": "manzana",
+    "stressed": "manzana",
+    "en": "apple"
+  },
+  {
+    "id": "es-word-pera",
+    "rank": 414,
+    "es": "pera",
+    "stressed": "pera",
+    "en": "pear"
+  },
+  {
+    "id": "es-word-plátano",
+    "rank": 415,
+    "es": "plátano",
+    "stressed": "plátano",
+    "en": "banana"
+  },
+  {
+    "id": "es-word-naranja",
+    "rank": 416,
+    "es": "naranja",
+    "stressed": "naranja",
+    "en": "orange"
+  },
+  {
+    "id": "es-word-limón",
+    "rank": 417,
+    "es": "limón",
+    "stressed": "limón",
+    "en": "lemon"
+  },
+  {
+    "id": "es-word-fresa",
+    "rank": 418,
+    "es": "fresa",
+    "stressed": "fresa",
+    "en": "strawberry"
+  },
+  {
+    "id": "es-word-uva",
+    "rank": 419,
+    "es": "uva",
+    "stressed": "uva",
+    "en": "grape"
+  },
+  {
+    "id": "es-word-sandía",
+    "rank": 420,
+    "es": "sandía",
+    "stressed": "sandía",
+    "en": "watermelon"
+  },
+  {
+    "id": "es-word-melón",
+    "rank": 421,
+    "es": "melón",
+    "stressed": "melón",
+    "en": "melon"
+  },
+  {
+    "id": "es-word-piña",
+    "rank": 422,
+    "es": "piña",
+    "stressed": "piña",
+    "en": "pineapple"
+  },
+  {
+    "id": "es-word-aguacate",
+    "rank": 423,
+    "es": "aguacate",
+    "stressed": "aguacate",
+    "en": "avocado"
+  },
+  {
+    "id": "es-word-nuez",
+    "rank": 424,
+    "es": "nuez",
+    "stressed": "nuez",
+    "en": "walnut; nut"
+  },
+  {
+    "id": "es-word-chocolate",
+    "rank": 425,
+    "es": "chocolate",
+    "stressed": "chocolate",
+    "en": "chocolate"
+  },
+  {
+    "id": "es-word-helado",
+    "rank": 426,
+    "es": "helado",
+    "stressed": "helado",
+    "en": "ice cream"
+  },
+  {
+    "id": "es-word-pastel",
+    "rank": 427,
+    "es": "pastel",
+    "stressed": "pastel",
+    "en": "cake; pastry"
+  },
+  {
+    "id": "es-word-galleta",
+    "rank": 428,
+    "es": "galleta",
+    "stressed": "galleta",
+    "en": "cookie; biscuit"
+  },
+  {
+    "id": "es-word-miel",
+    "rank": 429,
+    "es": "miel",
+    "stressed": "miel",
+    "en": "honey"
+  },
+  {
+    "id": "es-word-mermelada",
+    "rank": 430,
+    "es": "mermelada",
+    "stressed": "mermelada",
+    "en": "jam"
+  },
+  {
+    "id": "es-word-café",
+    "rank": 431,
+    "es": "café",
+    "stressed": "café",
+    "en": "coffee"
+  },
+  {
+    "id": "es-word-té",
+    "rank": 432,
+    "es": "té",
+    "stressed": "té",
+    "en": "tea"
+  },
+  {
+    "id": "es-word-zumo",
+    "rank": 433,
+    "es": "zumo",
+    "stressed": "zumo",
+    "en": "juice (Spain)"
+  },
+  {
+    "id": "es-word-cerveza",
+    "rank": 434,
+    "es": "cerveza",
+    "stressed": "cerveza",
+    "en": "beer"
+  },
+  {
+    "id": "es-word-vino",
+    "rank": 435,
+    "es": "vino",
+    "stressed": "vino",
+    "en": "wine"
+  },
+  {
+    "id": "es-word-sopa",
+    "rank": 436,
+    "es": "sopa",
+    "stressed": "sopa",
+    "en": "soup"
+  },
+  {
+    "id": "es-word-ensalada",
+    "rank": 437,
+    "es": "ensalada",
+    "stressed": "ensalada",
+    "en": "salad"
+  },
+  {
+    "id": "es-word-tortilla",
+    "rank": 438,
+    "es": "tortilla",
+    "stressed": "tortilla",
+    "en": "omelet; corn or wheat flatbread (regional)"
+  },
+  {
+    "id": "es-word-desayuno",
+    "rank": 439,
+    "es": "desayuno",
+    "stressed": "desayuno",
+    "en": "breakfast"
+  },
+  {
+    "id": "es-word-almuerzo",
+    "rank": 440,
+    "es": "almuerzo",
+    "stressed": "almuerzo",
+    "en": "lunch"
+  },
+  {
+    "id": "es-word-cena",
+    "rank": 441,
+    "es": "cena",
+    "stressed": "cena",
+    "en": "dinner"
+  },
+  {
+    "id": "es-word-merienda",
+    "rank": 442,
+    "es": "merienda",
+    "stressed": "merienda",
+    "en": "afternoon snack"
+  },
+  {
+    "id": "es-word-postre",
+    "rank": 443,
+    "es": "postre",
+    "stressed": "postre",
+    "en": "dessert"
+  },
+  {
+    "id": "es-word-hambre",
+    "rank": 444,
+    "es": "hambre",
+    "stressed": "hambre",
+    "en": "hunger"
+  },
+  {
+    "id": "es-word-sed",
+    "rank": 445,
+    "es": "sed",
+    "stressed": "sed",
+    "en": "thirst"
+  },
+  {
+    "id": "es-word-plato",
+    "rank": 446,
+    "es": "plato",
+    "stressed": "plato",
+    "en": "plate; dish"
+  },
+  {
+    "id": "es-word-vaso",
+    "rank": 447,
+    "es": "vaso",
+    "stressed": "vaso",
+    "en": "drinking glass"
+  },
+  {
+    "id": "es-word-taza",
+    "rank": 448,
+    "es": "taza",
+    "stressed": "taza",
+    "en": "cup"
+  },
+  {
+    "id": "es-word-botella",
+    "rank": 449,
+    "es": "botella",
+    "stressed": "botella",
+    "en": "bottle"
+  },
+  {
+    "id": "es-word-copa",
+    "rank": 450,
+    "es": "copa",
+    "stressed": "copa",
+    "en": "stemmed glass"
+  },
+  {
+    "id": "es-word-cuchara",
+    "rank": 451,
+    "es": "cuchara",
+    "stressed": "cuchara",
+    "en": "spoon"
+  },
+  {
+    "id": "es-word-tenedor",
+    "rank": 452,
+    "es": "tenedor",
+    "stressed": "tenedor",
+    "en": "fork"
+  },
+  {
+    "id": "es-word-cuchillo",
+    "rank": 453,
+    "es": "cuchillo",
+    "stressed": "cuchillo",
+    "en": "knife"
+  },
+  {
+    "id": "es-word-servilleta",
+    "rank": 454,
+    "es": "servilleta",
+    "stressed": "servilleta",
+    "en": "napkin"
+  },
+  {
+    "id": "es-word-menú",
+    "rank": 455,
+    "es": "menú",
+    "stressed": "menú",
+    "en": "menu; set meal"
+  },
+  {
+    "id": "es-word-carta",
+    "rank": 456,
+    "es": "carta",
+    "stressed": "carta",
+    "en": "restaurant menu; letter"
+  },
+  {
+    "id": "es-word-cuenta",
+    "rank": 457,
+    "es": "cuenta",
+    "stressed": "cuenta",
+    "en": "bill; account"
+  },
+  {
+    "id": "es-word-propina",
+    "rank": 458,
+    "es": "propina",
+    "stressed": "propina",
+    "en": "tip; gratuity"
+  },
+  {
+    "id": "es-word-receta",
+    "rank": 459,
+    "es": "receta",
+    "stressed": "receta",
+    "en": "recipe; prescription"
+  },
+  {
+    "id": "es-word-ingrediente",
+    "rank": 460,
+    "es": "ingrediente",
+    "stressed": "ingrediente",
+    "en": "ingredient"
+  },
+  {
+    "id": "es-word-sabor",
+    "rank": 461,
+    "es": "sabor",
+    "stressed": "sabor",
+    "en": "flavor"
+  },
+  {
+    "id": "es-word-fresco",
+    "rank": 462,
+    "es": "fresco",
+    "stressed": "fresco",
+    "en": "fresh; cool"
+  },
+  {
+    "id": "es-word-picante",
+    "rank": 463,
+    "es": "picante",
+    "stressed": "picante",
+    "en": "spicy"
+  },
+  {
+    "id": "es-word-dulce",
+    "rank": 464,
+    "es": "dulce",
+    "stressed": "dulce",
+    "en": "sweet; candy"
+  },
+  {
+    "id": "es-word-salado",
+    "rank": 465,
+    "es": "salado",
+    "stressed": "salado",
+    "en": "salty"
+  },
+  {
+    "id": "es-word-cuerpo",
+    "rank": 466,
+    "es": "cuerpo",
+    "stressed": "cuerpo",
+    "en": "body"
+  },
+  {
+    "id": "es-word-cabeza",
+    "rank": 467,
+    "es": "cabeza",
+    "stressed": "cabeza",
+    "en": "head"
+  },
+  {
+    "id": "es-word-cara",
+    "rank": 468,
+    "es": "cara",
+    "stressed": "cara",
+    "en": "face"
+  },
+  {
+    "id": "es-word-ojo",
+    "rank": 469,
+    "es": "ojo",
+    "stressed": "ojo",
+    "en": "eye"
+  },
+  {
+    "id": "es-word-nariz",
+    "rank": 470,
+    "es": "nariz",
+    "stressed": "nariz",
+    "en": "nose"
+  },
+  {
+    "id": "es-word-boca",
+    "rank": 471,
+    "es": "boca",
+    "stressed": "boca",
+    "en": "mouth"
+  },
+  {
+    "id": "es-word-oreja",
+    "rank": 472,
+    "es": "oreja",
+    "stressed": "oreja",
+    "en": "ear (outer ear)"
+  },
+  {
+    "id": "es-word-oído",
+    "rank": 473,
+    "es": "oído",
+    "stressed": "oído",
+    "en": "hearing; inner ear"
+  },
+  {
+    "id": "es-word-diente",
+    "rank": 474,
+    "es": "diente",
+    "stressed": "diente",
+    "en": "tooth"
+  },
+  {
+    "id": "es-word-lengua",
+    "rank": 475,
+    "es": "lengua",
+    "stressed": "lengua",
+    "en": "tongue; language"
+  },
+  {
+    "id": "es-word-pelo",
+    "rank": 476,
+    "es": "pelo",
+    "stressed": "pelo",
+    "en": "hair"
+  },
+  {
+    "id": "es-word-cuello",
+    "rank": 477,
+    "es": "cuello",
+    "stressed": "cuello",
+    "en": "neck"
+  },
+  {
+    "id": "es-word-hombro",
+    "rank": 478,
+    "es": "hombro",
+    "stressed": "hombro",
+    "en": "shoulder"
+  },
+  {
+    "id": "es-word-brazo",
+    "rank": 479,
+    "es": "brazo",
+    "stressed": "brazo",
+    "en": "arm"
+  },
+  {
+    "id": "es-word-codo",
+    "rank": 480,
+    "es": "codo",
+    "stressed": "codo",
+    "en": "elbow"
+  },
+  {
+    "id": "es-word-mano",
+    "rank": 481,
+    "es": "mano",
+    "stressed": "mano",
+    "en": "hand"
+  },
+  {
+    "id": "es-word-dedo",
+    "rank": 482,
+    "es": "dedo",
+    "stressed": "dedo",
+    "en": "finger; toe"
+  },
+  {
+    "id": "es-word-pecho",
+    "rank": 483,
+    "es": "pecho",
+    "stressed": "pecho",
+    "en": "chest"
+  },
+  {
+    "id": "es-word-espalda",
+    "rank": 484,
+    "es": "espalda",
+    "stressed": "espalda",
+    "en": "back (body)"
+  },
+  {
+    "id": "es-word-estómago",
+    "rank": 485,
+    "es": "estómago",
+    "stressed": "estómago",
+    "en": "stomach"
+  },
+  {
+    "id": "es-word-pierna",
+    "rank": 486,
+    "es": "pierna",
+    "stressed": "pierna",
+    "en": "leg"
+  },
+  {
+    "id": "es-word-rodilla",
+    "rank": 487,
+    "es": "rodilla",
+    "stressed": "rodilla",
+    "en": "knee"
+  },
+  {
+    "id": "es-word-pie",
+    "rank": 488,
+    "es": "pie",
+    "stressed": "pie",
+    "en": "foot"
+  },
+  {
+    "id": "es-word-piel",
+    "rank": 489,
+    "es": "piel",
+    "stressed": "piel",
+    "en": "skin"
+  },
+  {
+    "id": "es-word-sangre",
+    "rank": 490,
+    "es": "sangre",
+    "stressed": "sangre",
+    "en": "blood"
+  },
+  {
+    "id": "es-word-corazón",
+    "rank": 491,
+    "es": "corazón",
+    "stressed": "corazón",
+    "en": "heart"
+  },
+  {
+    "id": "es-word-cerebro",
+    "rank": 492,
+    "es": "cerebro",
+    "stressed": "cerebro",
+    "en": "brain"
+  },
+  {
+    "id": "es-word-hueso",
+    "rank": 493,
+    "es": "hueso",
+    "stressed": "hueso",
+    "en": "bone"
+  },
+  {
+    "id": "es-word-músculo",
+    "rank": 494,
+    "es": "músculo",
+    "stressed": "músculo",
+    "en": "muscle"
+  },
+  {
+    "id": "es-word-salud",
+    "rank": 495,
+    "es": "salud",
+    "stressed": "salud",
+    "en": "health"
+  },
+  {
+    "id": "es-word-enfermedad",
+    "rank": 496,
+    "es": "enfermedad",
+    "stressed": "enfermedad",
+    "en": "illness; disease"
+  },
+  {
+    "id": "es-word-dolor",
+    "rank": 497,
+    "es": "dolor",
+    "stressed": "dolor",
+    "en": "pain"
+  },
+  {
+    "id": "es-word-fiebre",
+    "rank": 498,
+    "es": "fiebre",
+    "stressed": "fiebre",
+    "en": "fever"
+  },
+  {
+    "id": "es-word-tos",
+    "rank": 499,
+    "es": "tos",
+    "stressed": "tos",
+    "en": "cough"
+  },
+  {
+    "id": "es-word-resfriado",
+    "rank": 500,
+    "es": "resfriado",
+    "stressed": "resfriado",
+    "en": "cold (illness)"
+  },
+  {
+    "id": "es-word-herida",
+    "rank": 501,
+    "es": "herida",
+    "stressed": "herida",
+    "en": "wound"
+  },
+  {
+    "id": "es-word-alergia",
+    "rank": 502,
+    "es": "alergia",
+    "stressed": "alergia",
+    "en": "allergy"
+  },
+  {
+    "id": "es-word-medicina",
+    "rank": 503,
+    "es": "medicina",
+    "stressed": "medicina",
+    "en": "medicine"
+  },
+  {
+    "id": "es-word-pastilla",
+    "rank": 504,
+    "es": "pastilla",
+    "stressed": "pastilla",
+    "en": "pill"
+  },
+  {
+    "id": "es-word-farmacia",
+    "rank": 505,
+    "es": "farmacia",
+    "stressed": "farmacia",
+    "en": "pharmacy"
+  },
+  {
+    "id": "es-word-hospital",
+    "rank": 506,
+    "es": "hospital",
+    "stressed": "hospital",
+    "en": "hospital"
+  },
+  {
+    "id": "es-word-clínica",
+    "rank": 507,
+    "es": "clínica",
+    "stressed": "clínica",
+    "en": "clinic"
+  },
+  {
+    "id": "es-word-cita",
+    "rank": 508,
+    "es": "cita",
+    "stressed": "cita",
+    "en": "appointment; date; quotation"
+  },
+  {
+    "id": "es-word-consulta",
+    "rank": 509,
+    "es": "consulta",
+    "stressed": "consulta",
+    "en": "consultation; medical appointment"
+  },
+  {
+    "id": "es-word-seguro",
+    "rank": 510,
+    "es": "seguro",
+    "stressed": "seguro",
+    "en": "safe; certain; insurance"
+  },
+  {
+    "id": "es-word-urgencia",
+    "rank": 511,
+    "es": "urgencia",
+    "stressed": "urgencia",
+    "en": "emergency; urgency"
+  },
+  {
+    "id": "es-word-ambulancia",
+    "rank": 512,
+    "es": "ambulancia",
+    "stressed": "ambulancia",
+    "en": "ambulance"
+  },
+  {
+    "id": "es-word-tratamiento",
+    "rank": 513,
+    "es": "tratamiento",
+    "stressed": "tratamiento",
+    "en": "treatment"
+  },
+  {
+    "id": "es-word-síntoma",
+    "rank": 514,
+    "es": "síntoma",
+    "stressed": "síntoma",
+    "en": "symptom"
+  },
+  {
+    "id": "es-word-vacuna",
+    "rank": 515,
+    "es": "vacuna",
+    "stressed": "vacuna",
+    "en": "vaccine"
+  },
+  {
+    "id": "es-word-ropa",
+    "rank": 516,
+    "es": "ropa",
+    "stressed": "ropa",
+    "en": "clothes"
+  },
+  {
+    "id": "es-word-camisa",
+    "rank": 517,
+    "es": "camisa",
+    "stressed": "camisa",
+    "en": "shirt"
+  },
+  {
+    "id": "es-word-camiseta",
+    "rank": 518,
+    "es": "camiseta",
+    "stressed": "camiseta",
+    "en": "T-shirt"
+  },
+  {
+    "id": "es-word-blusa",
+    "rank": 519,
+    "es": "blusa",
+    "stressed": "blusa",
+    "en": "blouse"
+  },
+  {
+    "id": "es-word-pantalón",
+    "rank": 520,
+    "es": "pantalón",
+    "stressed": "pantalón",
+    "en": "trousers; pants"
+  },
+  {
+    "id": "es-word-falda",
+    "rank": 521,
+    "es": "falda",
+    "stressed": "falda",
+    "en": "skirt"
+  },
+  {
+    "id": "es-word-vestido",
+    "rank": 522,
+    "es": "vestido",
+    "stressed": "vestido",
+    "en": "dress; dressed"
+  },
+  {
+    "id": "es-word-chaqueta",
+    "rank": 523,
+    "es": "chaqueta",
+    "stressed": "chaqueta",
+    "en": "jacket"
+  },
+  {
+    "id": "es-word-abrigo",
+    "rank": 524,
+    "es": "abrigo",
+    "stressed": "abrigo",
+    "en": "coat"
+  },
+  {
+    "id": "es-word-jersey",
+    "rank": 525,
+    "es": "jersey",
+    "stressed": "jersey",
+    "en": "sweater; jumper (Spain)"
+  },
+  {
+    "id": "es-word-zapato",
+    "rank": 526,
+    "es": "zapato",
+    "stressed": "zapato",
+    "en": "shoe"
+  },
+  {
+    "id": "es-word-bota",
+    "rank": 527,
+    "es": "bota",
+    "stressed": "bota",
+    "en": "boot"
+  },
+  {
+    "id": "es-word-calcetín",
+    "rank": 528,
+    "es": "calcetín",
+    "stressed": "calcetín",
+    "en": "sock"
+  },
+  {
+    "id": "es-word-sombrero",
+    "rank": 529,
+    "es": "sombrero",
+    "stressed": "sombrero",
+    "en": "hat"
+  },
+  {
+    "id": "es-word-bufanda",
+    "rank": 530,
+    "es": "bufanda",
+    "stressed": "bufanda",
+    "en": "scarf"
+  },
+  {
+    "id": "es-word-guante",
+    "rank": 531,
+    "es": "guante",
+    "stressed": "guante",
+    "en": "glove"
+  },
+  {
+    "id": "es-word-cinturón",
+    "rank": 532,
+    "es": "cinturón",
+    "stressed": "cinturón",
+    "en": "belt"
+  },
+  {
+    "id": "es-word-bolso",
+    "rank": 533,
+    "es": "bolso",
+    "stressed": "bolso",
+    "en": "handbag"
+  },
+  {
+    "id": "es-word-mochila",
+    "rank": 534,
+    "es": "mochila",
+    "stressed": "mochila",
+    "en": "backpack"
+  },
+  {
+    "id": "es-word-maleta",
+    "rank": 535,
+    "es": "maleta",
+    "stressed": "maleta",
+    "en": "suitcase"
+  },
+  {
+    "id": "es-word-cartera",
+    "rank": 536,
+    "es": "cartera",
+    "stressed": "cartera",
+    "en": "wallet; handbag (regional)"
+  },
+  {
+    "id": "es-word-gafas",
+    "rank": 537,
+    "es": "gafas",
+    "stressed": "gafas",
+    "en": "glasses (eyewear)"
+  },
+  {
+    "id": "es-word-paraguas",
+    "rank": 538,
+    "es": "paraguas",
+    "stressed": "paraguas",
+    "en": "umbrella"
+  },
+  {
+    "id": "es-word-anillo",
+    "rank": 539,
+    "es": "anillo",
+    "stressed": "anillo",
+    "en": "ring"
+  },
+  {
+    "id": "es-word-talla",
+    "rank": 540,
+    "es": "talla",
+    "stressed": "talla",
+    "en": "clothing size"
+  },
+  {
+    "id": "es-word-tamaño",
+    "rank": 541,
+    "es": "tamaño",
+    "stressed": "tamaño",
+    "en": "size"
+  },
+  {
+    "id": "es-word-color",
+    "rank": 542,
+    "es": "color",
+    "stressed": "color",
+    "en": "color"
+  },
+  {
+    "id": "es-word-rojo",
+    "rank": 543,
+    "es": "rojo",
+    "stressed": "rojo",
+    "en": "red"
+  },
+  {
+    "id": "es-word-azul",
+    "rank": 544,
+    "es": "azul",
+    "stressed": "azul",
+    "en": "blue"
+  },
+  {
+    "id": "es-word-verde",
+    "rank": 545,
+    "es": "verde",
+    "stressed": "verde",
+    "en": "green"
+  },
+  {
+    "id": "es-word-amarillo",
+    "rank": 546,
+    "es": "amarillo",
+    "stressed": "amarillo",
+    "en": "yellow"
+  },
+  {
+    "id": "es-word-negro",
+    "rank": 547,
+    "es": "negro",
+    "stressed": "negro",
+    "en": "black"
+  },
+  {
+    "id": "es-word-blanco",
+    "rank": 548,
+    "es": "blanco",
+    "stressed": "blanco",
+    "en": "white"
+  },
+  {
+    "id": "es-word-gris",
+    "rank": 549,
+    "es": "gris",
+    "stressed": "gris",
+    "en": "gray"
+  },
+  {
+    "id": "es-word-marrón",
+    "rank": 550,
+    "es": "marrón",
+    "stressed": "marrón",
+    "en": "brown"
+  },
+  {
+    "id": "es-word-rosa",
+    "rank": 551,
+    "es": "rosa",
+    "stressed": "rosa",
+    "en": "pink; rose"
+  },
+  {
+    "id": "es-word-morado",
+    "rank": 552,
+    "es": "morado",
+    "stressed": "morado",
+    "en": "purple"
+  },
+  {
+    "id": "es-word-claro",
+    "rank": 553,
+    "es": "claro",
+    "stressed": "claro",
+    "en": "light; clear"
+  },
+  {
+    "id": "es-word-oscuro",
+    "rank": 554,
+    "es": "oscuro",
+    "stressed": "oscuro",
+    "en": "dark"
+  },
+  {
+    "id": "es-word-liso",
+    "rank": 555,
+    "es": "liso",
+    "stressed": "liso",
+    "en": "plain; smooth"
+  },
+  {
+    "id": "es-word-ciudad",
+    "rank": 556,
+    "es": "ciudad",
+    "stressed": "ciudad",
+    "en": "city"
+  },
+  {
+    "id": "es-word-pueblo",
+    "rank": 557,
+    "es": "pueblo",
+    "stressed": "pueblo",
+    "en": "town; people"
+  },
+  {
+    "id": "es-word-país",
+    "rank": 558,
+    "es": "país",
+    "stressed": "país",
+    "en": "country"
+  },
+  {
+    "id": "es-word-región",
+    "rank": 559,
+    "es": "región",
+    "stressed": "región",
+    "en": "region"
+  },
+  {
+    "id": "es-word-barrio",
+    "rank": 560,
+    "es": "barrio",
+    "stressed": "barrio",
+    "en": "neighborhood"
+  },
+  {
+    "id": "es-word-calle",
+    "rank": 561,
+    "es": "calle",
+    "stressed": "calle",
+    "en": "street"
+  },
+  {
+    "id": "es-word-avenida",
+    "rank": 562,
+    "es": "avenida",
+    "stressed": "avenida",
+    "en": "avenue"
+  },
+  {
+    "id": "es-word-plaza",
+    "rank": 563,
+    "es": "plaza",
+    "stressed": "plaza",
+    "en": "square; place"
+  },
+  {
+    "id": "es-word-carretera",
+    "rank": 564,
+    "es": "carretera",
+    "stressed": "carretera",
+    "en": "road"
+  },
+  {
+    "id": "es-word-camino",
+    "rank": 565,
+    "es": "camino",
+    "stressed": "camino",
+    "en": "path; way"
+  },
+  {
+    "id": "es-word-esquina",
+    "rank": 566,
+    "es": "esquina",
+    "stressed": "esquina",
+    "en": "corner (street)"
+  },
+  {
+    "id": "es-word-cruce",
+    "rank": 567,
+    "es": "cruce",
+    "stressed": "cruce",
+    "en": "crossing; intersection"
+  },
+  {
+    "id": "es-word-puente",
+    "rank": 568,
+    "es": "puente",
+    "stressed": "puente",
+    "en": "bridge"
+  },
+  {
+    "id": "es-word-semáforo",
+    "rank": 569,
+    "es": "semáforo",
+    "stressed": "semáforo",
+    "en": "traffic light"
+  },
+  {
+    "id": "es-word-acera",
+    "rank": 570,
+    "es": "acera",
+    "stressed": "acera",
+    "en": "sidewalk; pavement"
+  },
+  {
+    "id": "es-word-parque",
+    "rank": 571,
+    "es": "parque",
+    "stressed": "parque",
+    "en": "park"
+  },
+  {
+    "id": "es-word-museo",
+    "rank": 572,
+    "es": "museo",
+    "stressed": "museo",
+    "en": "museum"
+  },
+  {
+    "id": "es-word-biblioteca",
+    "rank": 573,
+    "es": "biblioteca",
+    "stressed": "biblioteca",
+    "en": "library"
+  },
+  {
+    "id": "es-word-teatro",
+    "rank": 574,
+    "es": "teatro",
+    "stressed": "teatro",
+    "en": "theater"
+  },
+  {
+    "id": "es-word-cine",
+    "rank": 575,
+    "es": "cine",
+    "stressed": "cine",
+    "en": "cinema"
+  },
+  {
+    "id": "es-word-iglesia",
+    "rank": 576,
+    "es": "iglesia",
+    "stressed": "iglesia",
+    "en": "church"
+  },
+  {
+    "id": "es-word-mercado",
+    "rank": 577,
+    "es": "mercado",
+    "stressed": "mercado",
+    "en": "market"
+  },
+  {
+    "id": "es-word-tienda",
+    "rank": 578,
+    "es": "tienda",
+    "stressed": "tienda",
+    "en": "shop; store"
+  },
+  {
+    "id": "es-word-supermercado",
+    "rank": 579,
+    "es": "supermercado",
+    "stressed": "supermercado",
+    "en": "supermarket"
+  },
+  {
+    "id": "es-word-panadería",
+    "rank": 580,
+    "es": "panadería",
+    "stressed": "panadería",
+    "en": "bakery"
+  },
+  {
+    "id": "es-word-restaurante",
+    "rank": 581,
+    "es": "restaurante",
+    "stressed": "restaurante",
+    "en": "restaurant"
+  },
+  {
+    "id": "es-word-cafetería",
+    "rank": 582,
+    "es": "cafetería",
+    "stressed": "cafetería",
+    "en": "café; coffee shop"
+  },
+  {
+    "id": "es-word-banco",
+    "rank": 583,
+    "es": "banco",
+    "stressed": "banco",
+    "en": "bank; bench"
+  },
+  {
+    "id": "es-word-oficina",
+    "rank": 584,
+    "es": "oficina",
+    "stressed": "oficina",
+    "en": "office"
+  },
+  {
+    "id": "es-word-correo",
+    "rank": 585,
+    "es": "correo",
+    "stressed": "correo",
+    "en": "mail; postal service"
+  },
+  {
+    "id": "es-word-escuela",
+    "rank": 586,
+    "es": "escuela",
+    "stressed": "escuela",
+    "en": "school"
+  },
+  {
+    "id": "es-word-universidad",
+    "rank": 587,
+    "es": "universidad",
+    "stressed": "universidad",
+    "en": "university"
+  },
+  {
+    "id": "es-word-estación",
+    "rank": 588,
+    "es": "estación",
+    "stressed": "estación",
+    "en": "station"
+  },
+  {
+    "id": "es-word-parada",
+    "rank": 589,
+    "es": "parada",
+    "stressed": "parada",
+    "en": "stop (transport)"
+  },
+  {
+    "id": "es-word-aeropuerto",
+    "rank": 590,
+    "es": "aeropuerto",
+    "stressed": "aeropuerto",
+    "en": "airport"
+  },
+  {
+    "id": "es-word-puerto",
+    "rank": 591,
+    "es": "puerto",
+    "stressed": "puerto",
+    "en": "port; harbor"
+  },
+  {
+    "id": "es-word-hotel",
+    "rank": 592,
+    "es": "hotel",
+    "stressed": "hotel",
+    "en": "hotel"
+  },
+  {
+    "id": "es-word-alojamiento",
+    "rank": 593,
+    "es": "alojamiento",
+    "stressed": "alojamiento",
+    "en": "accommodation"
+  },
+  {
+    "id": "es-word-recepción",
+    "rank": 594,
+    "es": "recepción",
+    "stressed": "recepción",
+    "en": "reception desk"
+  },
+  {
+    "id": "es-word-reserva",
+    "rank": 595,
+    "es": "reserva",
+    "stressed": "reserva",
+    "en": "reservation"
+  },
+  {
+    "id": "es-word-mapa",
+    "rank": 596,
+    "es": "mapa",
+    "stressed": "mapa",
+    "en": "map"
+  },
+  {
+    "id": "es-word-dirección",
+    "rank": 597,
+    "es": "dirección",
+    "stressed": "dirección",
+    "en": "address; direction"
+  },
+  {
+    "id": "es-word-centro",
+    "rank": 598,
+    "es": "centro",
+    "stressed": "centro",
+    "en": "center"
+  },
+  {
+    "id": "es-word-norte",
+    "rank": 599,
+    "es": "norte",
+    "stressed": "norte",
+    "en": "north"
+  },
+  {
+    "id": "es-word-sur",
+    "rank": 600,
+    "es": "sur",
+    "stressed": "sur",
+    "en": "south"
+  },
+  {
+    "id": "es-word-oeste",
+    "rank": 601,
+    "es": "oeste",
+    "stressed": "oeste",
+    "en": "west"
+  },
+  {
+    "id": "es-word-derecha",
+    "rank": 602,
+    "es": "derecha",
+    "stressed": "derecha",
+    "en": "right-hand side"
+  },
+  {
+    "id": "es-word-izquierda",
+    "rank": 603,
+    "es": "izquierda",
+    "stressed": "izquierda",
+    "en": "left-hand side"
+  },
+  {
+    "id": "es-word-frontera",
+    "rank": 604,
+    "es": "frontera",
+    "stressed": "frontera",
+    "en": "border"
+  },
+  {
+    "id": "es-word-coche",
+    "rank": 605,
+    "es": "coche",
+    "stressed": "coche",
+    "en": "car (Spain)"
+  },
+  {
+    "id": "es-word-autobús",
+    "rank": 606,
+    "es": "autobús",
+    "stressed": "autobús",
+    "en": "bus"
+  },
+  {
+    "id": "es-word-tren",
+    "rank": 607,
+    "es": "tren",
+    "stressed": "tren",
+    "en": "train"
+  },
+  {
+    "id": "es-word-metro",
+    "rank": 608,
+    "es": "metro",
+    "stressed": "metro",
+    "en": "subway; meter"
+  },
+  {
+    "id": "es-word-tranvía",
+    "rank": 609,
+    "es": "tranvía",
+    "stressed": "tranvía",
+    "en": "tram; streetcar"
+  },
+  {
+    "id": "es-word-taxi",
+    "rank": 610,
+    "es": "taxi",
+    "stressed": "taxi",
+    "en": "taxi"
+  },
+  {
+    "id": "es-word-bicicleta",
+    "rank": 611,
+    "es": "bicicleta",
+    "stressed": "bicicleta",
+    "en": "bicycle"
+  },
+  {
+    "id": "es-word-moto",
+    "rank": 612,
+    "es": "moto",
+    "stressed": "moto",
+    "en": "motorcycle"
+  },
+  {
+    "id": "es-word-avión",
+    "rank": 613,
+    "es": "avión",
+    "stressed": "avión",
+    "en": "airplane"
+  },
+  {
+    "id": "es-word-barco",
+    "rank": 614,
+    "es": "barco",
+    "stressed": "barco",
+    "en": "boat; ship"
+  },
+  {
+    "id": "es-word-billete",
+    "rank": 615,
+    "es": "billete",
+    "stressed": "billete",
+    "en": "ticket; banknote (Spain)"
+  },
+  {
+    "id": "es-word-boleto",
+    "rank": 616,
+    "es": "boleto",
+    "stressed": "boleto",
+    "en": "ticket (Latin America)"
+  },
+  {
+    "id": "es-word-viaje",
+    "rank": 617,
+    "es": "viaje",
+    "stressed": "viaje",
+    "en": "trip; journey"
+  },
+  {
+    "id": "es-word-trayecto",
+    "rank": 618,
+    "es": "trayecto",
+    "stressed": "trayecto",
+    "en": "route; journey between places"
+  },
+  {
+    "id": "es-word-ruta",
+    "rank": 619,
+    "es": "ruta",
+    "stressed": "ruta",
+    "en": "route"
+  },
+  {
+    "id": "es-word-destino",
+    "rank": 620,
+    "es": "destino",
+    "stressed": "destino",
+    "en": "destination"
+  },
+  {
+    "id": "es-word-origen",
+    "rank": 621,
+    "es": "origen",
+    "stressed": "origen",
+    "en": "origin"
+  },
+  {
+    "id": "es-word-horario",
+    "rank": 622,
+    "es": "horario",
+    "stressed": "horario",
+    "en": "timetable; schedule"
+  },
+  {
+    "id": "es-word-retraso",
+    "rank": 623,
+    "es": "retraso",
+    "stressed": "retraso",
+    "en": "delay"
+  },
+  {
+    "id": "es-word-llegada",
+    "rank": 624,
+    "es": "llegada",
+    "stressed": "llegada",
+    "en": "arrival"
+  },
+  {
+    "id": "es-word-andén",
+    "rank": 625,
+    "es": "andén",
+    "stressed": "andén",
+    "en": "platform (train station)"
+  },
+  {
+    "id": "es-word-vuelo",
+    "rank": 626,
+    "es": "vuelo",
+    "stressed": "vuelo",
+    "en": "flight"
+  },
+  {
+    "id": "es-word-equipaje",
+    "rank": 627,
+    "es": "equipaje",
+    "stressed": "equipaje",
+    "en": "luggage"
+  },
+  {
+    "id": "es-word-pasaporte",
+    "rank": 628,
+    "es": "pasaporte",
+    "stressed": "pasaporte",
+    "en": "passport"
+  },
+  {
+    "id": "es-word-aduana",
+    "rank": 629,
+    "es": "aduana",
+    "stressed": "aduana",
+    "en": "customs"
+  },
+  {
+    "id": "es-word-permiso",
+    "rank": 630,
+    "es": "permiso",
+    "stressed": "permiso",
+    "en": "permission; permit"
+  },
+  {
+    "id": "es-word-carné",
+    "rank": 631,
+    "es": "carné",
+    "stressed": "carné",
+    "en": "identification card; license"
+  },
+  {
+    "id": "es-word-velocidad",
+    "rank": 632,
+    "es": "velocidad",
+    "stressed": "velocidad",
+    "en": "speed"
+  },
+  {
+    "id": "es-word-tráfico",
+    "rank": 633,
+    "es": "tráfico",
+    "stressed": "tráfico",
+    "en": "traffic"
+  },
+  {
+    "id": "es-word-atasco",
+    "rank": 634,
+    "es": "atasco",
+    "stressed": "atasco",
+    "en": "traffic jam"
+  },
+  {
+    "id": "es-word-aparcamiento",
+    "rank": 635,
+    "es": "aparcamiento",
+    "stressed": "aparcamiento",
+    "en": "parking; parking lot (Spain)"
+  },
+  {
+    "id": "es-word-gasolina",
+    "rank": 636,
+    "es": "gasolina",
+    "stressed": "gasolina",
+    "en": "gasoline; petrol"
+  },
+  {
+    "id": "es-word-motor",
+    "rank": 637,
+    "es": "motor",
+    "stressed": "motor",
+    "en": "engine; motor"
+  },
+  {
+    "id": "es-word-rueda",
+    "rank": 638,
+    "es": "rueda",
+    "stressed": "rueda",
+    "en": "wheel"
+  },
+  {
+    "id": "es-word-freno",
+    "rank": 639,
+    "es": "freno",
+    "stressed": "freno",
+    "en": "brake"
+  },
+  {
+    "id": "es-word-asiento",
+    "rank": 640,
+    "es": "asiento",
+    "stressed": "asiento",
+    "en": "seat"
+  },
+  {
+    "id": "es-word-cinturón-de-seguridad",
+    "rank": 641,
+    "es": "cinturón de seguridad",
+    "stressed": "cinturón de seguridad",
+    "en": "seat belt"
+  },
+  {
+    "id": "es-word-conexión",
+    "rank": 642,
+    "es": "conexión",
+    "stressed": "conexión",
+    "en": "connection"
+  },
+  {
+    "id": "es-word-ida",
+    "rank": 643,
+    "es": "ida",
+    "stressed": "ida",
+    "en": "outward journey"
+  },
+  {
+    "id": "es-word-vuelta",
+    "rank": 644,
+    "es": "vuelta",
+    "stressed": "vuelta",
+    "en": "return; turn"
+  },
+  {
+    "id": "es-word-escala",
+    "rank": 645,
+    "es": "escala",
+    "stressed": "escala",
+    "en": "stopover; scale"
+  },
+  {
+    "id": "es-word-ventanilla",
+    "rank": 646,
+    "es": "ventanilla",
+    "stressed": "ventanilla",
+    "en": "service window; vehicle window"
+  },
+  {
+    "id": "es-word-peatón",
+    "rank": 647,
+    "es": "peatón",
+    "stressed": "peatón",
+    "en": "pedestrian"
+  },
+  {
+    "id": "es-word-carril",
+    "rank": 648,
+    "es": "carril",
+    "stressed": "carril",
+    "en": "lane"
+  },
+  {
+    "id": "es-word-tiempo",
+    "rank": 649,
+    "es": "tiempo",
+    "stressed": "tiempo",
+    "en": "time; weather"
+  },
+  {
+    "id": "es-word-día",
+    "rank": 650,
+    "es": "día",
+    "stressed": "día",
+    "en": "day"
+  },
+  {
+    "id": "es-word-semana",
+    "rank": 651,
+    "es": "semana",
+    "stressed": "semana",
+    "en": "week"
+  },
+  {
+    "id": "es-word-mes",
+    "rank": 652,
+    "es": "mes",
+    "stressed": "mes",
+    "en": "month"
+  },
+  {
+    "id": "es-word-año",
+    "rank": 653,
+    "es": "año",
+    "stressed": "año",
+    "en": "year"
+  },
+  {
+    "id": "es-word-hora",
+    "rank": 654,
+    "es": "hora",
+    "stressed": "hora",
+    "en": "hour; time"
+  },
+  {
+    "id": "es-word-minuto",
+    "rank": 655,
+    "es": "minuto",
+    "stressed": "minuto",
+    "en": "minute"
+  },
+  {
+    "id": "es-word-segundo",
+    "rank": 656,
+    "es": "segundo",
+    "stressed": "segundo",
+    "en": "second"
+  },
+  {
+    "id": "es-word-momento",
+    "rank": 657,
+    "es": "momento",
+    "stressed": "momento",
+    "en": "moment"
+  },
+  {
+    "id": "es-word-instante",
+    "rank": 658,
+    "es": "instante",
+    "stressed": "instante",
+    "en": "instant"
+  },
+  {
+    "id": "es-word-fecha",
+    "rank": 659,
+    "es": "fecha",
+    "stressed": "fecha",
+    "en": "date"
+  },
+  {
+    "id": "es-word-calendario",
+    "rank": 660,
+    "es": "calendario",
+    "stressed": "calendario",
+    "en": "calendar"
+  },
+  {
+    "id": "es-word-lunes",
+    "rank": 661,
+    "es": "lunes",
+    "stressed": "lunes",
+    "en": "Monday"
+  },
+  {
+    "id": "es-word-martes",
+    "rank": 662,
+    "es": "martes",
+    "stressed": "martes",
+    "en": "Tuesday"
+  },
+  {
+    "id": "es-word-miércoles",
+    "rank": 663,
+    "es": "miércoles",
+    "stressed": "miércoles",
+    "en": "Wednesday"
+  },
+  {
+    "id": "es-word-jueves",
+    "rank": 664,
+    "es": "jueves",
+    "stressed": "jueves",
+    "en": "Thursday"
+  },
+  {
+    "id": "es-word-viernes",
+    "rank": 665,
+    "es": "viernes",
+    "stressed": "viernes",
+    "en": "Friday"
+  },
+  {
+    "id": "es-word-sábado",
+    "rank": 666,
+    "es": "sábado",
+    "stressed": "sábado",
+    "en": "Saturday"
+  },
+  {
+    "id": "es-word-domingo",
+    "rank": 667,
+    "es": "domingo",
+    "stressed": "domingo",
+    "en": "Sunday"
+  },
+  {
+    "id": "es-word-enero",
+    "rank": 668,
+    "es": "enero",
+    "stressed": "enero",
+    "en": "January"
+  },
+  {
+    "id": "es-word-febrero",
+    "rank": 669,
+    "es": "febrero",
+    "stressed": "febrero",
+    "en": "February"
+  },
+  {
+    "id": "es-word-marzo",
+    "rank": 670,
+    "es": "marzo",
+    "stressed": "marzo",
+    "en": "March"
+  },
+  {
+    "id": "es-word-abril",
+    "rank": 671,
+    "es": "abril",
+    "stressed": "abril",
+    "en": "April"
+  },
+  {
+    "id": "es-word-mayo",
+    "rank": 672,
+    "es": "mayo",
+    "stressed": "mayo",
+    "en": "May"
+  },
+  {
+    "id": "es-word-junio",
+    "rank": 673,
+    "es": "junio",
+    "stressed": "junio",
+    "en": "June"
+  },
+  {
+    "id": "es-word-julio",
+    "rank": 674,
+    "es": "julio",
+    "stressed": "julio",
+    "en": "July"
+  },
+  {
+    "id": "es-word-agosto",
+    "rank": 675,
+    "es": "agosto",
+    "stressed": "agosto",
+    "en": "August"
+  },
+  {
+    "id": "es-word-septiembre",
+    "rank": 676,
+    "es": "septiembre",
+    "stressed": "septiembre",
+    "en": "September"
+  },
+  {
+    "id": "es-word-octubre",
+    "rank": 677,
+    "es": "octubre",
+    "stressed": "octubre",
+    "en": "October"
+  },
+  {
+    "id": "es-word-noviembre",
+    "rank": 678,
+    "es": "noviembre",
+    "stressed": "noviembre",
+    "en": "November"
+  },
+  {
+    "id": "es-word-diciembre",
+    "rank": 679,
+    "es": "diciembre",
+    "stressed": "diciembre",
+    "en": "December"
+  },
+  {
+    "id": "es-word-primavera",
+    "rank": 680,
+    "es": "primavera",
+    "stressed": "primavera",
+    "en": "spring"
+  },
+  {
+    "id": "es-word-verano",
+    "rank": 681,
+    "es": "verano",
+    "stressed": "verano",
+    "en": "summer"
+  },
+  {
+    "id": "es-word-otoño",
+    "rank": 682,
+    "es": "otoño",
+    "stressed": "otoño",
+    "en": "autumn; fall"
+  },
+  {
+    "id": "es-word-invierno",
+    "rank": 683,
+    "es": "invierno",
+    "stressed": "invierno",
+    "en": "winter"
+  },
+  {
+    "id": "es-word-noche",
+    "rank": 684,
+    "es": "noche",
+    "stressed": "noche",
+    "en": "night"
+  },
+  {
+    "id": "es-word-madrugada",
+    "rank": 685,
+    "es": "madrugada",
+    "stressed": "madrugada",
+    "en": "early morning before sunrise"
+  },
+  {
+    "id": "es-word-mediodía",
+    "rank": 686,
+    "es": "mediodía",
+    "stressed": "mediodía",
+    "en": "noon"
+  },
+  {
+    "id": "es-word-medianoche",
+    "rank": 687,
+    "es": "medianoche",
+    "stressed": "medianoche",
+    "en": "midnight"
+  },
+  {
+    "id": "es-word-anteayer",
+    "rank": 688,
+    "es": "anteayer",
+    "stressed": "anteayer",
+    "en": "the day before yesterday"
+  },
+  {
+    "id": "es-word-pasado-mañana",
+    "rank": 689,
+    "es": "pasado mañana",
+    "stressed": "pasado mañana",
+    "en": "the day after tomorrow"
+  },
+  {
+    "id": "es-word-anoche",
+    "rank": 690,
+    "es": "anoche",
+    "stressed": "anoche",
+    "en": "last night"
+  },
+  {
+    "id": "es-word-esta-noche",
+    "rank": 691,
+    "es": "esta noche",
+    "stressed": "esta noche",
+    "en": "tonight"
+  },
+  {
+    "id": "es-word-fin-de-semana",
+    "rank": 692,
+    "es": "fin de semana",
+    "stressed": "fin de semana",
+    "en": "weekend"
+  },
+  {
+    "id": "es-word-vacaciones",
+    "rank": 693,
+    "es": "vacaciones",
+    "stressed": "vacaciones",
+    "en": "vacation; holidays"
+  },
+  {
+    "id": "es-word-cumpleaños",
+    "rank": 694,
+    "es": "cumpleaños",
+    "stressed": "cumpleaños",
+    "en": "birthday"
+  },
+  {
+    "id": "es-word-aniversario",
+    "rank": 695,
+    "es": "aniversario",
+    "stressed": "aniversario",
+    "en": "anniversary"
+  },
+  {
+    "id": "es-word-siglo",
+    "rank": 696,
+    "es": "siglo",
+    "stressed": "siglo",
+    "en": "century"
+  },
+  {
+    "id": "es-word-época",
+    "rank": 697,
+    "es": "época",
+    "stressed": "época",
+    "en": "era; period"
+  },
+  {
+    "id": "es-word-plazo",
+    "rank": 698,
+    "es": "plazo",
+    "stressed": "plazo",
+    "en": "deadline; time period"
+  },
+  {
+    "id": "es-word-uno",
+    "rank": 699,
+    "es": "uno",
+    "stressed": "uno",
+    "en": "one"
+  },
+  {
+    "id": "es-word-dos",
+    "rank": 700,
+    "es": "dos",
+    "stressed": "dos",
+    "en": "two"
+  },
+  {
+    "id": "es-word-tres",
+    "rank": 701,
+    "es": "tres",
+    "stressed": "tres",
+    "en": "three"
+  },
+  {
+    "id": "es-word-cuatro",
+    "rank": 702,
+    "es": "cuatro",
+    "stressed": "cuatro",
+    "en": "four"
+  },
+  {
+    "id": "es-word-cinco",
+    "rank": 703,
+    "es": "cinco",
+    "stressed": "cinco",
+    "en": "five"
+  },
+  {
+    "id": "es-word-seis",
+    "rank": 704,
+    "es": "seis",
+    "stressed": "seis",
+    "en": "six"
+  },
+  {
+    "id": "es-word-siete",
+    "rank": 705,
+    "es": "siete",
+    "stressed": "siete",
+    "en": "seven"
+  },
+  {
+    "id": "es-word-ocho",
+    "rank": 706,
+    "es": "ocho",
+    "stressed": "ocho",
+    "en": "eight"
+  },
+  {
+    "id": "es-word-nueve",
+    "rank": 707,
+    "es": "nueve",
+    "stressed": "nueve",
+    "en": "nine"
+  },
+  {
+    "id": "es-word-diez",
+    "rank": 708,
+    "es": "diez",
+    "stressed": "diez",
+    "en": "ten"
+  },
+  {
+    "id": "es-word-once",
+    "rank": 709,
+    "es": "once",
+    "stressed": "once",
+    "en": "eleven"
+  },
+  {
+    "id": "es-word-doce",
+    "rank": 710,
+    "es": "doce",
+    "stressed": "doce",
+    "en": "twelve"
+  },
+  {
+    "id": "es-word-trece",
+    "rank": 711,
+    "es": "trece",
+    "stressed": "trece",
+    "en": "thirteen"
+  },
+  {
+    "id": "es-word-catorce",
+    "rank": 712,
+    "es": "catorce",
+    "stressed": "catorce",
+    "en": "fourteen"
+  },
+  {
+    "id": "es-word-veinte",
+    "rank": 713,
+    "es": "veinte",
+    "stressed": "veinte",
+    "en": "twenty"
+  },
+  {
+    "id": "es-word-treinta",
+    "rank": 714,
+    "es": "treinta",
+    "stressed": "treinta",
+    "en": "thirty"
+  },
+  {
+    "id": "es-word-cuarenta",
+    "rank": 715,
+    "es": "cuarenta",
+    "stressed": "cuarenta",
+    "en": "forty"
+  },
+  {
+    "id": "es-word-cincuenta",
+    "rank": 716,
+    "es": "cincuenta",
+    "stressed": "cincuenta",
+    "en": "fifty"
+  },
+  {
+    "id": "es-word-cien",
+    "rank": 717,
+    "es": "cien",
+    "stressed": "cien",
+    "en": "one hundred"
+  },
+  {
+    "id": "es-word-mil",
+    "rank": 718,
+    "es": "mil",
+    "stressed": "mil",
+    "en": "one thousand"
+  },
+  {
+    "id": "es-word-millón",
+    "rank": 719,
+    "es": "millón",
+    "stressed": "millón",
+    "en": "million"
+  },
+  {
+    "id": "es-word-cero",
+    "rank": 720,
+    "es": "cero",
+    "stressed": "cero",
+    "en": "zero"
+  },
+  {
+    "id": "es-word-primero",
+    "rank": 721,
+    "es": "primero",
+    "stressed": "primero",
+    "en": "first"
+  },
+  {
+    "id": "es-word-último",
+    "rank": 722,
+    "es": "último",
+    "stressed": "último",
+    "en": "last"
+  },
+  {
+    "id": "es-word-siguiente",
+    "rank": 723,
+    "es": "siguiente",
+    "stressed": "siguiente",
+    "en": "next"
+  },
+  {
+    "id": "es-word-anterior",
+    "rank": 724,
+    "es": "anterior",
+    "stressed": "anterior",
+    "en": "previous"
+  },
+  {
+    "id": "es-word-mitad",
+    "rank": 725,
+    "es": "mitad",
+    "stressed": "mitad",
+    "en": "half"
+  },
+  {
+    "id": "es-word-doble",
+    "rank": 726,
+    "es": "doble",
+    "stressed": "doble",
+    "en": "double"
+  },
+  {
+    "id": "es-word-número",
+    "rank": 727,
+    "es": "número",
+    "stressed": "número",
+    "en": "number"
+  },
+  {
+    "id": "es-word-cantidad",
+    "rank": 728,
+    "es": "cantidad",
+    "stressed": "cantidad",
+    "en": "quantity; amount"
+  },
+  {
+    "id": "es-word-total",
+    "rank": 729,
+    "es": "total",
+    "stressed": "total",
+    "en": "total"
+  },
+  {
+    "id": "es-word-parte",
+    "rank": 730,
+    "es": "parte",
+    "stressed": "parte",
+    "en": "part"
+  },
+  {
+    "id": "es-word-grupo",
+    "rank": 731,
+    "es": "grupo",
+    "stressed": "grupo",
+    "en": "group"
+  },
+  {
+    "id": "es-word-par",
+    "rank": 732,
+    "es": "par",
+    "stressed": "par",
+    "en": "pair; even (number)"
+  },
+  {
+    "id": "es-word-porcentaje",
+    "rank": 733,
+    "es": "porcentaje",
+    "stressed": "porcentaje",
+    "en": "percentage"
+  },
+  {
+    "id": "es-word-mayoría",
+    "rank": 734,
+    "es": "mayoría",
+    "stressed": "mayoría",
+    "en": "majority"
+  },
+  {
+    "id": "es-word-minoría",
+    "rank": 735,
+    "es": "minoría",
+    "stressed": "minoría",
+    "en": "minority"
+  },
+  {
+    "id": "es-word-resto",
+    "rank": 736,
+    "es": "resto",
+    "stressed": "resto",
+    "en": "rest; remainder"
+  },
+  {
+    "id": "es-word-bueno",
+    "rank": 737,
+    "es": "bueno",
+    "stressed": "bueno",
+    "en": "good"
+  },
+  {
+    "id": "es-word-malo",
+    "rank": 738,
+    "es": "malo",
+    "stressed": "malo",
+    "en": "bad"
+  },
+  {
+    "id": "es-word-grande",
+    "rank": 739,
+    "es": "grande",
+    "stressed": "grande",
+    "en": "big; large"
+  },
+  {
+    "id": "es-word-pequeño",
+    "rank": 740,
+    "es": "pequeño",
+    "stressed": "pequeño",
+    "en": "small"
+  },
+  {
+    "id": "es-word-largo",
+    "rank": 741,
+    "es": "largo",
+    "stressed": "largo",
+    "en": "long"
+  },
+  {
+    "id": "es-word-corto",
+    "rank": 742,
+    "es": "corto",
+    "stressed": "corto",
+    "en": "short (length)"
+  },
+  {
+    "id": "es-word-alto",
+    "rank": 743,
+    "es": "alto",
+    "stressed": "alto",
+    "en": "tall; high"
+  },
+  {
+    "id": "es-word-bajo",
+    "rank": 744,
+    "es": "bajo",
+    "stressed": "bajo",
+    "en": "short; low"
+  },
+  {
+    "id": "es-word-ancho",
+    "rank": 745,
+    "es": "ancho",
+    "stressed": "ancho",
+    "en": "wide"
+  },
+  {
+    "id": "es-word-estrecho",
+    "rank": 746,
+    "es": "estrecho",
+    "stressed": "estrecho",
+    "en": "narrow"
+  },
+  {
+    "id": "es-word-nuevo",
+    "rank": 747,
+    "es": "nuevo",
+    "stressed": "nuevo",
+    "en": "new"
+  },
+  {
+    "id": "es-word-viejo",
+    "rank": 748,
+    "es": "viejo",
+    "stressed": "viejo",
+    "en": "old"
+  },
+  {
+    "id": "es-word-antiguo",
+    "rank": 749,
+    "es": "antiguo",
+    "stressed": "antiguo",
+    "en": "ancient; former"
+  },
+  {
+    "id": "es-word-moderno",
+    "rank": 750,
+    "es": "moderno",
+    "stressed": "moderno",
+    "en": "modern"
+  },
+  {
+    "id": "es-word-bonito",
+    "rank": 751,
+    "es": "bonito",
+    "stressed": "bonito",
+    "en": "pretty"
+  },
+  {
+    "id": "es-word-hermoso",
+    "rank": 752,
+    "es": "hermoso",
+    "stressed": "hermoso",
+    "en": "beautiful"
+  },
+  {
+    "id": "es-word-feo",
+    "rank": 753,
+    "es": "feo",
+    "stressed": "feo",
+    "en": "ugly"
+  },
+  {
+    "id": "es-word-fácil",
+    "rank": 754,
+    "es": "fácil",
+    "stressed": "fácil",
+    "en": "easy"
+  },
+  {
+    "id": "es-word-difícil",
+    "rank": 755,
+    "es": "difícil",
+    "stressed": "difícil",
+    "en": "difficult"
+  },
+  {
+    "id": "es-word-simple",
+    "rank": 756,
+    "es": "simple",
+    "stressed": "simple",
+    "en": "simple"
+  },
+  {
+    "id": "es-word-complejo",
+    "rank": 757,
+    "es": "complejo",
+    "stressed": "complejo",
+    "en": "complex"
+  },
+  {
+    "id": "es-word-rápido",
+    "rank": 758,
+    "es": "rápido",
+    "stressed": "rápido",
+    "en": "fast"
+  },
+  {
+    "id": "es-word-lento",
+    "rank": 759,
+    "es": "lento",
+    "stressed": "lento",
+    "en": "slow"
+  },
+  {
+    "id": "es-word-fuerte",
+    "rank": 760,
+    "es": "fuerte",
+    "stressed": "fuerte",
+    "en": "strong"
+  },
+  {
+    "id": "es-word-débil",
+    "rank": 761,
+    "es": "débil",
+    "stressed": "débil",
+    "en": "weak"
+  },
+  {
+    "id": "es-word-caliente",
+    "rank": 762,
+    "es": "caliente",
+    "stressed": "caliente",
+    "en": "hot"
+  },
+  {
+    "id": "es-word-frío",
+    "rank": 763,
+    "es": "frío",
+    "stressed": "frío",
+    "en": "cold"
+  },
+  {
+    "id": "es-word-seco",
+    "rank": 764,
+    "es": "seco",
+    "stressed": "seco",
+    "en": "dry"
+  },
+  {
+    "id": "es-word-mojado",
+    "rank": 765,
+    "es": "mojado",
+    "stressed": "mojado",
+    "en": "wet"
+  },
+  {
+    "id": "es-word-limpio",
+    "rank": 766,
+    "es": "limpio",
+    "stressed": "limpio",
+    "en": "clean"
+  },
+  {
+    "id": "es-word-sucio",
+    "rank": 767,
+    "es": "sucio",
+    "stressed": "sucio",
+    "en": "dirty"
+  },
+  {
+    "id": "es-word-lleno",
+    "rank": 768,
+    "es": "lleno",
+    "stressed": "lleno",
+    "en": "full"
+  },
+  {
+    "id": "es-word-vacío",
+    "rank": 769,
+    "es": "vacío",
+    "stressed": "vacío",
+    "en": "empty"
+  },
+  {
+    "id": "es-word-abierto",
+    "rank": 770,
+    "es": "abierto",
+    "stressed": "abierto",
+    "en": "open"
+  },
+  {
+    "id": "es-word-cerrado",
+    "rank": 771,
+    "es": "cerrado",
+    "stressed": "cerrado",
+    "en": "closed"
+  },
+  {
+    "id": "es-word-caro",
+    "rank": 772,
+    "es": "caro",
+    "stressed": "caro",
+    "en": "expensive"
+  },
+  {
+    "id": "es-word-barato",
+    "rank": 773,
+    "es": "barato",
+    "stressed": "barato",
+    "en": "cheap; inexpensive"
+  },
+  {
+    "id": "es-word-rico",
+    "rank": 774,
+    "es": "rico",
+    "stressed": "rico",
+    "en": "rich; tasty"
+  },
+  {
+    "id": "es-word-pobre",
+    "rank": 775,
+    "es": "pobre",
+    "stressed": "pobre",
+    "en": "poor"
+  },
+  {
+    "id": "es-word-feliz",
+    "rank": 776,
+    "es": "feliz",
+    "stressed": "feliz",
+    "en": "happy"
+  },
+  {
+    "id": "es-word-triste",
+    "rank": 777,
+    "es": "triste",
+    "stressed": "triste",
+    "en": "sad"
+  },
+  {
+    "id": "es-word-contento",
+    "rank": 778,
+    "es": "contento",
+    "stressed": "contento",
+    "en": "pleased; happy"
+  },
+  {
+    "id": "es-word-enfadado",
+    "rank": 779,
+    "es": "enfadado",
+    "stressed": "enfadado",
+    "en": "angry"
+  },
+  {
+    "id": "es-word-cansado",
+    "rank": 780,
+    "es": "cansado",
+    "stressed": "cansado",
+    "en": "tired"
+  },
+  {
+    "id": "es-word-ocupado",
+    "rank": 781,
+    "es": "ocupado",
+    "stressed": "ocupado",
+    "en": "busy; occupied"
+  },
+  {
+    "id": "es-word-libre",
+    "rank": 782,
+    "es": "libre",
+    "stressed": "libre",
+    "en": "free; available"
+  },
+  {
+    "id": "es-word-enfermo",
+    "rank": 783,
+    "es": "enfermo",
+    "stressed": "enfermo",
+    "en": "ill; sick"
+  },
+  {
+    "id": "es-word-sano",
+    "rank": 784,
+    "es": "sano",
+    "stressed": "sano",
+    "en": "healthy"
+  },
+  {
+    "id": "es-word-tranquilo",
+    "rank": 785,
+    "es": "tranquilo",
+    "stressed": "tranquilo",
+    "en": "calm; quiet"
+  },
+  {
+    "id": "es-word-nervioso",
+    "rank": 786,
+    "es": "nervioso",
+    "stressed": "nervioso",
+    "en": "nervous"
+  },
+  {
+    "id": "es-word-amable",
+    "rank": 787,
+    "es": "amable",
+    "stressed": "amable",
+    "en": "kind; friendly"
+  },
+  {
+    "id": "es-word-simpático",
+    "rank": 788,
+    "es": "simpático",
+    "stressed": "simpático",
+    "en": "pleasant; nice"
+  },
+  {
+    "id": "es-word-antipático",
+    "rank": 789,
+    "es": "antipático",
+    "stressed": "antipático",
+    "en": "unfriendly; unpleasant"
+  },
+  {
+    "id": "es-word-generoso",
+    "rank": 790,
+    "es": "generoso",
+    "stressed": "generoso",
+    "en": "generous"
+  },
+  {
+    "id": "es-word-egoísta",
+    "rank": 791,
+    "es": "egoísta",
+    "stressed": "egoísta",
+    "en": "selfish"
+  },
+  {
+    "id": "es-word-honesto",
+    "rank": 792,
+    "es": "honesto",
+    "stressed": "honesto",
+    "en": "honest"
+  },
+  {
+    "id": "es-word-sincero",
+    "rank": 793,
+    "es": "sincero",
+    "stressed": "sincero",
+    "en": "sincere"
+  },
+  {
+    "id": "es-word-paciente",
+    "rank": 794,
+    "es": "paciente",
+    "stressed": "paciente",
+    "en": "patient"
+  },
+  {
+    "id": "es-word-impaciente",
+    "rank": 795,
+    "es": "impaciente",
+    "stressed": "impaciente",
+    "en": "impatient"
+  },
+  {
+    "id": "es-word-valiente",
+    "rank": 796,
+    "es": "valiente",
+    "stressed": "valiente",
+    "en": "brave"
+  },
+  {
+    "id": "es-word-prudente",
+    "rank": 797,
+    "es": "prudente",
+    "stressed": "prudente",
+    "en": "cautious; prudent"
+  },
+  {
+    "id": "es-word-curioso",
+    "rank": 798,
+    "es": "curioso",
+    "stressed": "curioso",
+    "en": "curious"
+  },
+  {
+    "id": "es-word-inteligente",
+    "rank": 799,
+    "es": "inteligente",
+    "stressed": "inteligente",
+    "en": "intelligent"
+  },
+  {
+    "id": "es-word-listo",
+    "rank": 800,
+    "es": "listo",
+    "stressed": "listo",
+    "en": "ready; clever"
+  },
+  {
+    "id": "es-word-tonto",
+    "rank": 801,
+    "es": "tonto",
+    "stressed": "tonto",
+    "en": "foolish; silly"
+  },
+  {
+    "id": "es-word-serio",
+    "rank": 802,
+    "es": "serio",
+    "stressed": "serio",
+    "en": "serious"
+  },
+  {
+    "id": "es-word-alegre",
+    "rank": 803,
+    "es": "alegre",
+    "stressed": "alegre",
+    "en": "cheerful"
+  },
+  {
+    "id": "es-word-divertido",
+    "rank": 804,
+    "es": "divertido",
+    "stressed": "divertido",
+    "en": "fun; amusing"
+  },
+  {
+    "id": "es-word-aburrido",
+    "rank": 805,
+    "es": "aburrido",
+    "stressed": "aburrido",
+    "en": "bored; boring"
+  },
+  {
+    "id": "es-word-interesante",
+    "rank": 806,
+    "es": "interesante",
+    "stressed": "interesante",
+    "en": "interesting"
+  },
+  {
+    "id": "es-word-importante",
+    "rank": 807,
+    "es": "importante",
+    "stressed": "importante",
+    "en": "important"
+  },
+  {
+    "id": "es-word-necesario",
+    "rank": 808,
+    "es": "necesario",
+    "stressed": "necesario",
+    "en": "necessary"
+  },
+  {
+    "id": "es-word-útil",
+    "rank": 809,
+    "es": "útil",
+    "stressed": "útil",
+    "en": "useful"
+  },
+  {
+    "id": "es-word-inútil",
+    "rank": 810,
+    "es": "inútil",
+    "stressed": "inútil",
+    "en": "useless"
+  },
+  {
+    "id": "es-word-posible",
+    "rank": 811,
+    "es": "posible",
+    "stressed": "posible",
+    "en": "possible"
+  },
+  {
+    "id": "es-word-imposible",
+    "rank": 812,
+    "es": "imposible",
+    "stressed": "imposible",
+    "en": "impossible"
+  },
+  {
+    "id": "es-word-probable",
+    "rank": 813,
+    "es": "probable",
+    "stressed": "probable",
+    "en": "probable"
+  },
+  {
+    "id": "es-word-el",
+    "rank": 814,
+    "es": "el",
+    "stressed": "el",
+    "en": "the (masculine singular article)"
+  },
+  {
+    "id": "es-word-normal",
+    "rank": 815,
+    "es": "normal",
+    "stressed": "normal",
+    "en": "normal"
+  },
+  {
+    "id": "es-word-especial",
+    "rank": 816,
+    "es": "especial",
+    "stressed": "especial",
+    "en": "special"
+  },
+  {
+    "id": "es-word-común",
+    "rank": 817,
+    "es": "común",
+    "stressed": "común",
+    "en": "common"
+  },
+  {
+    "id": "es-word-propio",
+    "rank": 818,
+    "es": "propio",
+    "stressed": "propio",
+    "en": "one's own; characteristic"
+  },
+  {
+    "id": "es-word-ajeno",
+    "rank": 819,
+    "es": "ajeno",
+    "stressed": "ajeno",
+    "en": "belonging to others; unrelated"
+  },
+  {
+    "id": "es-word-igual",
+    "rank": 820,
+    "es": "igual",
+    "stressed": "igual",
+    "en": "equal; same"
+  },
+  {
+    "id": "es-word-diferente",
+    "rank": 821,
+    "es": "diferente",
+    "stressed": "diferente",
+    "en": "different"
+  },
+  {
+    "id": "es-word-parecido",
+    "rank": 822,
+    "es": "parecido",
+    "stressed": "parecido",
+    "en": "similar"
+  },
+  {
+    "id": "es-word-correcto",
+    "rank": 823,
+    "es": "correcto",
+    "stressed": "correcto",
+    "en": "correct"
+  },
+  {
+    "id": "es-word-incorrecto",
+    "rank": 824,
+    "es": "incorrecto",
+    "stressed": "incorrecto",
+    "en": "incorrect"
+  },
+  {
+    "id": "es-word-verdadero",
+    "rank": 825,
+    "es": "verdadero",
+    "stressed": "verdadero",
+    "en": "true; genuine"
+  },
+  {
+    "id": "es-word-falso",
+    "rank": 826,
+    "es": "falso",
+    "stressed": "falso",
+    "en": "false"
+  },
+  {
+    "id": "es-word-cierto",
+    "rank": 827,
+    "es": "cierto",
+    "stressed": "cierto",
+    "en": "true; certain"
+  },
+  {
+    "id": "es-word-justo",
+    "rank": 828,
+    "es": "justo",
+    "stressed": "justo",
+    "en": "fair; just"
+  },
+  {
+    "id": "es-word-injusto",
+    "rank": 829,
+    "es": "injusto",
+    "stressed": "injusto",
+    "en": "unfair"
+  },
+  {
+    "id": "es-word-exacto",
+    "rank": 830,
+    "es": "exacto",
+    "stressed": "exacto",
+    "en": "exact"
+  },
+  {
+    "id": "es-word-aproximado",
+    "rank": 831,
+    "es": "aproximado",
+    "stressed": "aproximado",
+    "en": "approximate"
+  },
+  {
+    "id": "es-word-suficiente",
+    "rank": 832,
+    "es": "suficiente",
+    "stressed": "suficiente",
+    "en": "sufficient; enough"
+  },
+  {
+    "id": "es-word-los",
+    "rank": 833,
+    "es": "los",
+    "stressed": "los",
+    "en": "the (masculine plural article)"
+  },
+  {
+    "id": "es-word-las",
+    "rank": 834,
+    "es": "las",
+    "stressed": "las",
+    "en": "the (feminine plural article)"
+  },
+  {
+    "id": "es-word-sol",
+    "rank": 835,
+    "es": "sol",
+    "stressed": "sol",
+    "en": "sun"
+  },
+  {
+    "id": "es-word-luna",
+    "rank": 836,
+    "es": "luna",
+    "stressed": "luna",
+    "en": "moon"
+  },
+  {
+    "id": "es-word-estrella",
+    "rank": 837,
+    "es": "estrella",
+    "stressed": "estrella",
+    "en": "star"
+  },
+  {
+    "id": "es-word-cielo",
+    "rank": 838,
+    "es": "cielo",
+    "stressed": "cielo",
+    "en": "sky"
+  },
+  {
+    "id": "es-word-nube",
+    "rank": 839,
+    "es": "nube",
+    "stressed": "nube",
+    "en": "cloud"
+  },
+  {
+    "id": "es-word-lluvia",
+    "rank": 840,
+    "es": "lluvia",
+    "stressed": "lluvia",
+    "en": "rain"
+  },
+  {
+    "id": "es-word-nieve",
+    "rank": 841,
+    "es": "nieve",
+    "stressed": "nieve",
+    "en": "snow"
+  },
+  {
+    "id": "es-word-hielo",
+    "rank": 842,
+    "es": "hielo",
+    "stressed": "hielo",
+    "en": "ice"
+  },
+  {
+    "id": "es-word-viento",
+    "rank": 843,
+    "es": "viento",
+    "stressed": "viento",
+    "en": "wind"
+  },
+  {
+    "id": "es-word-tormenta",
+    "rank": 844,
+    "es": "tormenta",
+    "stressed": "tormenta",
+    "en": "storm"
+  },
+  {
+    "id": "es-word-trueno",
+    "rank": 845,
+    "es": "trueno",
+    "stressed": "trueno",
+    "en": "thunder"
+  },
+  {
+    "id": "es-word-niebla",
+    "rank": 846,
+    "es": "niebla",
+    "stressed": "niebla",
+    "en": "fog"
+  },
+  {
+    "id": "es-word-sombra",
+    "rank": 847,
+    "es": "sombra",
+    "stressed": "sombra",
+    "en": "shade; shadow"
+  },
+  {
+    "id": "es-word-calor",
+    "rank": 848,
+    "es": "calor",
+    "stressed": "calor",
+    "en": "heat"
+  },
+  {
+    "id": "es-word-temperatura",
+    "rank": 849,
+    "es": "temperatura",
+    "stressed": "temperatura",
+    "en": "temperature"
+  },
+  {
+    "id": "es-word-clima",
+    "rank": 850,
+    "es": "clima",
+    "stressed": "clima",
+    "en": "climate"
+  },
+  {
+    "id": "es-word-naturaleza",
+    "rank": 851,
+    "es": "naturaleza",
+    "stressed": "naturaleza",
+    "en": "nature"
+  },
+  {
+    "id": "es-word-tierra",
+    "rank": 852,
+    "es": "tierra",
+    "stressed": "tierra",
+    "en": "earth; land; soil"
+  },
+  {
+    "id": "es-word-mar",
+    "rank": 853,
+    "es": "mar",
+    "stressed": "mar",
+    "en": "sea"
+  },
+  {
+    "id": "es-word-océano",
+    "rank": 854,
+    "es": "océano",
+    "stressed": "océano",
+    "en": "ocean"
+  },
+  {
+    "id": "es-word-río",
+    "rank": 855,
+    "es": "río",
+    "stressed": "río",
+    "en": "river"
+  },
+  {
+    "id": "es-word-lago",
+    "rank": 856,
+    "es": "lago",
+    "stressed": "lago",
+    "en": "lake"
+  },
+  {
+    "id": "es-word-montaña",
+    "rank": 857,
+    "es": "montaña",
+    "stressed": "montaña",
+    "en": "mountain"
+  },
+  {
+    "id": "es-word-valle",
+    "rank": 858,
+    "es": "valle",
+    "stressed": "valle",
+    "en": "valley"
+  },
+  {
+    "id": "es-word-bosque",
+    "rank": 859,
+    "es": "bosque",
+    "stressed": "bosque",
+    "en": "forest"
+  },
+  {
+    "id": "es-word-desierto",
+    "rank": 860,
+    "es": "desierto",
+    "stressed": "desierto",
+    "en": "desert"
+  },
+  {
+    "id": "es-word-playa",
+    "rank": 861,
+    "es": "playa",
+    "stressed": "playa",
+    "en": "beach"
+  },
+  {
+    "id": "es-word-isla",
+    "rank": 862,
+    "es": "isla",
+    "stressed": "isla",
+    "en": "island"
+  },
+  {
+    "id": "es-word-costa",
+    "rank": 863,
+    "es": "costa",
+    "stressed": "costa",
+    "en": "coast"
+  },
+  {
+    "id": "es-word-campo",
+    "rank": 864,
+    "es": "campo",
+    "stressed": "campo",
+    "en": "countryside; field"
+  },
+  {
+    "id": "es-word-árbol",
+    "rank": 865,
+    "es": "árbol",
+    "stressed": "árbol",
+    "en": "tree"
+  },
+  {
+    "id": "es-word-planta",
+    "rank": 866,
+    "es": "planta",
+    "stressed": "planta",
+    "en": "plant"
+  },
+  {
+    "id": "es-word-flor",
+    "rank": 867,
+    "es": "flor",
+    "stressed": "flor",
+    "en": "flower"
+  },
+  {
+    "id": "es-word-hoja",
+    "rank": 868,
+    "es": "hoja",
+    "stressed": "hoja",
+    "en": "leaf; sheet of paper"
+  },
+  {
+    "id": "es-word-hierba",
+    "rank": 869,
+    "es": "hierba",
+    "stressed": "hierba",
+    "en": "grass; herb"
+  },
+  {
+    "id": "es-word-piedra",
+    "rank": 870,
+    "es": "piedra",
+    "stressed": "piedra",
+    "en": "stone"
+  },
+  {
+    "id": "es-word-arena",
+    "rank": 871,
+    "es": "arena",
+    "stressed": "arena",
+    "en": "sand"
+  },
+  {
+    "id": "es-word-fuego",
+    "rank": 872,
+    "es": "fuego",
+    "stressed": "fuego",
+    "en": "fire"
+  },
+  {
+    "id": "es-word-aire",
+    "rank": 873,
+    "es": "aire",
+    "stressed": "aire",
+    "en": "air"
+  },
+  {
+    "id": "es-word-medio-ambiente",
+    "rank": 874,
+    "es": "medio ambiente",
+    "stressed": "medio ambiente",
+    "en": "environment"
+  },
+  {
+    "id": "es-word-paisaje",
+    "rank": 875,
+    "es": "paisaje",
+    "stressed": "paisaje",
+    "en": "landscape"
+  },
+  {
+    "id": "es-word-animal",
+    "rank": 876,
+    "es": "animal",
+    "stressed": "animal",
+    "en": "animal"
+  },
+  {
+    "id": "es-word-perro",
+    "rank": 877,
+    "es": "perro",
+    "stressed": "perro",
+    "en": "dog"
+  },
+  {
+    "id": "es-word-gato",
+    "rank": 878,
+    "es": "gato",
+    "stressed": "gato",
+    "en": "cat"
+  },
+  {
+    "id": "es-word-caballo",
+    "rank": 879,
+    "es": "caballo",
+    "stressed": "caballo",
+    "en": "horse"
+  },
+  {
+    "id": "es-word-vaca",
+    "rank": 880,
+    "es": "vaca",
+    "stressed": "vaca",
+    "en": "cow"
+  },
+  {
+    "id": "es-word-oveja",
+    "rank": 881,
+    "es": "oveja",
+    "stressed": "oveja",
+    "en": "sheep"
+  },
+  {
+    "id": "es-word-pájaro",
+    "rank": 882,
+    "es": "pájaro",
+    "stressed": "pájaro",
+    "en": "bird"
+  },
+  {
+    "id": "es-word-ave",
+    "rank": 883,
+    "es": "ave",
+    "stressed": "ave",
+    "en": "bird (general term)"
+  },
+  {
+    "id": "es-word-una",
+    "rank": 884,
+    "es": "una",
+    "stressed": "una",
+    "en": "a; an (feminine article)"
+  },
+  {
+    "id": "es-word-pez",
+    "rank": 885,
+    "es": "pez",
+    "stressed": "pez",
+    "en": "fish (living animal)"
+  },
+  {
+    "id": "es-word-delfín",
+    "rank": 886,
+    "es": "delfín",
+    "stressed": "delfín",
+    "en": "dolphin"
+  },
+  {
+    "id": "es-word-oso",
+    "rank": 887,
+    "es": "oso",
+    "stressed": "oso",
+    "en": "bear"
+  },
+  {
+    "id": "es-word-lobo",
+    "rank": 888,
+    "es": "lobo",
+    "stressed": "lobo",
+    "en": "wolf"
+  },
+  {
+    "id": "es-word-abeja",
+    "rank": 889,
+    "es": "abeja",
+    "stressed": "abeja",
+    "en": "bee"
+  },
+  {
+    "id": "es-word-mariposa",
+    "rank": 890,
+    "es": "mariposa",
+    "stressed": "mariposa",
+    "en": "butterfly"
+  },
+  {
+    "id": "es-word-mascota",
+    "rank": 891,
+    "es": "mascota",
+    "stressed": "mascota",
+    "en": "pet"
+  },
+  {
+    "id": "es-word-ala",
+    "rank": 892,
+    "es": "ala",
+    "stressed": "ala",
+    "en": "wing"
+  },
+  {
+    "id": "es-word-cola",
+    "rank": 893,
+    "es": "cola",
+    "stressed": "cola",
+    "en": "tail; queue"
+  },
+  {
+    "id": "es-word-pata",
+    "rank": 894,
+    "es": "pata",
+    "stressed": "pata",
+    "en": "animal leg; paw"
+  },
+  {
+    "id": "es-word-unas",
+    "rank": 895,
+    "es": "unas",
+    "stressed": "unas",
+    "en": "some; a few (feminine)"
+  },
+  {
+    "id": "es-word-unos",
+    "rank": 896,
+    "es": "unos",
+    "stressed": "unos",
+    "en": "some; a few (masculine)"
+  },
+  {
+    "id": "es-word-especie",
+    "rank": 897,
+    "es": "especie",
+    "stressed": "especie",
+    "en": "species"
+  },
+  {
+    "id": "es-word-cultivo",
+    "rank": 898,
+    "es": "cultivo",
+    "stressed": "cultivo",
+    "en": "crop; cultivation"
+  },
+  {
+    "id": "es-word-cosecha",
+    "rank": 899,
+    "es": "cosecha",
+    "stressed": "cosecha",
+    "en": "harvest"
+  },
+  {
+    "id": "es-word-granja",
+    "rank": 900,
+    "es": "granja",
+    "stressed": "granja",
+    "en": "farm"
+  },
+  {
+    "id": "es-word-trabajo",
+    "rank": 901,
+    "es": "trabajo",
+    "stressed": "trabajo",
+    "en": "work; job"
+  },
+  {
+    "id": "es-word-empleo",
+    "rank": 902,
+    "es": "empleo",
+    "stressed": "empleo",
+    "en": "employment; job"
+  },
+  {
+    "id": "es-word-profesión",
+    "rank": 903,
+    "es": "profesión",
+    "stressed": "profesión",
+    "en": "profession"
+  },
+  {
+    "id": "es-word-oficio",
+    "rank": 904,
+    "es": "oficio",
+    "stressed": "oficio",
+    "en": "trade; occupation"
+  },
+  {
+    "id": "es-word-empresa",
+    "rank": 905,
+    "es": "empresa",
+    "stressed": "empresa",
+    "en": "company"
+  },
+  {
+    "id": "es-word-negocio",
+    "rank": 906,
+    "es": "negocio",
+    "stressed": "negocio",
+    "en": "business"
+  },
+  {
+    "id": "es-word-reunión",
+    "rank": 907,
+    "es": "reunión",
+    "stressed": "reunión",
+    "en": "meeting"
+  },
+  {
+    "id": "es-word-proyecto",
+    "rank": 908,
+    "es": "proyecto",
+    "stressed": "proyecto",
+    "en": "project"
+  },
+  {
+    "id": "es-word-tarea",
+    "rank": 909,
+    "es": "tarea",
+    "stressed": "tarea",
+    "en": "task; homework"
+  },
+  {
+    "id": "es-word-objetivo",
+    "rank": 910,
+    "es": "objetivo",
+    "stressed": "objetivo",
+    "en": "objective; goal"
+  },
+  {
+    "id": "es-word-meta",
+    "rank": 911,
+    "es": "meta",
+    "stressed": "meta",
+    "en": "goal; target"
+  },
+  {
+    "id": "es-word-plan",
+    "rank": 912,
+    "es": "plan",
+    "stressed": "plan",
+    "en": "plan"
+  },
+  {
+    "id": "es-word-idea",
+    "rank": 913,
+    "es": "idea",
+    "stressed": "idea",
+    "en": "idea"
+  },
+  {
+    "id": "es-word-problema",
+    "rank": 914,
+    "es": "problema",
+    "stressed": "problema",
+    "en": "problem"
+  },
+  {
+    "id": "es-word-solución",
+    "rank": 915,
+    "es": "solución",
+    "stressed": "solución",
+    "en": "solution"
+  },
+  {
+    "id": "es-word-resultado",
+    "rank": 916,
+    "es": "resultado",
+    "stressed": "resultado",
+    "en": "result"
+  },
+  {
+    "id": "es-word-éxito",
+    "rank": 917,
+    "es": "éxito",
+    "stressed": "éxito",
+    "en": "success"
+  },
+  {
+    "id": "es-word-fracaso",
+    "rank": 918,
+    "es": "fracaso",
+    "stressed": "fracaso",
+    "en": "failure"
+  },
+  {
+    "id": "es-word-esfuerzo",
+    "rank": 919,
+    "es": "esfuerzo",
+    "stressed": "esfuerzo",
+    "en": "effort"
+  },
+  {
+    "id": "es-word-experiencia",
+    "rank": 920,
+    "es": "experiencia",
+    "stressed": "experiencia",
+    "en": "experience"
+  },
+  {
+    "id": "es-word-habilidad",
+    "rank": 921,
+    "es": "habilidad",
+    "stressed": "habilidad",
+    "en": "skill; ability"
+  },
+  {
+    "id": "es-word-capacidad",
+    "rank": 922,
+    "es": "capacidad",
+    "stressed": "capacidad",
+    "en": "capacity; ability"
+  },
+  {
+    "id": "es-word-responsabilidad",
+    "rank": 923,
+    "es": "responsabilidad",
+    "stressed": "responsabilidad",
+    "en": "responsibility"
+  },
+  {
+    "id": "es-word-puesto",
+    "rank": 924,
+    "es": "puesto",
+    "stressed": "puesto",
+    "en": "position; job; stall"
+  },
+  {
+    "id": "es-word-contrato",
+    "rank": 925,
+    "es": "contrato",
+    "stressed": "contrato",
+    "en": "contract"
+  },
+  {
+    "id": "es-word-sueldo",
+    "rank": 926,
+    "es": "sueldo",
+    "stressed": "sueldo",
+    "en": "salary"
+  },
+  {
+    "id": "es-word-salario",
+    "rank": 927,
+    "es": "salario",
+    "stressed": "salario",
+    "en": "wages; salary"
+  },
+  {
+    "id": "es-word-horas-extra",
+    "rank": 928,
+    "es": "horas extra",
+    "stressed": "horas extra",
+    "en": "overtime"
+  },
+  {
+    "id": "es-word-entrevista",
+    "rank": 929,
+    "es": "entrevista",
+    "stressed": "entrevista",
+    "en": "interview"
+  },
+  {
+    "id": "es-word-currículum",
+    "rank": 930,
+    "es": "currículum",
+    "stressed": "currículum",
+    "en": "résumé; CV"
+  },
+  {
+    "id": "es-word-formación",
+    "rank": 931,
+    "es": "formación",
+    "stressed": "formación",
+    "en": "training; education"
+  },
+  {
+    "id": "es-word-carrera",
+    "rank": 932,
+    "es": "carrera",
+    "stressed": "carrera",
+    "en": "career; degree; race"
+  },
+  {
+    "id": "es-word-prácticas",
+    "rank": 933,
+    "es": "prácticas",
+    "stressed": "prácticas",
+    "en": "internship; practical training"
+  },
+  {
+    "id": "es-word-equipo",
+    "rank": 934,
+    "es": "equipo",
+    "stressed": "equipo",
+    "en": "team; equipment"
+  },
+  {
+    "id": "es-word-socio",
+    "rank": 935,
+    "es": "socio",
+    "stressed": "socio",
+    "en": "business partner; member"
+  },
+  {
+    "id": "es-word-acuerdo",
+    "rank": 936,
+    "es": "acuerdo",
+    "stressed": "acuerdo",
+    "en": "agreement"
+  },
+  {
+    "id": "es-word-desacuerdo",
+    "rank": 937,
+    "es": "desacuerdo",
+    "stressed": "desacuerdo",
+    "en": "disagreement"
+  },
+  {
+    "id": "es-word-propuesta",
+    "rank": 938,
+    "es": "propuesta",
+    "stressed": "propuesta",
+    "en": "proposal"
+  },
+  {
+    "id": "es-word-oferta",
+    "rank": 939,
+    "es": "oferta",
+    "stressed": "oferta",
+    "en": "offer"
+  },
+  {
+    "id": "es-word-pedido",
+    "rank": 940,
+    "es": "pedido",
+    "stressed": "pedido",
+    "en": "order (purchase)"
+  },
+  {
+    "id": "es-word-entrega",
+    "rank": 941,
+    "es": "entrega",
+    "stressed": "entrega",
+    "en": "delivery"
+  },
+  {
+    "id": "es-word-informe",
+    "rank": 942,
+    "es": "informe",
+    "stressed": "informe",
+    "en": "report"
+  },
+  {
+    "id": "es-word-archivo",
+    "rank": 943,
+    "es": "archivo",
+    "stressed": "archivo",
+    "en": "file; archive"
+  },
+  {
+    "id": "es-word-documento",
+    "rank": 944,
+    "es": "documento",
+    "stressed": "documento",
+    "en": "document"
+  },
+  {
+    "id": "es-word-firma",
+    "rank": 945,
+    "es": "firma",
+    "stressed": "firma",
+    "en": "signature"
+  },
+  {
+    "id": "es-word-sello",
+    "rank": 946,
+    "es": "sello",
+    "stressed": "sello",
+    "en": "stamp; seal"
+  },
+  {
+    "id": "es-word-copia",
+    "rank": 947,
+    "es": "copia",
+    "stressed": "copia",
+    "en": "copy"
+  },
+  {
+    "id": "es-word-original",
+    "rank": 948,
+    "es": "original",
+    "stressed": "original",
+    "en": "original"
+  },
+  {
+    "id": "es-word-material",
+    "rank": 949,
+    "es": "material",
+    "stressed": "material",
+    "en": "material"
+  },
+  {
+    "id": "es-word-recurso",
+    "rank": 950,
+    "es": "recurso",
+    "stressed": "recurso",
+    "en": "resource"
+  },
+  {
+    "id": "es-word-libro",
+    "rank": 951,
+    "es": "libro",
+    "stressed": "libro",
+    "en": "book"
+  },
+  {
+    "id": "es-word-cuaderno",
+    "rank": 952,
+    "es": "cuaderno",
+    "stressed": "cuaderno",
+    "en": "notebook"
+  },
+  {
+    "id": "es-word-papel",
+    "rank": 953,
+    "es": "papel",
+    "stressed": "papel",
+    "en": "paper"
+  },
+  {
+    "id": "es-word-lápiz",
+    "rank": 954,
+    "es": "lápiz",
+    "stressed": "lápiz",
+    "en": "pencil"
+  },
+  {
+    "id": "es-word-bolígrafo",
+    "rank": 955,
+    "es": "bolígrafo",
+    "stressed": "bolígrafo",
+    "en": "pen"
+  },
+  {
+    "id": "es-word-goma-de-borrar",
+    "rank": 956,
+    "es": "goma de borrar",
+    "stressed": "goma de borrar",
+    "en": "eraser"
+  },
+  {
+    "id": "es-word-regla",
+    "rank": 957,
+    "es": "regla",
+    "stressed": "regla",
+    "en": "ruler; rule"
+  },
+  {
+    "id": "es-word-tijeras",
+    "rank": 958,
+    "es": "tijeras",
+    "stressed": "tijeras",
+    "en": "scissors"
+  },
+  {
+    "id": "es-word-pegamento",
+    "rank": 959,
+    "es": "pegamento",
+    "stressed": "pegamento",
+    "en": "glue"
+  },
+  {
+    "id": "es-word-pizarra",
+    "rank": 960,
+    "es": "pizarra",
+    "stressed": "pizarra",
+    "en": "board (classroom)"
+  },
+  {
+    "id": "es-word-clase",
+    "rank": 961,
+    "es": "clase",
+    "stressed": "clase",
+    "en": "class; kind"
+  },
+  {
+    "id": "es-word-curso",
+    "rank": 962,
+    "es": "curso",
+    "stressed": "curso",
+    "en": "course"
+  },
+  {
+    "id": "es-word-lección",
+    "rank": 963,
+    "es": "lección",
+    "stressed": "lección",
+    "en": "lesson"
+  },
+  {
+    "id": "es-word-examen",
+    "rank": 964,
+    "es": "examen",
+    "stressed": "examen",
+    "en": "exam"
+  },
+  {
+    "id": "es-word-prueba",
+    "rank": 965,
+    "es": "prueba",
+    "stressed": "prueba",
+    "en": "test; proof"
+  },
+  {
+    "id": "es-word-nota",
+    "rank": 966,
+    "es": "nota",
+    "stressed": "nota",
+    "en": "grade; note"
+  },
+  {
+    "id": "es-word-pregunta",
+    "rank": 967,
+    "es": "pregunta",
+    "stressed": "pregunta",
+    "en": "question"
+  },
+  {
+    "id": "es-word-respuesta",
+    "rank": 968,
+    "es": "respuesta",
+    "stressed": "respuesta",
+    "en": "answer"
+  },
+  {
+    "id": "es-word-error",
+    "rank": 969,
+    "es": "error",
+    "stressed": "error",
+    "en": "error; mistake"
+  },
+  {
+    "id": "es-word-ejemplo",
+    "rank": 970,
+    "es": "ejemplo",
+    "stressed": "ejemplo",
+    "en": "example"
+  },
+  {
+    "id": "es-word-ejercicio",
+    "rank": 971,
+    "es": "ejercicio",
+    "stressed": "ejercicio",
+    "en": "exercise"
+  },
+  {
+    "id": "es-word-título",
+    "rank": 972,
+    "es": "título",
+    "stressed": "título",
+    "en": "title; degree"
+  },
+  {
+    "id": "es-word-página",
+    "rank": 973,
+    "es": "página",
+    "stressed": "página",
+    "en": "page"
+  },
+  {
+    "id": "es-word-capítulo",
+    "rank": 974,
+    "es": "capítulo",
+    "stressed": "capítulo",
+    "en": "chapter"
+  },
+  {
+    "id": "es-word-párrafo",
+    "rank": 975,
+    "es": "párrafo",
+    "stressed": "párrafo",
+    "en": "paragraph"
+  },
+  {
+    "id": "es-word-frase",
+    "rank": 976,
+    "es": "frase",
+    "stressed": "frase",
+    "en": "sentence; phrase"
+  },
+  {
+    "id": "es-word-palabra",
+    "rank": 977,
+    "es": "palabra",
+    "stressed": "palabra",
+    "en": "word"
+  },
+  {
+    "id": "es-word-letra",
+    "rank": 978,
+    "es": "letra",
+    "stressed": "letra",
+    "en": "letter (alphabet)"
+  },
+  {
+    "id": "es-word-sonido",
+    "rank": 979,
+    "es": "sonido",
+    "stressed": "sonido",
+    "en": "sound"
+  },
+  {
+    "id": "es-word-voz",
+    "rank": 980,
+    "es": "voz",
+    "stressed": "voz",
+    "en": "voice"
+  },
+  {
+    "id": "es-word-acento",
+    "rank": 981,
+    "es": "acento",
+    "stressed": "acento",
+    "en": "accent; stress"
+  },
+  {
+    "id": "es-word-pronunciación",
+    "rank": 982,
+    "es": "pronunciación",
+    "stressed": "pronunciación",
+    "en": "pronunciation"
+  },
+  {
+    "id": "es-word-gramática",
+    "rank": 983,
+    "es": "gramática",
+    "stressed": "gramática",
+    "en": "grammar"
+  },
+  {
+    "id": "es-word-verbo",
+    "rank": 984,
+    "es": "verbo",
+    "stressed": "verbo",
+    "en": "verb"
+  },
+  {
+    "id": "es-word-sustantivo",
+    "rank": 985,
+    "es": "sustantivo",
+    "stressed": "sustantivo",
+    "en": "noun"
+  },
+  {
+    "id": "es-word-adjetivo",
+    "rank": 986,
+    "es": "adjetivo",
+    "stressed": "adjetivo",
+    "en": "adjective"
+  },
+  {
+    "id": "es-word-significado",
+    "rank": 987,
+    "es": "significado",
+    "stressed": "significado",
+    "en": "meaning"
+  },
+  {
+    "id": "es-word-traducción",
+    "rank": 988,
+    "es": "traducción",
+    "stressed": "traducción",
+    "en": "translation"
+  },
+  {
+    "id": "es-word-diccionario",
+    "rank": 989,
+    "es": "diccionario",
+    "stressed": "diccionario",
+    "en": "dictionary"
+  },
+  {
+    "id": "es-word-idioma",
+    "rank": 990,
+    "es": "idioma",
+    "stressed": "idioma",
+    "en": "language"
+  },
+  {
+    "id": "es-word-lectura",
+    "rank": 991,
+    "es": "lectura",
+    "stressed": "lectura",
+    "en": "reading"
+  },
+  {
+    "id": "es-word-escritura",
+    "rank": 992,
+    "es": "escritura",
+    "stressed": "escritura",
+    "en": "writing"
+  },
+  {
+    "id": "es-word-conversación",
+    "rank": 993,
+    "es": "conversación",
+    "stressed": "conversación",
+    "en": "conversation"
+  },
+  {
+    "id": "es-word-debate",
+    "rank": 994,
+    "es": "debate",
+    "stressed": "debate",
+    "en": "debate"
+  },
+  {
+    "id": "es-word-conocimiento",
+    "rank": 995,
+    "es": "conocimiento",
+    "stressed": "conocimiento",
+    "en": "knowledge"
+  },
+  {
+    "id": "es-word-investigación",
+    "rank": 996,
+    "es": "investigación",
+    "stressed": "investigación",
+    "en": "research; investigation"
+  },
+  {
+    "id": "es-word-ciencia",
+    "rank": 997,
+    "es": "ciencia",
+    "stressed": "ciencia",
+    "en": "science"
+  },
+  {
+    "id": "es-word-historia",
+    "rank": 998,
+    "es": "historia",
+    "stressed": "historia",
+    "en": "history; story"
+  },
+  {
+    "id": "es-word-matemáticas",
+    "rank": 999,
+    "es": "matemáticas",
+    "stressed": "matemáticas",
+    "en": "mathematics"
+  },
+  {
+    "id": "es-word-arte",
+    "rank": 1000,
+    "es": "arte",
+    "stressed": "arte",
+    "en": "art"
+  }
+]

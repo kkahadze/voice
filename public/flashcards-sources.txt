@@ -1,0 +1,18 @@
+1,000 common Russian words — Russian / English flashcards
+Compiled 2026-10-09. This derived deck is licensed CC BY-SA 4.0.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Frequency ordering: Wiktionary contributors, Russian Frequency lists
+https://en.wiktionary.org/wiki/Appendix:Russian_Frequency_lists/1-1000
+https://en.wiktionary.org/wiki/Appendix:Russian_Frequency_lists/1001-2000
+
+Dictionary translations and stress: OpenRussian.org and its contributors
+https://en.openrussian.org/dictionary-data
+https://github.com/Badestrand/russian-dictionary
+
+Changes: duplicate entries removed, old spelling normalized, stress converted
+to combining acute accents, English definitions shortened and selected
+translations corrected. Common inflected forms are retained. Frequencies vary
+by corpus; this is a frequency-based starter deck, not a universal ranking.
+sourceRank retains the source list position; rank numbers the resulting deck.
+Full license: /flashcards-license.txt. Data: /flashcards-1000.json.

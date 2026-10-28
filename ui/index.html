@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f6f5f1">
+  <meta name="description" content="A little space to speak. A simple, one-button voice interface.">
+  <title>Voice</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="flashcards.css">
+  <link rel="stylesheet" href="mobile.css">
+<link rel="stylesheet" href="music.css">
+<link rel="stylesheet" href="journey.css">
+<link rel="stylesheet" href="language-menu.css">
+</head>
+<body>
+  <nav class="language-nav" aria-label="Learning language">
+    <button class="language-trigger" id="language-trigger" type="button" aria-label="Learning language: Russian" aria-haspopup="menu" aria-expanded="false" aria-controls="language-options"><span id="current-language">Russian</span><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="m4 6 4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <div class="language-options" id="language-options" role="menu" aria-label="Choose a learning language" hidden><button type="button" role="menuitemradio" aria-checked="true" data-language="ru"><span>Russian</span><small lang="ru">Русский</small></button><button type="button" role="menuitemradio" aria-checked="false" data-language="es"><span>Spanish</span><small lang="es">Español</small></button><p>A separate journey for each language.</p></div>
+  </nav><p class="language-notice" id="language-notice" role="status" hidden></p>
+  <nav class="mode-nav" aria-label="Practice mode">
+    <button class="mode-trigger" id="mode-trigger" type="button" aria-expanded="false" aria-controls="mode-options">
+      <span class="mode-dot" aria-hidden="true"></span><span id="current-mode">Talk</span>
+      <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="m4 6 4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <div class="mode-dropdown" id="mode-options" inert>
+      <div class="mode-options-inner" role="tablist" aria-label="Practice mode" aria-orientation="vertical">
+        <button class="mode-option" id="tab-talk" type="button" role="tab" aria-selected="true" aria-controls="panel-talk" data-mode="talk">Talk<span aria-hidden="true">●</span></button>
+        <button class="mode-option" id="tab-memorize" type="button" role="tab" aria-selected="false" aria-controls="panel-memorize" tabindex="-1" data-mode="memorize">Memorize<span aria-hidden="true">●</span></button>
+        <button class="mode-option" id="tab-listen" type="button" role="tab" aria-selected="false" aria-controls="panel-listen" tabindex="-1" data-mode="listen">Listen<span aria-hidden="true">●</span></button>
+        <button class="mode-option" id="tab-journey" type="button" role="tab" aria-selected="false" aria-controls="panel-journey" tabindex="-1" data-mode="journey">Journey<span aria-hidden="true">●</span></button>
+      </div>
+    </div>
+  </nav>
+  <button id="robot-button" type="button" aria-label="Open developer mode" title="Developer mode" aria-pressed="false">
+    <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+      <path d="M16 8V5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
+      <circle cx="16" cy="4" r="1.5" fill="currentColor"/>
+      <rect x="6" y="9" width="20" height="17" rx="5" stroke="currentColor" stroke-width="1.7"/>
+      <path d="M3 15v5M29 15v5M12 22h8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
+      <circle cx="12" cy="16" r="1.7" fill="currentColor"/><circle cx="20" cy="16" r="1.7" fill="currentColor"/>
+    </svg>
+  </button>
+  <main>
+    <section id="panel-talk" role="tabpanel" aria-labelledby="tab-talk">
+      <div class="lesson-preview"><p id="lesson-hint">Your Russian, growing with you.</p><button type="button" id="journey-open">Your journey →</button></div>
+      <div id="conversation" role="log" aria-label="Conversation transcript" aria-live="off" tabindex="0" hidden></div>
+      <audio id="voice-audio" autoplay playsinline></audio>
+      <button id="enable-audio" class="dev-button audio-enable" hidden>Tap to hear the teacher</button>
+      <button id="resume-microphone" class="dev-button audio-enable microphone-resume" type="button" hidden>Resume microphone</button>
+      <div class="mic-area">
+        <button id="microphone" type="button" aria-label="Turn microphone on" aria-pressed="false">
+          <svg viewBox="0 0 32 32" fill="none" aria-hidden="true"><rect x="12" y="4" width="8" height="15" rx="4" stroke="currentColor" stroke-width="1.7"/><path d="M8 14v2a8 8 0 0 0 16 0v-2M16 24v4M12 28h8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <button id="new-conversation" class="dev-button" hidden>New conversation</button>
+      <p id="status" class="voice-status" role="status"></p>
+      <p id="hint" class="sr-only">Your microphone is off</p>
+    </section>
+    <section id="panel-memorize" class="flashcards" role="tabpanel" aria-labelledby="tab-memorize" hidden>
+      
+      <label class="sr-only" for="memorize-deck">Vocabulary deck</label><select id="memorize-deck" class="music-select"><option value="common">1,000 common words</option><option value="album">MILLION DOLLAR: BUSINESS</option></select><div id="music-memorize" hidden></div><div id="common-deck">
+      <p id="fc-loading" role="status">Loading your flashcards…</p>
+      <div id="fc-content" hidden>
+        <div id="fc-study">
+          <div class="fc-card-wrap"><span id="fc-number"></span><button id="fc-card" class="fc-card" aria-label="Show answer"><span class="fc-face" id="fc-front-face"><span class="fc-language" id="fc-front-label"></span><span class="fc-term" id="fc-front"></span><span class="fc-flip-hint">Tap to flip ↻</span></span><span class="fc-face fc-back" id="fc-back-face" aria-hidden="true"><span class="fc-language" id="fc-back-label"></span><span class="fc-term" id="fc-back"></span><span class="fc-flip-hint">Tap to flip ↻</span></span></button></div>
+          <div class="fc-pagination"><button id="fc-previous" aria-label="Previous flashcard">←</button><span id="fc-position" aria-live="polite"></span><button id="fc-next" aria-label="Next flashcard">→</button></div>
+          <p id="fc-rating-note"></p><div class="fc-ratings" id="fc-ratings"><button id="fc-rate-1" >Again</button><button id="fc-rate-2" >Hard</button><button id="fc-rate-3" class="fc-primary">Good</button><button id="fc-rate-4" >Easy</button><button id="fc-familiar" aria-label="Already know it · 2 months">Known<small>2 months</small></button></div><p id="fc-familiar-note"></p>
+        </div>
+        <div id="fc-empty" hidden><h2 id="fc-empty-title"></h2><p id="fc-empty-copy"></p><button id="fc-restart" class="fc-primary">Check due cards</button><button id="fc-all">Browse the deck</button></div>
+        <div class="fc-footer"><button id="fc-resume" hidden>Back to reviews</button><button id="fc-direction">Russian → English</button><button id="fc-undo" disabled>↶ Undo</button></div>
+        <p class="fc-saved" id="fc-notice" role="status">FSRS reviews · 20 new words / day · saved to your account.</p>
+        <details class="fc-browse"><summary>Explore the words <span>1,000</span></summary><label class="sr-only" id="fc-search-label" for="fc-search">Search Russian or English</label><input id="fc-search" type="search" placeholder="Search Russian or English…"><div id="fc-words"></div><div class="fc-list-nav"><button id="fc-list-prev" aria-label="Previous words">←</button><span id="fc-list-count"></span><button id="fc-list-next" aria-label="More words">→</button></div></details>
+        <details class="fc-about"><summary>About this deck &amp; reviews</summary><p>Reviews use FSRS, the scheduler used by Anki, with a 90% target retention. Again means forgotten; Hard means recalled with effort; Good means recalled; Easy means effortless. Ratings set the next review date. “Already know it” sets a word aside for 60 days without inventing review history. You can find it in Explore the words or bring it back early; normal scheduling resumes after its next review. This app does not sync with Anki. <a href="https://docs.ankiweb.net/manual/deck-options#fsrs">About FSRS</a> · <a href="/vendor/ts-fsrs-LICENSE.txt">Scheduler license</a></p><div id="russian-deck-info"><p>A frequency-based starter deck, with common inflected forms and stress marks. A short meaning is a starting point; usage depends on context.</p><p>Frequency list: <a href="https://en.wiktionary.org/wiki/Appendix:Russian_Frequency_lists/1-1000">Wiktionary contributors</a>. Definitions and stress: <a href="https://en.openrussian.org/dictionary-data">OpenRussian</a>. Duplicates removed and selected definitions edited.</p><p><a href="/flashcards-1000.json" download>Download the deck</a> · <a href="/flashcards-sources.txt">Sources</a> · <a href="/flashcards-license.txt">CC BY-SA 4.0</a></p></div><div id="spanish-deck-info" hidden><p>An original set of 1,000 Spanish essentials, ordered for useful everyday learning. Includes natural accents and brief English meanings. Spanish varies across regions, and meanings depend on context.</p><p><a href="/flashcards-es-1000.json" download>Download the Spanish deck</a> · <a href="/spanish-content-notes.txt">About the content</a></p></div></details>
+      </div>
+    </div></section>
+    <section id="panel-listen" class="music-listen" role="tabpanel" aria-labelledby="tab-listen" hidden><div id="listening-content"><label class="sr-only" for="music-song">Song</label><div class="song-picker"><select id="music-song" class="music-select"><option value="">Whole album</option></select><svg class="song-picker-chevron" viewBox="0 0 16 16" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></div><audio id="music-player" hidden preload="none" data-source="/music/million-dollar-business.mp3"></audio><div class="music-transport" role="group" aria-label="Playback"><button id="music-previous" class="transport-skip" aria-label="Previous song" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5v14M19 5 8 12l11 7Z"/></svg></button><button id="music-toggle" class="transport-play" aria-label="Play" disabled><svg class="transport-play-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 11 7-11 7Z"/></svg><svg class="transport-pause-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg></button><button id="music-next" class="transport-skip" aria-label="Next song" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 5v14M5 5l11 7-11 7Z"/></svg></button></div><section id="music-transcript" aria-label="Song text"></section><details class="music-library"><summary>Words &amp; meanings</summary><div id="music-word-list"></div></details><p id="music-status" role="status"></p></div></section>
+    <section id="panel-journey" role="tabpanel" aria-labelledby="tab-journey" hidden>
+      <header class="journey-hero"><div><span class="journey-eyebrow" id="journey-language">YOUR RUSSIAN · A LIVING JOURNEY</span><h1>A little more fluent.<br>Every day.</h1><p id="journey-subtitle">A path shaped around you.</p><span class="journey-muted" id="journey-count"></span></div><div class="journey-level-stamp"><span>Working toward</span><strong id="journey-level">B1</strong><span>and beyond</span></div></header>
+      <div class="journey-next"><div><span class="journey-eyebrow" id="journey-session-length">YOUR NEXT CONVERSATION</span><h2 id="journey-focus-title">Finding your next step…</h2><p id="journey-focus-description"></p><p id="journey-focus-reason"></p><p id="journey-retrieval"></p></div><button type="button" id="journey-start" class="journey-button">Let’s practice ↗</button></div>
+      <div class="journey-history" id="journey-pending" hidden><p id="journey-pending-copy"></p><button type="button" class="journey-button" id="journey-pending-retry">Retry waiting reviews</button></div>
+      <div class="journey-recap" id="journey-recap" hidden><h2>From your last conversation</h2><p id="journey-recap-summary"></p><p id="journey-recap-next"></p></div>
+      <div class="journey-history" id="journey-history" hidden><p id="journey-history-copy"></p><button type="button" class="journey-button" id="journey-history-review">Learn from up to 5 past conversations</button><p class="journey-muted">Reviews your saved transcripts using your existing API connection. Keeps previous board results intact.</p></div>
+      <div class="journey-section-heading"><h2>From confidence to nuance.</h2><p>Six strands. Four chapters. Your own pace.</p></div><div id="journey-chapters" class="journey-chapters" aria-label="Learning chapters"></div><div id="journey-skills" class="journey-skills"></div>
+      <div class="journey-bottom-grid"><section style="text-align:left"><h2>What I remember</h2><p class="journey-muted">Useful details you’ve shared, with your words as evidence. “Don’t use this” removes a detail from teaching context; it doesn’t erase your saved transcript.</p><div id="journey-memories"></div></section><section style="text-align:left"><h2>Worth another try</h2><p class="journey-muted">Patterns to revisit gently, in a fresh context.</p><div id="journey-repairs"></div></section></div>
+      <details class="journey-profile"><summary>Make this journey yours</summary><form id="journey-form"><div class="journey-form-grid"><label class="wide"><span id="journey-goal-label">What do you want Russian to make possible?</span><textarea name="goal" rows="2" maxlength="500" placeholder="Conversations with friends, reading literature, working in Russian…"></textarea></label><label class="wide">Things you love talking about<textarea name="interests" rows="2" maxlength="500" placeholder="Film, travel, your work, everyday life…"></textarea></label><label>Time for a conversation<select name="minutes"><option value="10">10 minutes</option><option value="15" selected>15 minutes</option><option value="20">20 minutes</option><option value="30">30 minutes</option></select></label><label>How should I correct you?<select name="corrections"><option value="gentle">Gently · focus on meaning</option><option value="balanced" selected>Balanced · a few useful corrections</option><option value="precise">Precisely · explain the nuances</option></select></label></div><label class="journey-check"><input type="checkbox" name="memory" checked>Remember useful personal details from conversations</label><p class="journey-muted">You can pause personal memory while continuing to track language skills.</p><button class="journey-button" id="journey-save" type="submit">Save preferences</button></form></details>
+      <p class="journey-message" id="journey-message" role="status"></p><button type="button" class="journey-text-button" id="journey-retry">Refresh journey</button>
+      <div class="journey-method"><strong>Progress you can trace.</strong> An objective becomes established after independent evidence in at least three sessions, across two contexts and at least a day, with three recent independent attempts. A chapter advances when all six objectives are established. These are this app’s practice rules, inspired by <a href="https://www.coe.int/en/web/common-european-framework-reference-languages/table-3-cefr-3.3-common-reference-levels-qualitative-aspects-of-spoken-language-use" target="_blank" rel="noopener">CEFR spoken-language descriptors</a>. <span id="journey-method-language">This is a spoken Russian learning path, not a CEFR certificate.</span> Transcripts alone cannot establish pronunciation, real-time fluency, or reading and writing proficiency.</div>
+    </section>
+  </main>
+  <section id="developer" hidden aria-label="Developer learning boards">
+    <header class="dev-heading"><div><span class="dev-eyebrow">DEVELOPER MODE / LEARNING LAB</span><h1>Learning, in motion.</h1><p>Speaking skills, updated from completed conversations.</p></div><button class="dev-button" id="exit-dev">Back to practice ↗</button></header>
+    <div class="dev-strip"><span><b id="total-cards">0</b> cards</span><span><b id="due-cards">0</b> need practice</span><button class="dev-button" id="api-settings" type="button">API connection</button><span class="local-label">Saved to your account</span></div>
+    <details class="schedule-note"><summary>How progress works</summary><p id="progress-method">Talk updates after a completed conversation, using evidence from your answers. Each skill can move forward one column per session; skills needing help move back one column, no lower than Practicing. Uncertain skills stay unchanged. Review the reasons and undo updates in Session history. Memorize uses FSRS reviews. Listen saves which words you understand while listening to songs. Progress is saved to your account.</p></details><details class="session-history"><summary>Session history</summary><div id="session-history-list"></div></details>
+    <div id="topic-boards"></div><div id="learning-boards"></div>
+    <p id="board-notice" role="status" class="board-notice"></p>
+  </section>
+  <dialog id="card-dialog" aria-labelledby="card-dialog-title"><form id="card-form"><div class="dialog-heading"><h2 id="card-dialog-title">New card</h2><button type="button" class="dev-button" id="close-card" aria-label="Close card">×</button></div><label>Practice mode<select name="mode"><option value="talk">Talk</option></select></label><label>Word or practice prompt<input id="new-card-front" name="front" required maxlength="180" autocomplete="off" placeholder="например, рассказать о своём дне"></label><label>Meaning or answer<textarea name="back" required maxlength="600" rows="3" placeholder="Describe your day"></textarea></label><button class="dev-button primary" type="submit">Add card</button></form></dialog>
+  <dialog id="review-dialog" aria-labelledby="review-title"><div class="dialog-heading"><span class="dev-eyebrow" id="review-mode"></span><button class="dev-button" id="close-review" aria-label="Close review">×</button></div><h2 id="review-title"></h2><p id="review-due"></p><button class="dev-button" id="show-answer">Show answer</button><p id="review-answer" hidden></p><div id="review-ratings" hidden><button class="dev-button" id="rate-again">Again · 10 min</button><button class="dev-button primary" id="rate-good">Remembered</button></div><div class="review-tools"><label>Move to stage<select id="review-stage"></select></label><button class="dev-button" id="delete-card">Delete card</button></div></dialog>
+  <dialog id="api-dialog" aria-label="API key" aria-describedby="api-description">
+    <div class="dialog-heading"><button id="api-close" class="dev-button" type="button" aria-label="Close API setup">×</button></div>
+    <p id="api-description" hidden></p>
+    <form id="api-form" hidden>
+      <label for="api-key">API key<input id="api-key" type="password" name="api-key" placeholder="sk-…" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="1003" required></label>
+      <p class="api-help">Kept encrypted for four hours. Never saved in browser local storage. Sent to OpenAI only to verify and use the API.</p>
+      <div class="api-actions"><button class="dev-button primary" id="api-submit" type="submit">Verify key</button><button class="dev-button" id="api-cancel" type="button">Not now</button></div>
+    </form>
+    <p id="api-message" role="alert"></p>
+    <div class="api-actions"><button class="dev-button primary" id="api-retry" type="button" hidden>Try again</button><button class="dev-button primary" id="api-done" type="button" hidden>Done</button><button class="dev-button" id="api-forget" type="button" hidden>Forget key</button></div>
+  </dialog>
+  <script src="api-connection.js"></script>
+  <script type="module" src="journey.js"></script>
+  <script type="module" src="app.js"></script>
+  <script src="navigation.js"></script>
+  <script type="module" src="flashcards.js"></script>
+  <script type="module" src="boards.js"></script><script type="module" src="topic-board.js"></script><script type="module" src="language-menu.js"></script>
+<aside id="cloud-sync" class="cloud-sync" role="status" hidden><span id="cloud-sync-message"></span><button id="cloud-sync-retry" type="button">Retry sync</button></aside>
+</body>
+</html>

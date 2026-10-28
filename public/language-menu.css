@@ -1,0 +1,11 @@
+.language-nav{position:fixed;top:max(24px,env(safe-area-inset-top));left:max(24px,env(safe-area-inset-left));z-index:15;text-align:left}
+.language-trigger{height:48px;display:flex;align-items:center;gap:10px;padding:0 17px;border:1px solid #d8c9b9;border-radius:26px;color:#865043;background:#f9f5ed;box-shadow:0 3px 12px #7568590d;font:600 13px system-ui;cursor:pointer}
+.language-trigger svg{width:14px;height:14px}.language-trigger:hover{background:#fffaf2}.language-trigger:disabled{opacity:.65;cursor:wait}
+.language-options{margin-top:9px;width:222px;padding:8px;background:#fffcf7;border:1px solid #e0d3c5;border-radius:18px;box-shadow:0 15px 35px #4d34251f}
+.language-options[hidden]{display:none}.language-options button{display:flex;align-items:center;justify-content:space-between;width:100%;padding:13px 14px;min-height:48px;border:0;border-radius:11px;background:none;text-align:left;color:#514237;font:500 14px system-ui;cursor:pointer}
+.language-options button:hover,.language-options button:focus-visible{background:#f6ede2}.language-options button[aria-checked=true]{background:#f2e3d4;color:#9e3c30}.language-options small{font-size:12px;opacity:.7}
+.language-options p{font:11px/1.5 system-ui;color:#8a7766;margin:10px 12px 8px}.language-trigger:focus-visible,.language-options button:focus-visible{outline:2px solid #ad5b46;outline-offset:3px}
+.language-notice{position:fixed;z-index:30;top:85px;left:max(24px,env(safe-area-inset-left));width:min(320px,calc(100vw - 48px));font:13px/1.6 system-ui;color:#743b2d;border:1px solid #dec7b3;background:#fff7e9;padding:14px 17px;border-radius:12px;box-shadow:0 8px 22px #6d493019}
+.language-changing main,.language-changing .mode-nav,.language-changing #robot-button{pointer-events:none;opacity:.7}
+@media(max-width:600px){.language-nav{top:calc(16px + env(safe-area-inset-top));left:max(12px,env(safe-area-inset-left))}.language-trigger{height:44px;padding:0 11px;gap:7px;font-size:12px}.mode-nav{width:130px}.mode-trigger{padding:0 13px;gap:7px}.language-notice{top:76px;left:12px}}
+@media(max-width:350px){.language-trigger{padding:0 9px;gap:5px}.mode-nav{width:108px;left:50%}.mode-trigger{padding:0 9px;font-size:12px;gap:5px}}

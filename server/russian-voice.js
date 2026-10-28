@@ -1,0 +1,4 @@
+export const russianVoicePrompt = "A bright, bubbly, cute and warm adult feminine voice for a friendly Russian language tutor. Sound unmistakably adult, with a naturally light medium-high pitch, a clear softly rounded timbre, a smile in the voice, lively melodic intonation, and gentle playful enthusiasm. Be affectionate in tone, approachable and encouraging, never shrill, squeaky, exaggerated, childish or cartoonish. Speak Russian with native standard Russian pronunciation and natural Russian rhythm, without an English accent. Keep diction clear and the pace slightly slower than everyday conversation for an adult intermediate learner, with comfortable natural pauses. When switching briefly to English for explanations, keep the same warm, cheerful voice identity.";
+
+// Created once with the app's OpenAI project on 2026-10-16. Reuse across sessions.
+export const russianVoiceId = 'voice_6ad289d96a788191a6b442f44383631d';

@@ -1,4 +1,5 @@
 import {languageApi} from './languages.js';
+import {LessonDirector} from './lesson-director.js';
 export class LiveVoice {
   constructor({ media = navigator.mediaDevices, peer = () => new RTCPeerConnection(), request = (...args) => fetch(...args), onState = () => {}, onEvent = () => {}, onAudio = () => {}, timers = globalThis, isBackground = () => !!globalThis.document?.hidden } = {}) {
     Object.assign(this, { media, peer, request, onState, onEvent, onAudio, timers, isBackground });
@@ -11,6 +12,7 @@ export class LiveVoice {
   cleanup(ctx) {
     if (this.current !== ctx) return;
     this.current = null;
+    void ctx.director?.close();
     for (const timer of ctx.timers) this.timers.clearTimeout(timer);
     ctx.stream?.getTracks().forEach(track => track.stop());
     ctx.channel?.close(); ctx.pc?.close(); this.onAudio(null);
@@ -84,6 +86,7 @@ export class LiveVoice {
       ctx.channel.addEventListener('message', message => {
         if (this.current !== ctx) return;
         let event; try { event = JSON.parse(message.data); } catch { return; }
+        ctx.director?.handle(event);
         if (event.type === 'session.started') {
           ctx.started = true;
           ctx.id = event.session?.id || ctx.id;
@@ -128,6 +131,7 @@ export class LiveVoice {
       if (!response.ok) { this.fail(ctx, result.error || 'Couldn’t start voice.', !!result.incomplete); return; }
       if (typeof result.session?.id !== 'string' || typeof result.transport?.sdp !== 'string') throw new Error('The voice response was incomplete.');
       ctx.id = result.session.id;
+      if(result.director)ctx.director=new LessonDirector({sessionId:ctx.id,context,request:this.request,timers:this.timers,send:event=>{if(this.current===ctx&&!ctx.closing&&ctx.channel.readyState==='open')ctx.channel.send(JSON.stringify(event));},onStatus:status=>this.onEvent({type:'director.status',status})});
       await pc.setRemoteDescription({ type: 'answer', sdp: result.transport.sdp });
       if (this.current === ctx && !ctx.started) ctx.startupTimer = this.after(ctx, 20000, () => this.fail(ctx, 'The voice session did not finish connecting.'));
       // HTTP already started the session. Never resend startup configuration.
@@ -150,6 +154,7 @@ export class LiveVoice {
     const ctx = this.current;
     if (!ctx || ctx.closing) return;
     ctx.closing = true;
+    void ctx.director?.close();
     // Stop sending microphone audio immediately, while still draining the final
     // transcript and session.closed event over the existing transport.
     ctx.stream?.getAudioTracks().forEach(track => { track.enabled = false; });

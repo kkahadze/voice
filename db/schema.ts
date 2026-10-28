@@ -20,3 +20,17 @@ export const learningVersions = sqliteTable('learning_versions', {
   userId: text('user_id').primaryKey(),
   revision: integer('revision').notNull().default(0),
 });
+
+// Server-only orchestration state. Never part of browser learning-record sync.
+export const lessonDirectors = sqliteTable('lesson_directors', {
+  userId: text('user_id').notNull(),
+  liveId: text('live_id').notNull(),
+  agentId: text('agent_id'),
+  instructions: text('instructions').notNull(),
+  status: text('status').notNull().default('idle'),
+  revision: integer('revision').notNull().default(0),
+  delegationId: text('delegation_id'),
+  result: text('result'),
+  calls: integer('calls').notNull().default(0),
+  createdAt: integer('created_at').notNull(),
+}, table => [primaryKey({columns: [table.userId, table.liveId]})]);

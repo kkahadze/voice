@@ -1,3 +1,4 @@
+import {directorEnabled,registerDirector} from './lesson-director.js';
 import {requestLanguage,learningUserId} from './language.js';
 import {curriculaForLanguage} from './curricula.js';
 import {targetsForLanguage,levels} from '../public/journey-core.js';
@@ -38,8 +39,11 @@ export async function createLiveSession(request, env, { fetcher = fetch } = {}) 
   if(body.language!==undefined&&body.language!==language)return json({error:'This conversation belongs to another language.'},400);
   let config;try { config=withConversationContext(configForMode(body.mode||'talk',body.lessonId,body.topicId,language),body.context,language); } catch { return json({error:'Choose a valid practice mode and listening exercise.'},400); }
   if(!env.DB)return json({error:'Your learning profile is unavailable. Please retry shortly.'},503);
+  const useDirector=directorEnabled(env);
+  const directorInstructions=config.delegation.responses.instructions;
   let plan;
   try {
+    if(useDirector)await env.DB.prepare('SELECT live_id FROM lesson_directors LIMIT 0').all();
     const journey=await readJourney(env.DB,userId,language);
     plan={...makePlan(journey,body.topicId,body.targetId),language,mode:body.mode||'talk',at:Date.now()};
     if(body.mode==='listen'){
@@ -51,6 +55,7 @@ export async function createLiveSession(request, env, { fetcher = fetch } = {}) 
     const adaptive=tutorInstructions(journey,plan);
     config={...config,instructions:config.instructions+adaptive,delegation:{...config.delegation,responses:{...config.delegation.responses,instructions:config.delegation.responses.instructions+adaptive}}};
   }catch{return json({error:'Could not load your learning profile. Please retry.'},503);}
+  if(useDirector)config={...config,delegation:{type:'client'}};
   const credential = await resolveCredential(request, env, userId);
   if (!credential) return json({ error: 'Add your API key to start talking.', code: 'key_required' }, 401);
 
@@ -77,7 +82,7 @@ export async function createLiveSession(request, env, { fetcher = fetch } = {}) 
   if (typeof result?.session?.id !== 'string' || !result.session.id || typeof result?.transport?.sdp !== 'string' || !result.transport.sdp.startsWith('v=0')) {
     return json({ error: 'The voice connection response was incomplete. Finalization could not be confirmed.', incomplete: true }, 502);
   }
-  try{await writeRecords(env.DB,storageUser,{id:'plan:'+result.session.id,mode:'update',changes:[{namespace:'adaptive',id:'plan:'+result.session.id,value:plan}]});}catch{return json({error:'Could not save the lesson plan. Please reconnect.'},503);}
+  try{if(useDirector)await registerDirector(env.DB,storageUser,result.session.id,directorInstructions);await writeRecords(env.DB,storageUser,{id:'plan:'+result.session.id,mode:'update',changes:[{namespace:'adaptive',id:'plan:'+result.session.id,value:plan}]});}catch{return json({error:'Could not save the lesson plan. Please reconnect.'},503);}
   // Return only negotiation data; no credentials or full provider payloads.
-  return json({ session: { id: result.session.id }, transport: { type: 'webrtc', sdp: result.transport.sdp } }, 201);
+  return json({ ...(useDirector?{director:true}:{}),session: { id: result.session.id }, transport: { type: 'webrtc', sdp: result.transport.sdp } }, 201);
 }

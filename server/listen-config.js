@@ -1,6 +1,6 @@
 import {liveConfigForLanguage} from './live-config.js';
 import {curriculaForLanguage} from './curricula.js';
-export function configForMode(mode='talk',lessonId,topicId,language='ru'){
+function modeConfig(mode='talk',lessonId,topicId,language='ru'){
  const liveConfig=liveConfigForLanguage(language);
  const {listen:listenCurriculum,topics:topicCurriculum}=curriculaForLanguage(language);
  if(!['talk','listen'].includes(mode))throw Error('Invalid mode');
@@ -19,4 +19,11 @@ export function configForMode(mode='talk',lessonId,topicId,language='ru'){
  if(lessonId&&!lesson)throw Error('Invalid lesson');
  if(!lesson&&!topic)throw Error('Invalid lesson');
  return {...liveConfig,instructions:liveConfig.instructions+preference+`\n\nСейчас режим аудирования. Ориентируйся на рабочий уровень из адаптивного профиля. Начни с короткого приветствия и предложи послушать короткую историю на тему «${lesson?.topic||topic.ru}». Когда ученик готов, прочитай текст естественно и чётко, затем задай один простой вопрос. Не сообщай правильный ответ до самостоятельной попытки ученика. По просьбе повтори текст. После ответа дай короткую обратную связь. Если ученик попросит другую тему, создай новый рассказ рабочего уровня ученика на эту тему и задай вопрос по его содержанию. Продолжай аудирование, а не обычный разговор о дне.\nЗадание: ${lesson?.front||topic.question}\nТекст для чтения: ${lesson?.script||topic.script}\nОтвет для проверки (не читать заранее): ${lesson?.answer||topic.answer}`};
+}
+
+export function configForMode(mode='talk',lessonId,topicId,language='ru'){
+ const config=modeConfig(mode,lessonId,topicId,language);
+ const base=liveConfigForLanguage(language);
+ const lessonContext=config.instructions.slice(base.instructions.length);
+ return {...config,delegation:{...config.delegation,responses:{...config.delegation.responses,instructions:config.delegation.responses.instructions+lessonContext}}};
 }

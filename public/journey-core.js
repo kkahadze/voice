@@ -104,6 +104,7 @@ export function buildJourney(records,now=Date.now(),language='ru') {
  const retrieval=due.filter(s=>s.id!==focus.id).sort((a,b)=>a.due-b.due)[0]||null;
  const last=reviewed.at(-1);
  return {language,settings,current,chapters,skills,focus,retrieval,memories:[...memories.values()].slice(-24),repairs:[...repairs.values()].sort((a,b)=>b.at-a.at).slice(0,8),reviewedSessions:reviewed.length,
+  recentDiscussions:reviewed.slice(-5).reverse().map(s=>({at:s.at,context:s.assessment.learning.context,summary:String(s.summary||'').slice(0,500),nextStep:String(s.assessment.learning.nextStep||'').slice(0,300)})),
   pendingHistory:sessions.filter(s=>s.transcript?.some(t=>t.speaker==='user')&&!s.assessment?.learning).length,
   lastReview:last?{at:last.at,summary:last.summary,nextStep:last.assessment.learning.nextStep,sessionId:last.id}:null,
   pendingReviews:records.filter(r=>r.namespace==='sessions'&&['pending','failed'].includes(r.value?.status)&&!r.value.incomplete&&r.value.transcript?.some(t=>t.speaker==='user')).map(r=>({id:r.id,at:r.value.at})),

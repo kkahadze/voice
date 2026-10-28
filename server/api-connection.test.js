@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { randomBytes } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 import { Miniflare, Response as WorkerResponse } from 'miniflare';
 import { handleConnection, resolveCredential } from './api-connection.js';
 
@@ -102,6 +103,7 @@ test('key verification works in the Worker runtime and never follows redirects',
   const source = await readFile(new URL('./api-connection.js', import.meta.url), 'utf8');
   const worker = new Miniflare({
     modules: true,
+    scriptPath: fileURLToPath(new URL('./api-connection.js', import.meta.url)),
     compatibilityDate: '2026-05-15',
     bindings: env,
     outboundService: req => {

@@ -107,3 +107,14 @@ test('a completed review changes the saved profile and the next tutor session, u
  const next=await createLiveSession(req('/api/live/session','POST',{sdp}),env,{fetcher:async(url,options)=>{instructions=JSON.parse(options.body).session.instructions;return Response.json({session:{id:'adaptive-next'},transport:{sdp}});}});
  assert.equal(next.status,201);assert.match(instructions,/Wants to finish important work/);assert.match(instructions,/Make everyday grammar reliable/);
 });
+test('recent discussion context is bounded, excludes undone work, and does not promote mastery',()=>{
+ const records=Array.from({length:8},(_,i)=>{const r=session('recent'+i,base+i*day,'B1-interaction');r.value.summary='Film discussion '+i+'x'.repeat(600);return r;});
+ records[7].value.status='undone';
+ const journey=buildJourney(records,base+9*day);
+ assert.equal(journey.recentDiscussions.length,5);
+ assert.equal(journey.recentDiscussions[0].at,base+6*day);
+ assert.ok(journey.recentDiscussions.every(s=>s.summary.length<=500));
+ assert.equal(journey.skills[0].mastered,false);
+ const prompt=tutorInstructions(journey,makePlan(journey));
+ assert.ok(prompt.includes('Film discussion 6'));assert.ok(!prompt.includes('Film discussion 7'));
+});
